@@ -2,6 +2,7 @@ function Footer() {
   return (
     <footer>
       <p>
+        <a href="/">Home</a> |{' '}
         <a href="https://github.com/siebentod/apoliteia">
           AP Github{' '}
           <i
