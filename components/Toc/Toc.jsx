@@ -3,6 +3,7 @@ import TocContent from './TocContent';
 import CloseButton from './CloseButton';
 import UncheckButton from './UncheckButton';
 // import TocButton from './TocButton';
+import { useDrag } from './useDrag';
 
 function Toc({
   dataObject,
@@ -12,6 +13,9 @@ function Toc({
 }) {
   const tocDisplay = useRef(null);
   const [tocShown, setTocShown] = useState(false);
+  const { position, handleMouseDown } = useDrag({
+    ref: tocDisplay,
+  });
 
   useEffect(() => {
     const isMobile = window.matchMedia('(max-width: 767px)').matches;
@@ -94,8 +98,15 @@ function Toc({
       {dataObject.styleSpecial !== 'angleToc' && (
         <>
           {!tocShown && <TocButton />}
-          <div className="commontoc" ref={tocDisplay}>
-            <div className="toc__buttons">
+          <div
+            className="commontoc"
+            ref={tocDisplay}
+            style={{
+              top: position.y,
+              left: position.x,
+            }}
+          >
+            <div className="toc__buttons" onMouseDown={handleMouseDown}>
               <CloseButton onClick={onClose} />
               {dataObject.hasContents === 'collapsible' && (
                 <UncheckButton onClick={handleCheckAll} />
