@@ -115,19 +115,29 @@ function TextChronology() {
     <div className="home__plato__chronology home__plato__layout">
       <ul>
         <h3>I</h3>
-        <li>Апология</li>
+        <li>
+          <a href="/plato-apologia">Апология</a>
+        </li>
         <li>
           <a href="/plato-crito">Критон</a>
         </li>
-        <li>Хармид</li>
+        <li>
+          <a href="/plato-charmides">Хармид</a>
+        </li>
         <li>
           <a href="/plato-alcibiades">Алкивиад I</a>
         </li>
-        <li>Евтидем</li>
-        <li>Евтифрон</li>
+        <li>
+          <a href="/plato-euthydemus">Евтидем</a>
+        </li>
+        <li>
+          <a href="/plato-euthyphro">Евтифрон</a>
+        </li>
         <li>[Гиппий Больший]</li>
         <li>Гиппий Меньший</li>
-        <li>Ион</li>
+        <li>
+          <a href="/plato-ion">Ион</a>
+        </li>
         <li>Лахет</li>
         <li>Лисий</li>
         <li>Менексен</li>
@@ -147,7 +157,9 @@ function TextChronology() {
         <li>
           <a href="/plato-phaedo">Федон</a>
         </li>
-        <li>Протагор</li>
+        <li>
+          <a href="/plato-protagoras">Протагор</a>
+        </li>
         <li>
           <a href="/plato-symposium">Пир</a>
         </li>
@@ -189,8 +201,12 @@ function TextTetralogy() {
   return (
     <div className="home__plato__tetralogy home__plato__layout">
       <h3 className="left-top">I</h3>
-      <li>Евтифрон, или О благочестии</li>
-      <li>Апология Сократа</li>
+      <li>
+        <a href="/plato-euthyphro">Евтифрон, или О благочестии</a>
+      </li>
+      <li>
+        <a href="/plato-apologia">Апология Сократа</a>
+      </li>
       <li>
         <a href="/plato-crito">Критон, или О должном</a>
       </li>
@@ -236,15 +252,21 @@ function TextTetralogy() {
 
       <h3 className="border-right">V</h3>
       <li className="border-right">Феаг, или О философии</li>
-      <li className="border-right">Хармид, или Об умеренности</li>
+      <li className="border-right">
+        <a href="/plato-charmides">Хармид, или Об умеренности</a>
+      </li>
       <li className="border-right">Лахет, или О мужестве</li>
       <li className="border-right border-bottom left-bottom right-bottom">
         Лисий, или О дружбе
       </li>
 
       <h3 className="border-right right-top">VI</h3>
-      <li className="border-right">Евфидем, или Спорщик</li>
-      <li className="border-right">Протагор, или Софисты</li>
+      <li className="border-right">
+        <a href="/plato-euthydemus">Евфидем, или Спорщик</a>
+      </li>
+      <li className="border-right">
+        <a href="/plato-protagoras">Протагор, или Софисты</a>
+      </li>
       <li className="border-right">
         <a href="/plato-gorgias">Горгий, или О риторике</a>
       </li>
@@ -255,7 +277,9 @@ function TextTetralogy() {
       <h3 className="border-right">VII</h3>
       <li className="border-right">Гиппий первый или О прекрасном</li>
       <li className="border-right">Гиппий второй или О должном</li>
-      <li className="border-right">Ион, или об Илиаде</li>
+      <li className="border-right">
+        <a href="/plato-ion">Ион, или об Илиаде</a>
+      </li>
       <li className="border-right">Менексен, или Надгробное слово</li>
 
       <h3 className="border-right">VIII</h3>

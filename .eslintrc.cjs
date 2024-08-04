@@ -1,6 +1,10 @@
 module.exports = {
   rules: {
-    'react-refresh/only-export-components': 'warn'
+    'react-refresh/only-export-components': 'warn',
+    'react/prop-types': 'off',
+    'react/no-unescaped-entities': 'off',
+    'react/display-name': 'off',
+    'no-unescaped-entities': 'off',
   },
   reportUnusedDisableDirectives: true,
   ignorePatterns: ['dist/*'],
@@ -12,6 +16,6 @@ module.exports = {
     'eslint:recommended',
     'plugin:react/recommended',
     'plugin:react/jsx-runtime',
-    'plugin:react-hooks/recommended'
-  ]
-}
+    'plugin:react-hooks/recommended',
+  ],
+};
