@@ -172,6 +172,7 @@
     .toc__translations {
       display: flex;
       gap: 2px;
+      width: 99% !important;
       @media (max-width: 470px) {
         text-align: center;
         gap: 1px;

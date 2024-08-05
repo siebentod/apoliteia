@@ -1,32 +1,33 @@
 // https://vike.dev/onRenderClient
-export { onRenderClient }
+export { onRenderClient };
 
-import ReactDOM from 'react-dom/client'
-import { getPageTitle } from './getPageTitle'
+import ReactDOM from 'react-dom/client';
+import { getPageTitle } from './getPageTitle';
 import './toc.scss';
 import './text.scss';
 
-let root
+let root;
 function onRenderClient(pageContext) {
-  const { Page } = pageContext
+  const { Page } = pageContext;
 
   // This onRenderClient() hook only supports SSR, see https://vike.dev/render-modes for how to modify onRenderClient()
   // to support SPA
-  if (!Page) throw new Error('My onRenderClient() hook expects pageContext.Page to be defined')
+  if (!Page)
+    throw new Error(
+      'My onRenderClient() hook expects pageContext.Page to be defined'
+    );
 
-  const container = document.getElementById('react-root')
-  if (!container) throw new Error('DOM element #react-root not found')
+  const container = document.getElementById('react-root');
+  if (!container) throw new Error('DOM element #react-root not found');
 
-  const page = (
-      <Page />
-  )
+  const page = <Page />;
   if (pageContext.isHydration) {
-    root = ReactDOM.hydrateRoot(container, page)
+    root = ReactDOM.hydrateRoot(container, page);
   } else {
     if (!root) {
-      root = ReactDOM.createRoot(container)
+      root = ReactDOM.createRoot(container);
     }
-    root.render(page)
+    root.render(page);
   }
-  document.title = getPageTitle(pageContext)
+  document.title = getPageTitle(pageContext);
 }

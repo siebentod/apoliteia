@@ -39,8 +39,6 @@ export default function Page() {
             <li>
               <a href="/parmenides">Парменид, О природе</a>
             </li>
-            <br />
-
             <li>
               <a href="/aristotle-metaphysica">Аристотель, Метафизика</a>
             </li>
@@ -55,8 +53,12 @@ export default function Page() {
             <br />
 
             <li>
+              <a href="/oedipus-tyrannos">Софокл, Царь Эдип</a>
+            </li>
+            <li>
               <a href="/horace">Гораций, Оды</a>
             </li>
+            <br />
             <li>
               <a href="/levana">Де Квинси, Левана и Богородицы Скорби</a>
             </li>

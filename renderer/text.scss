@@ -21,7 +21,7 @@ body {
   //   max-width: 98dvw;
   // }
 
-  main:not(.noBorders, .verses) p {
+  main:not(.mainNoBorders, .mainVerses) p {
     text-indent: 3% each-line;
   }
 
@@ -67,7 +67,10 @@ body {
 
     &.center {
       margin: auto !important;
-      max-width: 95% !important;
+      max-width: 1200px;
+      @media (max-width: 1400px) {
+        max-width: 95%;
+      }
     }
 
     p {
@@ -196,7 +199,7 @@ body {
     }
 
     .verses {
-      white-space: pre-line;
+      white-space: pre-line !important;
     }
 
     .spanIndented {
@@ -228,6 +231,10 @@ body {
       text-align: center;
       padding: 1px 0px;
       font-weight: bold;
+      // width: fit-content;
+      // max-width: 70%;
+      // padding: 0px 7dvw;
+      // justify-self: center;
     }
 
     .spanHeading2:not(span + *) {
@@ -300,7 +307,7 @@ body {
     }
     @supports (-webkit-appearance: none) {
       .annoContent {
-        padding: 6px;
+        padding: 6px 12px;
       }
     }
 
@@ -410,10 +417,14 @@ body {
   }
 }
 
-.verses {
+.mainVerses {
   margin-left: 22dvw !important;
   margin-right: 15dvw !important;
 
+  @media (min-width: 1400px) {
+    margin: auto !important;
+    max-width: 950px !important;
+  }
   @media (max-width: 955px) {
     margin-left: 10dvw !important;
     margin-right: 5dvw !important;
@@ -424,9 +435,15 @@ body {
   }
 }
 
-.noBorders {
-  margin-left: 18dvw !important;
-  margin-right: 12dvw !important;
+.mainNoBorders {
+  margin-left: 19dvw !important;
+  margin-right: 13dvw !important;
+  max-width: 800px !important;
+
+  @media (min-width: 1400px) {
+    margin: auto !important;
+    max-width: 800px !important;
+  }
 
   @media (max-width: 955px) {
     margin-left: 6dvw !important;
@@ -437,12 +454,17 @@ body {
     margin-right: 0 !important;
   }
 
-  p:not(:has(+ h1, + h2, + h3, + h4, + h5)) {
+  p:not(:has(+ h1, + h2, + h3, + h4, + h5)):not(.spanHeading, .spanHeading2) {
     margin-bottom: 0 !important;
     border-bottom: none !important;
     line-height: calc(1.2em + 0.01dvw);
   }
 }
 
-// main:has(* .noBorders) {
-// }
+.commonRow {
+  grid-row: 1 !important;
+  grid-column: 1 / span 2 !important;
+  max-width: 400px;
+  justify-self: center;
+  margin: auto;
+}

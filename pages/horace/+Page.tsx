@@ -19,7 +19,7 @@ const dataObject: PageClass = {
   translationsToc: [''],
 
   columnsRelation: 47,
-  styleSpecial: 'verses',
+  styleSpecial: 'mainVerses',
 
   isNumbered: false,
   isTocHidden: false,
