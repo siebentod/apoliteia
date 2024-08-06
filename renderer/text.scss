@@ -436,9 +436,8 @@ body {
 }
 
 .mainNoBorders {
-  margin-left: 19dvw !important;
-  margin-right: 13dvw !important;
-  max-width: 800px !important;
+  margin-left: 25dvw !important;
+  margin-right: 14dvw !important;
 
   @media (min-width: 1400px) {
     margin: auto !important;
@@ -462,9 +461,7 @@ body {
 }
 
 .commonRow {
-  grid-row: 1 !important;
   grid-column: 1 / span 2 !important;
   max-width: 400px;
-  justify-self: center;
-  margin: auto;
+  margin-left: 14%;
 }
