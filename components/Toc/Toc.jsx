@@ -4,6 +4,7 @@ import CloseButton from './CloseButton';
 import UncheckButton from './UncheckButton';
 // import TocButton from './TocButton';
 import { useDrag } from './useDrag';
+import TocTranslations from './TocTranslations';
 
 function Toc({
   dataObject,
@@ -113,34 +114,38 @@ function Toc({
               )}
             </div>
             <TocContent
-              dataObject={dataObject}
-              TextToc={TextToc}
-              setCurrentTranslation={setCurrentTranslation}
-              currentTranslation={currentTranslation}
-              flags={dataObject.flags}
-              translationsCount={dataObject.translations.length}
-              translationTitles={dataObject.translationsToc}
               styleSpecial={dataObject.styleSpecial}
-              translationType={dataObject.translationType}
               hasContents={dataObject.hasContents}
-            />
+              TextToc={TextToc}
+            >
+              <TocTranslations
+                setCurrentTranslation={setCurrentTranslation}
+                currentTranslation={currentTranslation}
+                flags={dataObject.flags}
+                translationsCount={dataObject.translations.length}
+                translationTitles={dataObject.translationsToc}
+                translationType={dataObject.translationType}
+              />
+            </TocContent>
           </div>
         </>
       )}
       {dataObject.styleSpecial === 'angleToc' && (
         <div className="tocPanel angleToc_toc" ref={tocDisplay}>
           <TocContent
-            dataObject={dataObject}
-            TextToc={TextToc}
-            setCurrentTranslation={setCurrentTranslation}
-            currentTranslation={currentTranslation}
-            flags={dataObject.flags}
-            translationsCount={dataObject.translations.length}
-            translationTitles={dataObject.translationsToc}
             styleSpecial={dataObject.styleSpecial}
-            translationType={dataObject.translationType}
             hasContents={dataObject.hasContents}
-          />
+            TextToc={TextToc}
+          >
+            <TocTranslations
+              setCurrentTranslation={setCurrentTranslation}
+              currentTranslation={currentTranslation}
+              flags={dataObject.flags}
+              translationsCount={dataObject.translations.length}
+              translationTitles={dataObject.translationsToc}
+              translationType={dataObject.translationType}
+            />
+          </TocContent>
         </div>
       )}
     </>
