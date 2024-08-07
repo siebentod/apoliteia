@@ -89,7 +89,7 @@ function TocContent({
     <>
       <div
         className="toc"
-        id="tocContent"
+        id="tocPanel__toc"
         style={{
           ...(typeof styleSpecial === 'string' &&
             styleSpecial.includes('smallToc') && {
@@ -116,7 +116,7 @@ function TocContent({
             translationTitles={translationTitles}
           />
         )}
-        <div className="toc__toc">{hasContents && TextToc}</div>
+        <div className="toc__contents">{hasContents && TextToc}</div>
       </div>
     </>
   );

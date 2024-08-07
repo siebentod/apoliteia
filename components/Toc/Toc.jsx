@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef, useLayoutEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import TocContent from './TocContent';
 import CloseButton from './CloseButton';
 import UncheckButton from './UncheckButton';
@@ -99,14 +99,14 @@ function Toc({
         <>
           {!tocShown && <TocButton />}
           <div
-            className="commontoc"
+            className="tocPanel"
             ref={tocDisplay}
             style={{
               top: position.y,
               left: position.x,
             }}
           >
-            <div className="toc__buttons" onMouseDown={handleMouseDown}>
+            <div className="tocPanel__bar" onMouseDown={handleMouseDown}>
               <CloseButton onClick={onClose} />
               {dataObject.hasContents === 'collapsible' && (
                 <UncheckButton onClick={handleCheckAll} />
@@ -128,7 +128,7 @@ function Toc({
         </>
       )}
       {dataObject.styleSpecial === 'angleToc' && (
-        <div className="commontoc angleToc_toc" ref={tocDisplay}>
+        <div className="tocPanel angleToc_toc" ref={tocDisplay}>
           <TocContent
             dataObject={dataObject}
             TextToc={TextToc}

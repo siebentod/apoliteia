@@ -30,84 +30,89 @@ export default function Page() {
           <p>Библиотека параллельных текстов</p>
         </div>
       </div>
-      <div className="home__main">
-        <section>
-          <ul className="links1">
-            <li>
-              <a href="/heraclitus">Гераклит, Фрагменты</a>
-            </li>
-            <li>
-              <a href="/parmenides">Парменид, О природе</a>
-            </li>
-            <li>
-              <a href="/aristotle-metaphysica">Аристотель, Метафизика</a>
-            </li>
-            <br />
+      <div className="home__container">
+        <div className="home__main">
+          <section>
+            <ul className="links1">
+              <li>
+                <a href="/heraclitus">Гераклит, Фрагменты</a>
+              </li>
+              <li>
+                <a href="/parmenides">Парменид, О природе</a>
+              </li>
+              <li>
+                <a href="/aristotle-metaphysica">Аристотель, Метафизика</a>
+              </li>
+              <br />
 
-            <li>
-              <a href="/wer-denkt-abstract">Гегель, Кто мыслит абстрактно?</a>
-            </li>
-            <li>
-              <a href="/zarathustra">Ницше, Так говорил Заратустра</a>
-            </li>
-            <br />
+              <li>
+                <a href="/wer-denkt-abstract">Гегель, Кто мыслит абстрактно?</a>
+              </li>
+              <li>
+                <a href="/zarathustra">Ницше, Так говорил Заратустра</a>
+              </li>
+              <br />
 
-            <li>
-              <a href="/oedipus-tyrannos">Софокл, Царь Эдип</a>
-            </li>
-            <li>
-              <a href="/horace">Гораций, Оды</a>
-            </li>
-            <br />
-            <li>
-              <a href="/levana">Де Квинси, Левана и Богородицы Скорби</a>
-            </li>
-            <li>
-              <a href="/une-saison-en-enfer">Рембо, Одно лето в аду</a>
-            </li>
-            <li>
-              <a href="/illuminations">Рембо, Озарения</a>
-            </li>
-            <li>
-              <a href="/laertios-plato">Д. Лаэртский, Платон</a>
-            </li>
-          </ul>
+              <li>
+                <a href="/ilias">Гомер, Илиада</a>
+              </li>
+              <li>
+                <a href="/oedipus-tyrannos">Софокл, Царь Эдип</a>
+              </li>
+              <li>
+                <a href="/horace">Гораций, Оды</a>
+              </li>
+              <br />
+              <li>
+                <a href="/levana">Де Квинси, Левана и Богородицы Скорби</a>
+              </li>
+              <li>
+                <a href="/une-saison-en-enfer">Рембо, Одно лето в аду</a>
+              </li>
+              <li>
+                <a href="/illuminations">Рембо, Озарения</a>
+              </li>
+              <li>
+                <a href="/laertios-plato">Д. Лаэртский, Платон</a>
+              </li>
+            </ul>
 
-          <div id="platoSection">
-            <div id="platoSection__buttons">
-              <button
-                className={`${
-                  plato.type === TextIamblichus ? 'chosen' : null
-                } buttonPlato`}
-                onClick={() => handlePlatoButton(<TextIamblichus />)}
-              >
-                «Канон Ямвлиха»
-              </button>
-              <button
-                className={`${
-                  plato.type === TextChronology ? 'chosen' : null
-                } buttonPlato`}
-                onClick={() => handlePlatoButton(<TextChronology />)}
-              >
-                ~Хронология
-              </button>
-              <button
-                className={`${
-                  plato.type === TextTetralogy && 'chosen'
-                } buttonPlato`}
-                onClick={() => handlePlatoButton(<TextTetralogy />)}
-              >
-                Тетралогии
-              </button>
+            <div id="platoSection">
+              <div id="platoSection__buttons">
+                <button
+                  className={`${
+                    plato.type === TextIamblichus ? 'chosen' : null
+                  } buttonPlato`}
+                  onClick={() => handlePlatoButton(<TextIamblichus />)}
+                >
+                  «Канон Ямвлиха»
+                </button>
+                <button
+                  className={`${
+                    plato.type === TextChronology ? 'chosen' : null
+                  } buttonPlato`}
+                  onClick={() => handlePlatoButton(<TextChronology />)}
+                >
+                  ~Хронология
+                </button>
+                <button
+                  className={`${
+                    plato.type === TextTetralogy && 'chosen'
+                  } buttonPlato`}
+                  onClick={() => handlePlatoButton(<TextTetralogy />)}
+                >
+                  Тетралогии
+                </button>
+              </div>
+              {plato}
             </div>
-            {plato}
-          </div>
-        </section>
+          </section>
+        </div>
+        <footer>
+          <a href="https://github.com/siebentod/apoliteia">AP Github</a> |{' '}
+          <a href="/about">About</a>
+        </footer>
       </div>
-      <footer>
-        <a href="https://github.com/siebentod/apoliteia">AP Github</a> |{' '}
-        <a href="/about">About</a>
-      </footer>
     </div>
   );
 }

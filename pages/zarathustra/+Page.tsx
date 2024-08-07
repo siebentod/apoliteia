@@ -27,7 +27,7 @@ const dataObject: PageClass = {
   styleSpecial: false,
 
   isNumbered: false,
-  isTocHidden: true,
+  isTocHidden: false,
   isJumpNeeded: true,
 
   hasContents: 'collapsible',

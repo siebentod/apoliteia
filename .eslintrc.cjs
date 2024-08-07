@@ -5,6 +5,7 @@ module.exports = {
     'react/no-unescaped-entities': 'off',
     'react/display-name': 'off',
     'no-unescaped-entities': 'off',
+    'react/jsx-no-comment-textnodes': 'off',
   },
   reportUnusedDisableDirectives: true,
   ignorePatterns: ['dist/*'],

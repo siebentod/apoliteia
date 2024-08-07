@@ -1,4 +1,5 @@
 import Column from './Column';
+import React, { Suspense } from 'react';
 
 function Main({
   columnsRelation,
@@ -8,6 +9,19 @@ function Main({
   TextNumbers,
   TextTranslation,
 }) {
+  const DynamicComponentLoader = (componentName) => {
+    if (!(componentName instanceof Promise)) {
+      return componentName;
+    }
+    const Component = React.lazy(() => componentName);
+
+    return (
+      <Suspense fallback={<div>Loading...</div>}>
+        <Component />
+      </Suspense>
+    );
+  };
+
   return (
     <>
       <main
@@ -28,7 +42,7 @@ function Main({
           </Column>
         )}
         <Column key="column3" columnProp="endOfColumn2">
-          {TextTranslation}
+          {DynamicComponentLoader(TextTranslation)}
         </Column>
       </main>
     </>

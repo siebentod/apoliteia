@@ -20,7 +20,7 @@ const dataObject: PageClass = {
   translationsToc: ['Ф.Ф. Зелинский', 'С.В. Шервинский'],
 
   columnsRelation: 50,
-  styleSpecial: 'mainNoBorders',
+  styleSpecial: 'mainNoBorders_narrow',
 
   isNumbered: false,
   isTocHidden: false,

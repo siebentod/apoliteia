@@ -19,7 +19,7 @@ const dataObject: PageClass = {
   translationsToc: [''],
 
   columnsRelation: 49,
-  styleSpecial: 'mainNoBorders',
+  styleSpecial: 'mainNoBorders_wide',
 
   isNumbered: false,
   isTocHidden: false,

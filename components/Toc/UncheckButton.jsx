@@ -1,5 +1,5 @@
 const UncheckButton = ({ onClick }) => (
-  <button className="toc__buttons__handleAll toc__button" onClick={onClick}>
+  <button className="tocPanel__bar__handleAll toc__button" onClick={onClick}>
     <svg
       width="800px"
       height="800px"
