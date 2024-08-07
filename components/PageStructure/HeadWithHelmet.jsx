@@ -1,22 +1,20 @@
 import { Helmet } from 'react-helmet';
 
-function HeadWithHelmet(props) {
-  const headerTranslation = props.dataObject.translations[
-    props.currentTranslation
-  ]
-    ? props.dataObject.translations[props.currentTranslation]
-    : props.dataObject.pageDescription;
+function HeadWithHelmet({ dataObject, currentTranslation }) {
+  const headerTranslation = dataObject.translations[currentTranslation]
+    ? dataObject.translations[currentTranslation]
+    : dataObject.pageDescription;
 
   return (
     <>
       <Helmet>
-        <title>{props.dataObject.pageTitle}</title>
-        <meta name="description" content={props.dataObject.pageDescription} />
-        <meta name="keywords" content={props.dataObject.pageKeywords} />
+        <title>{dataObject.pageTitle}</title>
+        <meta name="description" content={dataObject.pageDescription} />
+        <meta name="keywords" content={dataObject.pageKeywords} />
       </Helmet>
       <header>
         <div id="titleAndAuthor">
-          <h1 className="header__title">{props.dataObject.pageHeader}</h1>
+          <h1 className="header__title">{dataObject.pageHeader}</h1>
           <p className="header__translator">{headerTranslation}</p>
         </div>
         <h1 className="header__ap">
