@@ -138,19 +138,19 @@ function TextChronology() {
           <a href="/platon/apologia">Апология</a>
         </li>
         <li>
-          <a href="/platon/crito">Критон</a>
+          <a href="/platon/kriton">Критон</a>
         </li>
         <li>
           <a href="/platon/charmides">Хармид</a>
         </li>
         <li>
-          <a href="/platon/alcibiades">Алкивиад I</a>
+          <a href="/platon/alkibiades">Алкивиад I</a>
         </li>
         <li>
-          <a href="/platon/euthydemus">Евтидем</a>
+          <a href="/platon/euthydemos">Евтидем</a>
         </li>
         <li>
-          <a href="/platon/euthyphro">Евтифрон</a>
+          <a href="/platon/euthyphron">Евтифрон</a>
         </li>
         <li>[Гиппий Больший]</li>
         <li>Гиппий Меньший</li>
@@ -161,7 +161,7 @@ function TextChronology() {
         <li>Лисий</li>
         <li>Менексен</li>
         <li>
-          <a href="/platon/cratylus">Кратил</a>
+          <a href="/platon/kratylos">Кратил</a>
         </li>
         <li>
           <a href="/platon/gorgias">Горгий</a>
@@ -171,10 +171,10 @@ function TextChronology() {
       <ul style={{ gridColumn: 2 }}>
         <h3>II</h3>
         <li>
-          <a href="/platon/meno">Менон</a>
+          <a href="/platon/menon">Менон</a>
         </li>
         <li>
-          <a href="/platon/phaedo">Федон</a>
+          <a href="/platon/phaidon">Федон</a>
         </li>
         <li>
           <a href="/platon/protagoras">Протагор</a>
@@ -183,7 +183,7 @@ function TextChronology() {
           <a href="/platon/symposion">Пир</a>
         </li>
         <li>
-          <a href="/platon/phaedrus">Федр</a>
+          <a href="/platon/phaidros">Федр</a>
         </li>
         <li>
           <a href="/platon/politeia">Государство</a>
@@ -192,7 +192,7 @@ function TextChronology() {
           <a href="/platon/parmenides">Парменид</a>
         </li>
         <li style={{ marginBottom: '5px' }}>
-          <a href="/platon/theaetetus">Теэтет</a>
+          <a href="/platon/theaitetos">Теэтет</a>
         </li>
         <h3>III</h3>
         <li>
@@ -202,13 +202,13 @@ function TextChronology() {
           <a href="/platon/politikos">Политик</a>
         </li>
         <li>
-          <a href="/platon/philebus">Филеб</a>
+          <a href="/platon/philebos">Филеб</a>
         </li>
         <li>
-          <a href="/platon/timaeus">Тимей</a>
+          <a href="/platon/timaios">Тимей</a>
         </li>
         <li>
-          <a href="/platon/critias">Критий</a>
+          <a href="/platon/kritias">Критий</a>
         </li>
         <li>Законы</li>
       </ul>
@@ -221,24 +221,24 @@ function TextTetralogy() {
     <div className="home__plato__tetralogy home__plato__layout">
       <h3 className="left-top">I</h3>
       <li>
-        <a href="/platon/euthyphro">Евтифрон, или О благочестии</a>
+        <a href="/platon/euthyphron">Евтифрон, или О благочестии</a>
       </li>
       <li>
         <a href="/platon/apologia">Апология Сократа</a>
       </li>
       <li>
-        <a href="/platon/crito">Критон, или О должном</a>
+        <a href="/platon/kriton">Критон, или О должном</a>
       </li>
       <li>
-        <a href="/platon/phaedo">Федон, или О душе</a>
+        <a href="/platon/phaidon">Федон, или О душе</a>
       </li>
 
       <h3>II</h3>
       <li>
-        <a href="/platon/cratylus">Кратил, или О правильности имен</a>
+        <a href="/platon/kratylos">Кратил, или О правильности имен</a>
       </li>
       <li>
-        <a href="/platon/theaetetus">Теэтет, или О знании</a>
+        <a href="/platon/theaitetos">Теэтет, или О знании</a>
       </li>
       <li>
         <a href="/platon/sophistes">Софист, или О сущем</a>
@@ -252,18 +252,18 @@ function TextTetralogy() {
         <a href="/platon/parmenides">Парменид, или Об идеях</a>
       </li>
       <li>
-        <a href="/platon/philebus">Филеб, или О наслаждении</a>
+        <a href="/platon/philebos">Филеб, или О наслаждении</a>
       </li>
       <li>
         <a href="/platon/symposion">Пир, или О благе</a>
       </li>
       <li>
-        <a href="/platon/phaedrus">Федр, или О любви</a>
+        <a href="/platon/phaidros">Федр, или О любви</a>
       </li>
 
       <h3>IV</h3>
       <li>
-        <a href="/platon/alcibiades">Алкивиад Первый</a>
+        <a href="/platon/alkibiades">Алкивиад Первый</a>
       </li>
       <li>Алкивиад Второй, или О молитве</li>
       <li>Гиппарх, или Сребролюбец</li>
@@ -281,7 +281,7 @@ function TextTetralogy() {
 
       <h3 className="border-right right-top">VI</h3>
       <li className="border-right">
-        <a href="/platon/euthydemus">Евфидем, или Спорщик</a>
+        <a href="/platon/euthydemos">Евфидем, или Спорщик</a>
       </li>
       <li className="border-right">
         <a href="/platon/protagoras">Протагор, или Софисты</a>
@@ -290,7 +290,7 @@ function TextTetralogy() {
         <a href="/platon/gorgias">Горгий, или О риторике</a>
       </li>
       <li className="border-right">
-        <a href="/platon/meno">Менон, или О добродетели</a>
+        <a href="/platon/menon">Менон, или О добродетели</a>
       </li>
 
       <h3 className="border-right">VII</h3>
@@ -307,10 +307,10 @@ function TextTetralogy() {
         <a href="/platon/politeia">Государство, или О справедливости</a>
       </li>
       <li className="border-right">
-        <a href="/platon/timaeus">Тимей, или О природе</a>
+        <a href="/platon/timaios">Тимей, или О природе</a>
       </li>
       <li className="border-right">
-        <a href="/platon/critias">Критий, или Атлантида</a>
+        <a href="/platon/kritias">Критий, или Атлантида</a>
       </li>
 
       <h3 className="border-right">IX</h3>
@@ -331,16 +331,16 @@ function TextIamblichus() {
     <div className="home__plato__iamblichus home__plato__layout">
       <ul>
         <li>
-          <b>I.</b> <a href="/platon/alcibiades">Алкивиад I</a> – введение в
+          <b>I.</b> <a href="/platon/alkibiades">Алкивиад I</a> – введение в
           философию, «о&nbsp;познании самого себя»
         </li>
         <li>
           <b>II.</b> <a href="/platon/gorgias">Горгий</a> и{' '}
-          <a href="/platon/phaedo">Федон</a> – «этические» диалоги
+          <a href="/platon/phaidon">Федон</a> – «этические» диалоги
         </li>
         <li>
-          <b>III.</b> <a href="/platon/cratylus">Кратил</a> и{' '}
-          <a href="/platon/theaetetus">Теэтет</a> – «логические»
+          <b>III.</b> <a href="/platon/kratylos">Кратил</a> и{' '}
+          <a href="/platon/theaitetos">Теэтет</a> – «логические»
         </li>
         <li>
           <b>IV.</b> <a href="/platon/sophistes">Софист</a> и{' '}
@@ -348,14 +348,14 @@ function TextIamblichus() {
         </li>
         <li>
           <b>V.</b> <a href="/platon/symposion">Пир</a> и{' '}
-          <a href="/platon/phaedrus">Федр</a> – «теологические»
+          <a href="/platon/phaidros">Федр</a> – «теологические»
         </li>
         <li>
-          <b>VI.</b> <a href="/platon/timaeus">Тимей</a> (о чувственном) и{' '}
+          <b>VI.</b> <a href="/platon/timaios">Тимей</a> (о чувственном) и{' '}
           <a href="/platon/parmenides">Парменид</a> (о&nbsp;сверхчувственном)
         </li>
         <li>
-          <b>VII.</b> <a href="/platon/philebus">Филеб</a> – о благе-первоначале
+          <b>VII.</b> <a href="/platon/philebos">Филеб</a> – о благе-первоначале
         </li>
       </ul>
     </div>
