@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { useState } from 'react';
 import './_styles/home.scss';
+import Head from 'next/head';
 
 export default function Page() {
   const [plato, setPlato] = useState(<TextChronology />);
@@ -12,120 +13,128 @@ export default function Page() {
   }
 
   return (
-    <div id="home">
-      <div className="home__header">
-        <div className="TitleAndDescription">
-          <h1>
-            <a href="https://github.com/siebentod/apoliteia">APOLITEIA</a>
-          </h1>
-          <p>Библиотека параллельных текстов</p>
+    <>
+      <Head>
+        <meta name="description" content="Библиотека параллельных текстов" />
+        <meta name="yandex-verification" content="37b716297936c20a" />
+      </Head>
+      <div id="home">
+        <div className="home__header">
+          <div className="TitleAndDescription">
+            <h1>
+              <a href="https://github.com/siebentod/apoliteia">APOLITEIA</a>
+            </h1>
+            <p>Библиотека параллельных текстов</p>
+          </div>
         </div>
-      </div>
-      <div className="home__container">
-        <div className="home__main">
-          <section>
-            <ul className="links1">
-              <li>
-                <a href="/heraclitus">Гераклит, Фрагменты</a>
-              </li>
-              <li>
-                <a href="/parmenides">Парменид, О природе</a>
-              </li>
-              <li>
-                <a href="/aristotle-metaphysica">Аристотель, Метафизика</a>
-              </li>
-              <br />
+        <div className="home__container">
+          <div className="home__main">
+            <section>
+              <ul className="links1">
+                <li>
+                  <a href="/heraclitus">Гераклит, Фрагменты</a>
+                </li>
+                <li>
+                  <a href="/parmenides">Парменид, О природе</a>
+                </li>
+                <li>
+                  <a href="/aristotle-metaphysica">Аристотель, Метафизика</a>
+                </li>
+                <br />
 
-              <li>
-                <a href="/monadologie">Лейбниц, Монадология</a>
-              </li>
-              <li>
-                <a href="/wer-denkt-abstract">Гегель, Кто мыслит абстрактно?</a>
-              </li>
-              <br />
-              <li>
-                <a href="/nietzsche/gaya-scienza">
-                  Ницше, Веселая наука (1882, 1887)
-                </a>
-              </li>
-              <li>
-                <a href="/nietzsche/zarathustra">
-                  Ницше, Так говорил Заратустра (1883-1885)
-                </a>
-              </li>
-              <li>
-                <a href="/nietzsche/jenseits-von-gut-und-boese">
-                  Ницше, По ту сторону добра и зла (1886)
-                </a>
-              </li>
-              <li>
-                <a href="/nietzsche/goetzen-daemmerung">
-                  Ницше, Сумерки идолов (1888)
-                </a>
-              </li>
-              <br />
+                <li>
+                  <a href="/monadologie">Лейбниц, Монадология</a>
+                </li>
+                <li>
+                  <a href="/wer-denkt-abstract">
+                    Гегель, Кто мыслит абстрактно?
+                  </a>
+                </li>
+                <br />
+                <li>
+                  <a href="/nietzsche/gaya-scienza">
+                    Ницше, Веселая наука (1882, 1887)
+                  </a>
+                </li>
+                <li>
+                  <a href="/nietzsche/zarathustra">
+                    Ницше, Так говорил Заратустра (1883-1885)
+                  </a>
+                </li>
+                <li>
+                  <a href="/nietzsche/jenseits-von-gut-und-boese">
+                    Ницше, По ту сторону добра и зла (1886)
+                  </a>
+                </li>
+                <li>
+                  <a href="/nietzsche/goetzen-daemmerung">
+                    Ницше, Сумерки идолов (1888)
+                  </a>
+                </li>
+                <br />
 
-              <li>
-                <a href="/ilias">Гомер, Илиада</a>
-              </li>
-              <li>
-                <a href="/oedipus-tyrannos">Софокл, Царь Эдип</a>
-              </li>
-              <li>
-                <a href="/horace">Гораций, Оды</a>
-              </li>
-              <br />
-              <li>
-                <a href="/levana">Де Квинси, Левана и Богородицы Скорби</a>
-              </li>
-              <li>
-                <a href="/une-saison-en-enfer">Рембо, Одно лето в аду</a>
-              </li>
-              <li>
-                <a href="/illuminations">Рембо, Озарения</a>
-              </li>
-              <li>
-                <a href="/laertios-plato">Д. Лаэртский, Платон</a>
-              </li>
-            </ul>
+                <li>
+                  <a href="/ilias">Гомер, Илиада</a>
+                </li>
+                <li>
+                  <a href="/oedipus-tyrannos">Софокл, Царь Эдип</a>
+                </li>
+                <li>
+                  <a href="/horace">Гораций, Оды</a>
+                </li>
+                <br />
+                <li>
+                  <a href="/levana">Де Квинси, Левана и Богородицы Скорби</a>
+                </li>
+                <li>
+                  <a href="/une-saison-en-enfer">Рембо, Одно лето в аду</a>
+                </li>
+                <li>
+                  <a href="/illuminations">Рембо, Озарения</a>
+                </li>
+                <li>
+                  <a href="/laertios-plato">Д. Лаэртский, Платон</a>
+                </li>
+              </ul>
 
-            <div id="platoSection">
-              <div id="platoSection__buttons">
-                <button
-                  className={`${
-                    plato.type === TextIamblichus ? 'chosen' : null
-                  } buttonPlato`}
-                  onClick={() => handlePlatoButton(<TextIamblichus />)}
-                >
-                  «Канон Ямвлиха»
-                </button>
-                <button
-                  className={`${
-                    plato.type === TextChronology ? 'chosen' : null
-                  } buttonPlato`}
-                  onClick={() => handlePlatoButton(<TextChronology />)}
-                >
-                  ~Хронология
-                </button>
-                <button
-                  className={`${
-                    plato.type === TextTetralogy && 'chosen'
-                  } buttonPlato`}
-                  onClick={() => handlePlatoButton(<TextTetralogy />)}
-                >
-                  Тетралогии
-                </button>
+              <div id="platoSection">
+                <div id="platoSection__buttons">
+                  <button
+                    className={`${
+                      plato.type === TextIamblichus ? 'chosen' : null
+                    } buttonPlato`}
+                    onClick={() => handlePlatoButton(<TextIamblichus />)}
+                  >
+                    «Канон Ямвлиха»
+                  </button>
+                  <button
+                    className={`${
+                      plato.type === TextChronology ? 'chosen' : null
+                    } buttonPlato`}
+                    onClick={() => handlePlatoButton(<TextChronology />)}
+                  >
+                    ~Хронология
+                  </button>
+                  <button
+                    className={`${
+                      plato.type === TextTetralogy && 'chosen'
+                    } buttonPlato`}
+                    onClick={() => handlePlatoButton(<TextTetralogy />)}
+                  >
+                    Тетралогии
+                  </button>
+                </div>
+                {plato}
               </div>
-              {plato}
-            </div>
-          </section>
+            </section>
+          </div>
+          <footer>
+            <Link href="/about">About</Link> |{' '}
+            <a href="https://github.com/siebentod">Github</a>
+          </footer>
         </div>
-        <footer>
-          <Link href="/about">About</Link> |{' '}
-          <a href="https://github.com/siebentod">Github</a>
-        </footer>
       </div>
-    </div>
+    </>
   );
 }
 
