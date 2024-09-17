@@ -3,7 +3,7 @@
 import Translation from './Translation';
 import { usePageStore } from '../store';
 
-function Column3({ id, translations, textObject, children }) {
+function Column3({ id, translations, textObject }) {
   const transChanged = usePageStore((state) => state.transChanged);
 
   return (
@@ -15,7 +15,7 @@ function Column3({ id, translations, textObject, children }) {
           textObject={textObject}
         />
       ) : (
-        children
+        textObject[0]
       )}
       <p key="column3" className="endOfColumn endOfColumn2"></p>
     </>

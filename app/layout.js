@@ -1,3 +1,5 @@
+import { SpeedInsights } from '@vercel/speed-insights/next';
+
 export const metadata = {
   title: {
     template: '%s | Apoliteia',
@@ -10,7 +12,10 @@ export default function RootLayout({ children }) {
   return (
     <html lang="ru">
       <meta name="yandex-verification" content="f166de87a9ccfa08" />
-      <body>{children}</body>
+      <body>
+        {children}
+        <SpeedInsights />
+      </body>
     </html>
   );
 }
