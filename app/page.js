@@ -3,7 +3,6 @@
 import Link from 'next/link';
 import { useState } from 'react';
 import './_styles/home.scss';
-import Head from 'next/head';
 
 export default function Page() {
   const [plato, setPlato] = useState(<TextChronology />);
@@ -14,10 +13,6 @@ export default function Page() {
 
   return (
     <>
-      <Head>
-        <meta name="description" content="Библиотека параллельных текстов" />
-        <meta name="yandex-verification" content="37b716297936c20a" />
-      </Head>
       <div id="home">
         <div className="home__header">
           <div className="TitleAndDescription">
