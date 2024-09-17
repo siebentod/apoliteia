@@ -3,6 +3,7 @@ export const metadata = {
     template: '%s | Apoliteia',
     default: 'Apoliteia | Библиотека параллельных текстов',
   },
+  description: 'Библиотека параллельных текстов',
 };
 
 export default function RootLayout({ children }) {
