@@ -9,7 +9,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="ru">
-      <meta name="yandex-verification" content="37b716297936c20a" />
+      <meta name="yandex-verification" content="f166de87a9ccfa08" />
       <body>{children}</body>
     </html>
   );
