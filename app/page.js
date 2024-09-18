@@ -52,9 +52,9 @@ export default function Page() {
                   </a>
                 </li>
                 <li>
-                  <a href="/nietzsche/zarathustra">
+                  <Link href="/nietzsche/zarathustra">
                     Ницше, Так говорил Заратустра (1883-1885)
-                  </a>
+                  </Link>
                 </li>
                 <li>
                   <a href="/nietzsche/jenseits-von-gut-und-boese">
