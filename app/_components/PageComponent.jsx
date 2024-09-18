@@ -51,7 +51,9 @@ function PageComponent({ dataObject, tocObject, styleObject, textObject }) {
             id={dataObject.id}
             translations={tocObject.translationsInToc}
             textObject={textObject}
-          />
+          >
+            {textObject[0]}
+          </Column3>
         </Main>
         <Footer />
       </div>
