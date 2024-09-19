@@ -71,6 +71,7 @@ body {
       line-height: 0.8;
       letter-spacing: 0.01ch;
       text-align: center;
+      user-select: none;
 
       @media (max-width: 500px) {
         font-size: 18px;

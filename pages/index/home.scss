@@ -32,6 +32,7 @@ body {
   .home__header {
     background-color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     padding-top: 4.5dvh;
@@ -67,6 +68,7 @@ body {
       line-height: 0.8;
       letter-spacing: 0.01ch;
       text-align: center;
+      user-select: none;
 
       @media (max-width: 500px) {
         font-size: 18px;
