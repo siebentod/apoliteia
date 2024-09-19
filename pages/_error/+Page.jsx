@@ -27,7 +27,7 @@ function Page() {
         style={{ textAlign: 'center', color: 'grey' }}
       >
         <p>
-          Вернуться на <a href="/">Главную станицу</a>
+          Вернуться на <a href="/">Главную страницу</a>
         </p>
       </div>
     </div>
