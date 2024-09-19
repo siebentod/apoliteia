@@ -6,6 +6,7 @@ import BlockTranslations from './Toc/BlockTranslations';
 import BlockPreferences from './Toc/BlockPreferences';
 import BlockContents from './Toc/BlockContents';
 import Column3 from './PageStructure/Column3';
+import DefaultTranslation from './PageStructure/DefaultTranslation';
 import '../_styles/text.scss';
 import { Suspense } from 'react';
 
@@ -48,13 +49,15 @@ function PageComponent({ dataObject, tocObject, styleObject, textObject }) {
               {textObject.TextNumbers}
             </Column>
           )}
-          <Suspense fallback={textObject[0]}>
+          <Suspense
+            fallback={<DefaultTranslation defaultTranslation={textObject[0]} />}
+          >
             <Column3
               id={dataObject.id}
               translations={tocObject.translationsInToc}
               textObject={textObject}
             >
-              {textObject[0]}
+              <DefaultTranslation defaultTranslation={textObject[0]} />
             </Column3>
           </Suspense>
         </Main>

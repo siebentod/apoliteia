@@ -37,6 +37,7 @@ function Translation({ id, translations, textObject }) {
       <>
         <Spinner />
         {textObject[0]}
+        <p key="column3" className="endOfColumn endOfColumn2"></p>
       </>
     );
   }
@@ -44,6 +45,7 @@ function Translation({ id, translations, textObject }) {
   return (
     <>
       <LoadedTranslation />
+      <p key="column3" className="endOfColumn endOfColumn2"></p>
     </>
   );
 }
