@@ -32,12 +32,10 @@ export default function Page() {
         </h2>
         <a href="https://pay.cloudtips.ru/p/573f6bb3">
           <img src={qrCode} style={{ width: '20dvw', height: '20dvw' }} />
-        </a>
-        <p style={{ marginTop: '5px', marginBottom: '5px' }}>
-          <a href="https://pay.cloudtips.ru/p/573f6bb3">
+          <p style={{ marginTop: '1px', marginBottom: '5px' }}>
             https://pay.cloudtips.ru/p/573f6bb3
-          </a>
-        </p>
+          </p>
+        </a>
         <LiCollapsible title="Прямой номер">
           <span>4276 1300 1766 7498</span>
         </LiCollapsible>
