@@ -1,2 +1,3 @@
-# Next.js + Zustand
+# React + Vite + Vike
+
 Hallo Hinterwelt
