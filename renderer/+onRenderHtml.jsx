@@ -26,6 +26,7 @@ function onRenderHtml(pageContext) {
     pageContext.data?.description ||
     pageContext.config.description ||
     'Библиотека параллельных текстов';
+  const keywords = pageContext.config.keywords;
 
   const documentHtml = escapeInject`<!DOCTYPE html>
     <html lang="en">
@@ -33,8 +34,10 @@ function onRenderHtml(pageContext) {
         <meta charset="UTF-8" />
         <link rel="icon" href="${logoUrl}" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="google-site-verification" content="yW0UNzfYP4wvVQU3xSXJO6QesaQccZ8FrrLVKo7xvtg" />
+        <meta name="google-site-verification" content="E3269djp9asyzFke4WoFQPQChqwPsB2HJLEyOkvp1Q0" />
+        <meta name="yandex-verification" content="f166de87a9ccfa08" />
         <meta name="description" content="${desc}" />
+        <meta name="keywords" content="${keywords}" />
         <title>${title}</title>
       </head>
       <body>

@@ -1,5 +1,3 @@
-export { Page };
-
 import React from 'react';
 import PageComponent from './../../components/PageComponent';
 import { dataClass, tocClass, styleClass } from './../../renderer/types';
@@ -59,3 +57,5 @@ function Page() {
     />
   );
 }
+
+export default Page;

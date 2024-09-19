@@ -12,6 +12,9 @@ export default {
     description: {
       env: { server: true },
     },
+    keywords: {
+      env: { server: true },
+    },
   },
   hydrationCanBeAborted: true,
 };

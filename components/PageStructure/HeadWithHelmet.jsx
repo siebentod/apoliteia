@@ -1,11 +1,7 @@
-import { Helmet } from 'react-helmet';
-
 function HeadWithHelmet({
   currentTranslation,
   translationsInHeader,
   pageDescription,
-  pageTitle,
-  pageKeywords,
   pageHeader,
 }) {
   const headerTranslation = translationsInHeader[currentTranslation]
@@ -14,11 +10,6 @@ function HeadWithHelmet({
 
   return (
     <>
-      <Helmet>
-        <title>{pageTitle}</title>
-        <meta name="description" content={pageDescription} />
-        <meta name="keywords" content={pageKeywords} />
-      </Helmet>
       <header>
         <div id="titleAndAuthor">
           <h1 className="header__title">{pageHeader}</h1>
