@@ -49,7 +49,7 @@ export default {
     react(),
     vike({ prerender: true }),
     Sitemap({
-      hostname: 'https://apoliteia.vercel.app/',
+      hostname: 'https://apoliteia.ru/',
       dynamicRoutes,
       outDir: './dist/client',
       generateRobotsTxt: true,
