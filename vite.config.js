@@ -10,7 +10,6 @@ const dynamicRoutes = [
   '/horace',
   '/ilias',
   '/illuminations',
-  '/index',
   '/jenseits-von-gut-und-boese',
   '/laertios-plato',
   '/levana',
