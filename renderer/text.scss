@@ -216,10 +216,10 @@ body {
     .spanHeading {
       background-color: #111213;
       color: white;
-      border: 1px solid rgb(15, 15, 15);
-      border-radius: 5px;
+      // border: 1px solid rgb(15, 15, 15);
+      // border-radius: 5px;
       text-align: center;
-      padding: 1px 0px;
+      // padding: 1px 0px;
       display: block;
       font-weight: bold;
     }
@@ -227,10 +227,10 @@ body {
     .spanHeading2 {
       display: block;
       background-color: #dee3ed;
-      border: 1px ridge rgb(15, 15, 15);
-      border-radius: 5px;
+      // border: 1px ridge rgb(15, 15, 15);
+      // border-radius: 5px;
       text-align: center;
-      padding: 1px 0px;
+      // padding: 1px 0px;
       font-weight: bold;
       // width: fit-content;
       // max-width: 70%;
@@ -244,12 +244,12 @@ body {
 
     .spanHeading + span {
       border-top: none;
-      border-radius: 0 0 5px 5px;
-      padding: 0;
+      // border-radius: 0 0 5px 5px;
+      // padding: 0;
     }
 
     .spanHeading:has(+ .spanHeading2) {
-      border-radius: 5px 5px 0 0;
+      // border-radius: 5px 5px 0 0;
     }
 
     .spanHeading:not(:first-child) {
