@@ -6,9 +6,7 @@
     "preview": "vite build && vite preview",
     "server:dev": "node ./server",
     "server:prod": "cross-env NODE_ENV=production node ./server",
-    "lint": "eslint . --max-warnings 0",
-    "storybook": "cross-env NODE_ENV=storybook storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "lint": "eslint . --max-warnings 0"
   },
   "dependencies": {
     "@vitejs/plugin-react": "^4.2.1",
@@ -16,8 +14,7 @@
     "eslint": "^8.55.0",
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "eslint-plugin-react-refresh": "^0.4.5",
-    "express": "^4.18.2",
+    "express": "^4.21.0",
     "inquirer": "^10.1.6",
     "node-fetch": "^3.3.2",
     "prop-types": "15.8.1",
@@ -33,17 +30,7 @@
   },
   "type": "module",
   "devDependencies": {
-    "@chromatic-com/storybook": "^1.6.1",
-    "@storybook/addon-essentials": "^8.2.8",
-    "@storybook/addon-interactions": "^8.2.8",
-    "@storybook/addon-links": "^8.2.8",
-    "@storybook/addon-onboarding": "^8.2.8",
-    "@storybook/blocks": "^8.2.8",
-    "@storybook/react": "^8.2.8",
-    "@storybook/react-vite": "^8.2.8",
-    "@storybook/test": "^8.2.8",
     "cross-env": "^7.0.3",
-    "eslint-plugin-storybook": "^0.8.0",
-    "storybook": "^8.2.8"
+    "eslint-plugin-react-refresh": "^0.4.12"
   }
 }

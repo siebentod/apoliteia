@@ -26,7 +26,7 @@ export default function Page() {
           <a href="mailto:siebentod@mail.ru">siebentod@mail.ru</a>
         </p>
         <h2 style={{ color: 'white', marginBottom: '10px' }}>
-          Поделиться чаем с библиотекарем
+          Жертвоприношение
           {/* Подарить чай библиотекарю */}
           {/* Пожаловать библиотекарю чай */}
         </h2>
