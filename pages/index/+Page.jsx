@@ -53,6 +53,11 @@ export default function Page() {
               </li>
               <br />
               <li>
+                <a href="/schopenhauer-als-erzieher">
+                  Ницше, Шопенгауэр как воспитатель (1874)
+                </a>
+              </li>
+              <li>
                 <a href="/gaya-scienza">Ницше, Веселая наука (1882, 1887)</a>
               </li>
               <li>
