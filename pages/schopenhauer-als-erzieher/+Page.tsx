@@ -7,12 +7,12 @@ import SchopenhauerAlsErzieher1 from './../../text/SchopenhauerAlsErzieher/Schop
 
 const dataObject: dataClass = {
   id: 'SchopenhauerAlsErzieher',
-  pageTitle: 'Ницше, Шопенгауэр как воспитатель',
+  pageTitle: 'Шопенгауэр как воспитатель, Ф. Ницше',
   pageDescription:
     '«Шопенгауэр как воспитатель» Ницше на немецком и на русском (Несвоевременные размышления)',
   pageKeywords:
     'Читать, Оригинал, Текст, Философия, Билингва, Параллельный, Перевод, Немецкий, Несвоевременные размышления',
-  pageHeader: 'Ницше, Шопенгауэр как воспитатель',
+  pageHeader: 'Ницше Ф., Шопенгауэр как воспитатель',
   translationsInHeader: ['Перевод изд. «Сочинения в 3-х томах», 1994 г. (?)'],
 };
 

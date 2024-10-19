@@ -1,12 +1,19 @@
 import { useState } from 'react';
 import { Helmet } from 'react-helmet';
 import './home.scss';
+import './table.scss';
+import { pages } from './pages';
 
 export default function Page() {
   const [plato, setPlato] = useState(<TextChronology />);
+  const [section, setSection] = useState('plato');
 
   function handlePlatoButton(layout) {
     setPlato(layout);
+  }
+
+  function handleSectionButton(section) {
+    setSection(section);
   }
 
   return (
@@ -22,6 +29,7 @@ export default function Page() {
           content="Библиотека, Философия, Поэзия, Билингвы"
         />
       </Helmet>
+
       <div className="home__header">
         <div className="TitleAndDescription">
           <h1>
@@ -32,103 +40,110 @@ export default function Page() {
       </div>
       <div className="home__container">
         <div className="home__main">
-          <section>
-            <ul className="links1">
-              <li>
-                <a href="/heraclitus">Гераклит, Фрагменты</a>
-              </li>
-              <li>
-                <a href="/parmenides">Парменид, О природе</a>
-              </li>
-              <li>
-                <a href="/aristotle-metaphysica">Аристотель, Метафизика</a>
-              </li>
-              <br />
-
-              <li>
-                <a href="/monadologie">Лейбниц, Монадология</a>
-              </li>
-              <li>
-                <a href="/wer-denkt-abstract">Гегель, Кто мыслит абстрактно?</a>
-              </li>
-              <br />
-              <li>
-                <a href="/schopenhauer-als-erzieher">
-                  Ницше, Шопенгауэр как воспитатель (1874)
-                </a>
-              </li>
-              <li>
-                <a href="/gaya-scienza">Ницше, Веселая наука (1882, 1887)</a>
-              </li>
-              <li>
-                <a href="/zarathustra">
-                  Ницше, Так говорил Заратустра (1883-1885)
-                </a>
-              </li>
-              <li>
-                <a href="/jenseits-von-gut-und-boese">
-                  Ницше, По ту сторону добра и зла (1886)
-                </a>
-              </li>
-              <li>
-                <a href="/goetzen-daemmerung">Ницше, Сумерки идолов (1888)</a>
-              </li>
-              <br />
-
-              <li>
-                <a href="/ilias">Гомер, Илиада</a>
-              </li>
-              <li>
-                <a href="/oedipus-tyrannos">Софокл, Царь Эдип</a>
-              </li>
-              <li>
-                <a href="/horace">Гораций, Оды</a>
-              </li>
-              <br />
-              <li>
-                <a href="/levana">Де Квинси, Левана и Богородицы Скорби</a>
-              </li>
-              <li>
-                <a href="/une-saison-en-enfer">Рембо, Одно лето в аду</a>
-              </li>
-              <li>
-                <a href="/illuminations">Рембо, Озарения</a>
-              </li>
-              <li>
-                <a href="/laertios-plato">Д. Лаэртский, Платон</a>
-              </li>
-            </ul>
-
-            <div id="platoSection">
-              <div id="platoSection__buttons">
-                <button
-                  className={`${
-                    plato.type === TextIamblichus ? 'chosen' : null
-                  } buttonPlato`}
-                  onClick={() => handlePlatoButton(<TextIamblichus />)}
-                >
-                  «Канон Ямвлиха»
-                </button>
-                <button
-                  className={`${
-                    plato.type === TextChronology ? 'chosen' : null
-                  } buttonPlato`}
-                  onClick={() => handlePlatoButton(<TextChronology />)}
-                >
-                  ~Хронология
-                </button>
-                <button
-                  className={`${
-                    plato.type === TextTetralogy && 'chosen'
-                  } buttonPlato`}
-                  onClick={() => handlePlatoButton(<TextTetralogy />)}
-                >
-                  Тетралогии
-                </button>
-              </div>
-              {plato}
+          <main>
+            {/* <input placeholder="Поиск" /> */}
+            <div id="sections__buttons">
+              <button
+                className={`${
+                  section === 'plato' ? 'chosen' : null
+                } buttonPlato`}
+                onClick={() => handleSectionButton('plato')}
+              >
+                Платон
+              </button>
+              <button
+                className={`${
+                  section === 'nietzsche' ? 'chosen' : null
+                } buttonPlato`}
+                onClick={() => handleSectionButton('nietzsche')}
+              >
+                Ницше
+              </button>
+              <button
+                className={`${
+                  section === 'philosophie' ? 'chosen' : null
+                } buttonPlato`}
+                onClick={() => handleSectionButton('philosophie')}
+              >
+                Др. Философия
+              </button>
+              <button
+                className={`${
+                  section === 'poesie' ? 'chosen' : null
+                } buttonPlato`}
+                onClick={() => handleSectionButton('poesie')}
+              >
+                Поэзия
+              </button>
             </div>
-          </section>
+            {section === 'plato' ? (
+              <div id="platoSection">
+                <a href="/laertios-plato" className="laertius">
+                  Д. Лаэртский, Платон
+                </a>
+                <div id="platoSection__buttons">
+                  <button
+                    className={`${
+                      plato.type === TextIamblichus ? 'chosen' : null
+                    } buttonPlato`}
+                    onClick={() => handlePlatoButton(<TextIamblichus />)}
+                  >
+                    «Канон Ямвлиха»
+                  </button>
+                  <button
+                    className={`${
+                      plato.type === TextChronology ? 'chosen' : null
+                    } buttonPlato`}
+                    onClick={() => handlePlatoButton(<TextChronology />)}
+                  >
+                    ~Хронология
+                  </button>
+                  <button
+                    className={`${
+                      plato.type === TextTetralogy && 'chosen'
+                    } buttonPlato`}
+                    onClick={() => handlePlatoButton(<TextTetralogy />)}
+                  >
+                    Тетралогии
+                  </button>
+                </div>
+                {plato}
+              </div>
+            ) : (
+              <div>
+                <div className="table">
+                  {pages.map((obj) => {
+                    if (obj.class === section)
+                      return (
+                        <>
+                          <span>
+                            <div
+                              className="author"
+                              key={obj.author}
+                              onClick={(e) => {
+                                e.preventDefault();
+                              }}
+                            >
+                              {obj.author}
+                            </div>
+                          </span>
+                          <a className="title" href={obj.path} key={obj.title}>
+                            {obj.title}
+                          </a>
+                          <span
+                            className="year"
+                            key={obj.year}
+                            title={obj.year}
+                          >
+                            {obj.year}
+                          </span>
+                        </>
+                      );
+                  })}
+                </div>
+              </div>
+            )}
+          </main>
         </div>
         <footer>
           <a href="/about">About</a> |{' '}

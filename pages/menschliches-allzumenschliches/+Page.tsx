@@ -2,22 +2,23 @@ import React from 'react';
 import PageComponent from './../../components/PageComponent';
 import { dataClass, tocClass, styleClass } from './../../renderer/types';
 
-import GayaScienzaOriginal from './../../text/GayaScienza/GayaScienzaOriginal';
-import GayaScienza1 from './../../text/GayaScienza/GayaScienza1';
+import MenschlichesAllzumenschlichesOriginal from './../../text/MenschlichesAllzumenschliches/MenschlichesAllzumenschlichesOriginal';
+import MenschlichesAllzumenschliches1 from './../../text/MenschlichesAllzumenschliches/MenschlichesAllzumenschliches1';
 
 const dataObject: dataClass = {
-  id: 'GayaScienza',
-  pageTitle: 'Весёлая наука, Ф. Ницше',
-  pageDescription: '«Весёлая наука» Ницше на немецком и русском',
+  id: 'MenschlichesAllzumenschliches',
+  pageTitle: 'Человеческое, слишком человеческое, Ф. Ницше',
+  pageDescription:
+    '«Человеческое, слишком человеческое» Ницше на немецком и русском',
   pageKeywords:
     'Читать, Оригинал, Текст, Философия, Билингва, Параллельный, Перевод, Немецкий',
-  pageHeader: 'Весёлая наука, Ф. Ницше',
-  translationsInHeader: ['Перевод К.А. Свасьяна (1996)'],
+  pageHeader: 'Ницше Ф., Человеческое, слишком человеческое',
+  translationsInHeader: ['Пер. В.М. Бакусева'],
 };
 
 const tocObject: tocClass = {
   translationsInToc: [''],
-  hasContents: 'collapsible',
+  hasContents: true,
   translationsAlign: null,
   hasFlags: false,
 };
@@ -31,8 +32,8 @@ const styleObject: styleClass = {
 };
 
 const textObject = {
-  TextOriginal: <GayaScienzaOriginal />,
-  0: <GayaScienza1 />,
+  TextOriginal: <MenschlichesAllzumenschlichesOriginal />,
+  0: <MenschlichesAllzumenschliches1 />,
 };
 
 function Page() {

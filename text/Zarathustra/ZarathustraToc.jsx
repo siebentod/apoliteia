@@ -1,4 +1,4 @@
-import React from 'react';
+
 import LiCollapsible from '../../components/Toc/LiCollapsible';
 
 function ZarathustraToc() {
