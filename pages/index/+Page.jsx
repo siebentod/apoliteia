@@ -110,7 +110,7 @@ export default function Page() {
                 {plato}
               </div>
             ) : (
-              <div>
+              <>
                 <div className="table">
                   {pages.map((obj) => {
                     if (obj.class === section)
@@ -141,7 +141,7 @@ export default function Page() {
                       );
                   })}
                 </div>
-              </div>
+              </>
             )}
           </main>
         </div>
