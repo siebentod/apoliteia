@@ -121,6 +121,13 @@ export const pages = [
     class: 'nietzsche',
   },
   {
+    path: '/zur-genealogie-der-moral',
+    author: 'Ницше',
+    title: 'К генеалогии морали',
+    year: '1887',
+    class: 'nietzsche',
+  },
+  {
     path: '/goetzen-daemmerung',
     author: 'Ницше',
     title: 'Сумерки идолов',
