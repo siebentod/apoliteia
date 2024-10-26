@@ -205,12 +205,12 @@ body {
 
     .spanIndented {
       display: block;
-      text-indent: 6% each-line;
+      padding-left: 1rem;
     }
 
     .spanIndentedBig {
       display: block;
-      text-indent: 10% each-line;
+      padding-left: 2rem;
     }
 
     .spanHeading {
@@ -429,7 +429,7 @@ body {
 .textPage.mainVerses main {
   margin: 10px;
   align-self: center;
-  max-width: 650px;
+  max-width: 700px;
 
   @media (max-width: 550px) {
     max-width: 700px !important;

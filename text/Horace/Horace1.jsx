@@ -377,7 +377,7 @@ function Horace1() {
         Что тебя обнимал в гроте приветливом,
         <br />
         <span className="spanIndented">Весь в цветах, раздушенный, – </span>
-        <span className="spanindentedBig">Для кого не украсила</span>
+        <span className="spanIndentedBig">Для кого не украсила</span>
       </p>
       <p>
         Ты и светлых кудрей? Сколько же раз потом
@@ -385,7 +385,7 @@ function Horace1() {
         Веру в счастье свое будет оплакивать
         <br />
         <span className="spanIndented">И дивиться жестоким</span>
-        <span className="spanindentedBig">Волнам, бурею вызванным,</span>
+        <span className="spanIndentedBig">Волнам, бурею вызванным,</span>
       </p>
       <p>
         Тот, кто полон тобой, кто так надеется
@@ -393,7 +393,7 @@ function Horace1() {
         Вечно видеть тебя верной и любящей
         <br />
         <span className="spanIndented">И не ведает ветра</span>
-        <span className="spanindentedBig">Перемен. О несчастные</span>
+        <span className="spanIndentedBig">Перемен. О несчастные</span>
       </p>
       <p>
         Все, пред кем ты блестишь светом обманчивым!
@@ -401,7 +401,7 @@ function Horace1() {
         Про меня же гласит надпись священная,
         <br />
         <span className="spanIndented">Что мной влажные ризы</span>
-        <span className="spanindentedBig">Богу моря уж отданы.</span>
+        <span className="spanIndentedBig">Богу моря уж отданы.</span>
         <span className="bigBlank"/> <i>Пер. А. П. Семенова-Тян-Шанского</i>
       </p>
       <h3 id="1_6">6</h3>
@@ -579,14 +579,14 @@ function Horace1() {
         Соракт белеет, и отягченные
         <br />
         <span className="spanIndented">Леса с трудом стоят, а реки</span>
-        <span className="spanindentedBig">Скованы прочно морозом лютым.</span>
+        <span className="spanIndentedBig">Скованы прочно морозом лютым.</span>
       </p>
       <p>
         Чтоб нам не зябнуть, нового топлива
         <br />В очаг подбрось и полною чашею
         <br />
         <span className="spanIndented">Черпни из амфоры сабинской</span>
-        <span className="spanindentedBig">О Талиарх, нам вина постарше!</span>
+        <span className="spanIndentedBig">О Талиарх, нам вина постарше!</span>
       </p>
       <p>
         Богам оставь на волю все прочее:
@@ -594,7 +594,7 @@ function Horace1() {
         Лишь захотят – и ветер бушующий
         <br />
         <span className="spanIndented">В морях спадет, и не качнутся</span>
-        <span className="spanindentedBig">Ни кипарисы, ни старый ясень.</span>
+        <span className="spanIndentedBig">Ни кипарисы, ни старый ясень.</span>
       </p>
       <p>
         О том, что ждет нас, брось размышления,
@@ -602,14 +602,14 @@ function Horace1() {
         Прими, как прибыль, день нам дарованный
         <br />
         <span className="spanIndented">Судьбой и не чуждайся, друг мой,</span>
-        <span className="spanindentedBig">Ни хороводов, ни ласк любовных.</span>
+        <span className="spanIndentedBig">Ни хороводов, ни ласк любовных.</span>
       </p>
       <p>
         Пока далеко старость угрюмая,
         <br />И ты цветешь. Пусть ныне влекут тебя
         <br />
         <span className="spanIndented">И состязанья, и в урочный</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Вечера час нежный лепет страсти;
         </span>
       </p>
@@ -619,7 +619,7 @@ function Horace1() {
         Предатель-смех, где милая спряталась,
         <br />
         <span className="spanIndented">И будет у тебя запястье</span>
-        <span className="spanindentedBig">Или колечко любви залогом.</span>
+        <span className="spanIndentedBig">Или колечко любви залогом.</span>
         <span className="bigBlank"/> <i>Пер. А. П. Семенова-Тян-Шанского</i>
       </p>
       <h3 id="1_10">10</h3>
@@ -880,7 +880,7 @@ function Horace1() {
         Волны. Что ты? Постой! Якорь брось в гавани!
         <br />
         <span className="spanIndented">Неужель ты не видишь,</span>
-        <span className="spanindentedBig">Что твой борт потерял уже</span>
+        <span className="spanIndentedBig">Что твой борт потерял уже</span>
       </p>
       <p>
         Весла, – бурей твоя мачта надломлена, –
@@ -888,7 +888,7 @@ function Horace1() {
         Снасти жутко трещат, – скрепы все сорваны,
         <br />
         <span className="spanIndented">И едва уже днище</span>
-        <span className="spanindentedBig">Может выдержать властную</span>
+        <span className="spanIndentedBig">Может выдержать властную</span>
       </p>
       <p>
         Силу волн? У тебя нет уж ни паруса
@@ -896,7 +896,7 @@ function Horace1() {
         Ни богов на корме, в бедах прибежища.
         <br />
         <span className="spanIndented">Хоть сосною понтийской -</span>
-        <span className="spanindentedBig">Леса знатного дочерью -</span>
+        <span className="spanIndentedBig">Леса знатного дочерью -</span>
       </p>
       <p>
         Ты, как матерью, горд, – род ни причем уж твой:
@@ -904,7 +904,7 @@ function Horace1() {
         На твой борт расписной можно ль надеяться
         <br />
         <span className="spanIndented">Моряку? Ведь ты будешь</span>
-        <span className="spanindentedBig">Только ветра игралищем.</span>
+        <span className="spanIndentedBig">Только ветра игралищем.</span>
       </p>
       <p>
         О недавний предмет помысла горького,
@@ -912,7 +912,7 @@ function Horace1() {
         Пробудивший теперь чувства сыновние,
         <br />
         <span className="spanIndented">Не пускайся ты в море,</span>
-        <span className="spanindentedBig">Что шумит меж Цикладами!</span>
+        <span className="spanIndentedBig">Что шумит меж Цикладами!</span>
         <span className="bigBlank"/> <i>Пер. А. П. Семенова-Тян-Шанского</i>
       </p>
       <h3 id="1_15">15</h3>
@@ -1004,7 +1004,7 @@ function Horace1() {
         Сама придумай казнь надлежащую
         <br />
         <span className="spanIndented">Моим, злословья полным, ямбам</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           В волнах морских иль в огне, – где хочешь!
         </span>
       </p>
@@ -1014,7 +1014,7 @@ function Horace1() {
         Ни Феб, ни Либер не потрясают так
         <br />
         <span className="spanIndented">Души жрецов, ни Корибанты</span>
-        <span className="spanindentedBig">Так не грохочут гремящей медью,</span>
+        <span className="spanIndentedBig">Так не грохочут гремящей медью,</span>
       </p>
       <p>
         Как духи Гнева, коим не страшны ведь
@@ -1022,7 +1022,7 @@ function Horace1() {
         Ни меч германца, ни грозный вал морской,
         <br />
         <span className="spanIndented">Ни ярый пламень, ни Юпитер,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           С грохотом страшным разящий с неба.
         </span>
       </p>
@@ -1032,7 +1032,7 @@ function Horace1() {
         Пришлось сбирать все свойства частицами
         <br />
         <span className="spanIndented">И, по преданью, в наши недра</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Злобы прилить и безумья львиных.
         </span>
       </p>
@@ -1042,7 +1042,7 @@ function Horace1() {
         Судьбу Фиеста. Гнев был причиною,
         <br />
         <span className="spanIndented">Что города бесследно гибли,</span>
-        <span className="spanindentedBig">После того как на месте стен их</span>
+        <span className="spanIndentedBig">После того как на месте стен их</span>
       </p>
       <p>
         Надменный недруг землю распахивал.
@@ -1050,7 +1050,7 @@ function Horace1() {
         Уйми же гнев свой! В дни моей юности
         <br />
         <span className="spanIndented">Ведь и меня лишь пыл сердечный</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           В злобе толкнул написать поспешно
         </span>
       </p>
@@ -1060,7 +1060,7 @@ function Horace1() {
         Стремлюсь сменить я дружбой и кротостью.
         <br />
         <span className="spanIndented">Мою вину мне в новых песнях</span>
-        <span className="spanindentedBig">Дай искупить и верни мне душу!</span>
+        <span className="spanIndentedBig">Дай искупить и верни мне душу!</span>
         <span className="bigBlank"/> <i>Пер. А. П. Семенова-Тян-Шанского</i>
       </p>
       <h3 id="1_17">17</h3>
@@ -1070,7 +1070,7 @@ function Horace1() {
         На мой Лукретил дивный и отводить от коз
         <br />
         <span className="spanIndented">Жар жгучий летнего полудня,</span>
-        <span className="spanindentedBig">Или же ветер, дождем грозящий.</span>
+        <span className="spanIndentedBig">Или же ветер, дождем грозящий.</span>
       </p>
       <p>
         Сойдя с дороги, самки пахучего
@@ -1078,7 +1078,7 @@ function Horace1() {
         Козла по лесу бродят бестрепетно,
         <br />
         <span className="spanIndented">Ища то тмин, то земляничник,</span>
-        <span className="spanindentedBig">И не боясь ни змеи зеленой,</span>
+        <span className="spanIndentedBig">И не боясь ни змеи зеленой,</span>
       </p>
       <p>
         Ни злобы волка, коз похитителя,
@@ -1086,14 +1086,14 @@ function Horace1() {
         Лишь, Тиндарида, нежной свирели звук
         <br />
         <span className="spanIndented">Долины огласит и горы</span>
-        <span className="spanindentedBig">Устики с их некрутым подъемом.</span>
+        <span className="spanIndentedBig">Устики с их некрутым подъемом.</span>
       </p>
       <p>
         Храним богами я, – моя набожность
         <br />И песнь им любы! – Здесь в изобилии
         <br />
         <span className="spanIndented">Прольются на тебя из рога</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Щедрого сельских даров богатства.
         </span>
       </p>
@@ -1102,7 +1102,7 @@ function Horace1() {
         <br />И песню мне споешь на тесский лад
         <br />
         <span className="spanIndented">Про Пенелопу и Цирцею,</span>
-        <span className="spanindentedBig">Что по Улиссу тоской томились.</span>
+        <span className="spanIndentedBig">Что по Улиссу тоской томились.</span>
       </p>
       <p>
         В тени и в мире будешь лесбийское
@@ -1110,7 +1110,7 @@ function Horace1() {
         Вино здесь пить: здесь с Марсом Семелы сын
         <br />
         <span className="spanIndented">Не заведет бранчивой ссоры;</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Здесь перед Киром дрожать не будешь,
         </span>
       </p>
@@ -1120,7 +1120,7 @@ function Horace1() {
         Тебя не тронул дланью несдержанной
         <br />
         <span className="spanIndented">И не сорвал с кудрей плетенья</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Иль неповинных ни в чем покровов.
         </span>
         <span className="bigBlank"/> <i>Пер. Г. Ф. Церетели</i>
@@ -1239,7 +1239,7 @@ function Horace1() {
         Вы же пойте хвалу Кинфию, юноши,
         <br />
         <span className="spanIndented">И Латоне, любезной</span>
-        <span className="spanindentedBig">Зевсу, богу всевышнему!</span>
+        <span className="spanIndentedBig">Зевсу, богу всевышнему!</span>
       </p>
       <p>
         Славьте, девы, ее, в реки влюбленную,
@@ -1247,7 +1247,7 @@ function Horace1() {
         Как и в сени лесов хладного Алгида,
         <br />
         <span className="spanIndented">Бора на Эриманфе,</span>
-        <span className="spanindentedBig">В кудри Крага зеленого.</span>
+        <span className="spanIndentedBig">В кудри Крага зеленого.</span>
       </p>
       <p>
         Вы же, юноши, все славьте Темпейский дол,
@@ -1255,7 +1255,7 @@ function Horace1() {
         Аполлону родной Делос и светлого
         <br />
         <span className="spanIndented">Бога, рамо чье лирой</span>
-        <span className="spanindentedBig">И колчаном украшено.</span>
+        <span className="spanIndentedBig">И колчаном украшено.</span>
       </p>
       <p>
         Пусть он, жаркой мольбой вашею тронутый,
@@ -1263,7 +1263,7 @@ function Horace1() {
         Горе войн отвратит с мором и голодом
         <br />
         <span className="spanIndented">От народа, направив</span>
-        <span className="spanindentedBig">Их на персов с британцами!</span>
+        <span className="spanIndentedBig">Их на персов с британцами!</span>
         <span className="bigBlank"/> <i>Пер. А. П. Семенова-Тян-Шанского</i>
       </p>
       <h3 id="1_22">22</h3>
@@ -1327,7 +1327,7 @@ function Horace1() {
         Лань, которая мать в г<i>о</i>рах утратила
         <br />
         <span className="spanIndented">И напрасно страшится</span>
-        <span className="spanindentedBig">Леса легкого лепета.</span>
+        <span className="spanIndentedBig">Леса легкого лепета.</span>
       </p>
       <p>
         Лист взметется ль сухой вешним дыханием,
@@ -1335,7 +1335,7 @@ function Horace1() {
         Шелохнет ли слегка быстрый бег ящериц
         <br />
         <span className="spanIndented">Веточку ежевики, – </span>
-        <span className="spanindentedBig">Вся она уже в трепете.</span>
+        <span className="spanIndentedBig">Вся она уже в трепете.</span>
       </p>
       <p>
         Ведь не тигр я, не лев, страшный сын Ливии,
@@ -1343,7 +1343,7 @@ function Horace1() {
         Чтоб тебя растерзать, хищно набросившись.
         <br />
         <span className="spanIndented">Брось за матерью бегать:</span>
-        <span className="spanindentedBig">Зреешь ты для супружества!</span>
+        <span className="spanIndentedBig">Зреешь ты для супружества!</span>
         <span className="bigBlank"/> <i>Пер. А. П. Семенова-Тян-Шанского</i>
       </p>
       <h3 id="1_24">24</h3>
@@ -1445,7 +1445,7 @@ function Horace1() {
         Отдам развеять ветрам стремительным
         <br />
         <span className="spanIndented">В Эгейском море. Безучастен</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Стал я к тому, кто в стране полночной
         </span>
       </p>
@@ -1456,7 +1456,7 @@ function Horace1() {
         <span className="spanIndented">
           Ключей ты любишь свежесть; свей же,
         </span>
-        <span className="spanindentedBig">Свей же для Ламия цвет весенний</span>
+        <span className="spanIndentedBig">Свей же для Ламия цвет весенний</span>
       </p>
       <p>
         В венок душистый. Чт<i>о</i> без тебя моя
@@ -1464,7 +1464,7 @@ function Horace1() {
         Хвала? Достоин быть он прославленным
         <br />
         <span className="spanIndented">Тобой и сестрами твоими</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Плектром лесбийским на струнах новых.
         </span>
         <span className="bigBlank"/> <i>Пер. А П. Семенова-Тян-Шанского</i>
@@ -1476,7 +1476,7 @@ function Horace1() {
         Даны, – позорно! Нравы фракийские
         <br />
         <span className="spanIndented">Оставьте, и держите Вакха</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Скромного дальше от ссор кровавых.
         </span>
       </p>
@@ -1486,7 +1486,7 @@ function Horace1() {
         Кинжал мидийский. Вы, собутыльники,
         <br />
         <span className="spanIndented">Умерьте крик и гам безбожный</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           И возлежите, склонясь на локоть...
         </span>
       </p>
@@ -1496,7 +1496,7 @@ function Horace1() {
         Отведать вместе? Пусть не скрывает брат
         <br />
         <span className="spanIndented">Мегиллы Опунтийской, кто же</span>
-        <span className="spanindentedBig">Ранил стрелою его, счастливца!</span>
+        <span className="spanIndentedBig">Ранил стрелою его, счастливца!</span>
       </p>
       <p>
         Охоты нет? Иначе не буду пить!
@@ -1504,7 +1504,7 @@ function Horace1() {
         Любовь какая б ни увлекла тебя,
         <br />
         <span className="spanIndented">Палит она огнем не стыдным, – </span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Лишь в благородной любви ты грешен!
         </span>
       </p>
@@ -1514,7 +1514,7 @@ function Horace1() {
         Тебя не выдам. О злополучный мой,
         <br />
         <span className="spanIndented">Какою ты крушим Харибдой, – </span>
-        <span className="spanindentedBig">Пламени лучшего ты достоин!</span>
+        <span className="spanIndentedBig">Пламени лучшего ты достоин!</span>
       </p>
       <p>
         Какой ведун иль ведьма Фессалии
@@ -1522,7 +1522,7 @@ function Horace1() {
         Тебя изымет зельями? Бог какой?
         <br />
         <span className="spanIndented">Триликой сжатого Химерой,</span>
-        <span className="spanindentedBig">Вряд ли тебя и Пегас исторгнет!</span>
+        <span className="spanIndentedBig">Вряд ли тебя и Пегас исторгнет!</span>
         <span className="bigBlank"/> <i>Пер. Г. Ф. Церетели</i>
       </p>
       <h3 id="1_28">28</h3>
@@ -1616,7 +1616,7 @@ function Horace1() {
         Сокровищ жаждешь, страшной войной грозишь
         <br />
         <span className="spanIndented">Царям непокоренной Савы,</span>
-        <span className="spanindentedBig">Цепи куешь для ужасных мидян?</span>
+        <span className="spanIndentedBig">Цепи куешь для ужасных мидян?</span>
       </p>
       <p>
         Какая дева иноплеменница,
@@ -1624,7 +1624,7 @@ function Horace1() {
         Когда в бою падет ее суженый,
         <br />
         <span className="spanIndented">Тебе послужит? Что за отрок</span>
-        <span className="spanindentedBig">Чашником будет твоим, кудрявым,</span>
+        <span className="spanIndentedBig">Чашником будет твоим, кудрявым,</span>
       </p>
       <p>
         Из свиты царской, стрелы привыкнувший
@@ -1632,7 +1632,7 @@ function Horace1() {
         Метать из лука <i>о</i>тчего? Можно ли
         <br />
         <span className="spanIndented">Сказать, что Тибр не возвратится,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Что не встечет вспять река на горы,
         </span>
       </p>
@@ -1641,7 +1641,7 @@ function Horace1() {
         <br />И вместе с ними мудрость Сократову,
         <br />
         <span className="spanIndented">Нам посулив благое, хочешь</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Их обменять на испанский панцирь?
         </span>
         <span className="bigBlank"/> <i>Пер. Г. Ф. Церетели</i>
@@ -1670,7 +1670,7 @@ function Horace1() {
         <br />У Аполлона? И с возлиянием
         <br />
         <span className="spanIndented">О чем он молит? Не богатых</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Просит он нив средь полей Сардинских,
         </span>
       </p>
@@ -1680,7 +1680,7 @@ function Horace1() {
         Не злата с костью белой из Индии,
         <br />
         <span className="spanIndented">Не тех угодий, что спокойным</span>
-        <span className="spanindentedBig">Током живит молчаливый Лирис.</span>
+        <span className="spanIndentedBig">Током живит молчаливый Лирис.</span>
       </p>
       <p>
         Пускай снимают гроздья каленские,
@@ -1688,7 +1688,7 @@ function Horace1() {
         Кому Фортуна их предоставила;
         <br />
         <span className="spanIndented">Пусть пьет купец хоть золотыми</span>
-        <span className="spanindentedBig">Чашами вина – свою наживу -</span>
+        <span className="spanIndentedBig">Чашами вина – свою наживу -</span>
       </p>
       <p>
         Богов любимец, ибо не раз в году
@@ -1696,7 +1696,7 @@ function Horace1() {
         Простор он видит вод Атлантических
         <br />
         <span className="spanIndented">Без наказанья. Мне ж оливки,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Мне лишь цикорий, да мальвы – пища.
         </span>
       </p>
@@ -1705,7 +1705,7 @@ function Horace1() {
         <br />О сын Латоны! Дай мне, молю тебя,
         <br />
         <span className="spanIndented">Здоровья и с рассудком здравым</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Светлую старость в союзе с лирой.
         </span>
         <span className="bigBlank"/> <i>Пер. А. П. Семенова-Тян-Шанского</i>
@@ -1791,7 +1791,7 @@ function Horace1() {
         Хотя безумной мудрости следуя,
         <br />
         <span className="spanIndented">Блуждаю, ныне вспять направить</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Я принужден свой челнок и прежних
         </span>
       </p>
@@ -1801,7 +1801,7 @@ function Horace1() {
         Обычно тучи молнией режущий,
         <br />
         <span className="spanIndented">По небу чистому внезапно</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Коней промчал с грохотаньем тяжким,
         </span>
       </p>
@@ -1810,7 +1810,7 @@ function Horace1() {
         <br />И зыби рек, и Стикс, и ужасные
         <br />
         <span className="spanIndented">Врата Тенара, и Атланта</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Крайний предел. Только бог сей властен
         </span>
       </p>
@@ -1820,7 +1820,7 @@ function Horace1() {
         Низринуть сразу, выявив скрытое:
         <br />
         <span className="spanIndented">Судьба венец с тебя срывает,</span>
-        <span className="spanindentedBig">Чтобы, ликуя, венчать другого.</span>
+        <span className="spanIndentedBig">Чтобы, ликуя, венчать другого.</span>
         <span className="bigBlank"/> <i>Пер. А. П. Семенова-Тян-Шанского</i>
       </p>
       <h3 id="1_35">35</h3>
@@ -1830,7 +1830,7 @@ function Horace1() {
         Ты властна смертных с низшей ступени ввысь
         <br />
         <span className="spanIndented">Вознесть, и гордые триумфы</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           В плач обратить похоронный можешь.
         </span>
       </p>
@@ -1840,7 +1840,7 @@ function Horace1() {
         Крестьянин бедный; вод госпожу, тебя
         <br />
         <span className="spanIndented">Зовет и тот, кто кораблями</span>
-        <span className="spanindentedBig">Бурное море дразнить дерзает.</span>
+        <span className="spanIndentedBig">Бурное море дразнить дерзает.</span>
       </p>
       <p>
         И дак свирепый, скифы, бродя в степях,
@@ -1848,7 +1848,7 @@ function Horace1() {
         Тебя страшатся. Грады, народы все,
         <br />
         <span className="spanIndented">Суровый Лаций, властелинов</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Матери, грозный тиран в порфире -
         </span>
       </p>
@@ -1858,7 +1858,7 @@ function Horace1() {
         Их власть не свергла; как бы толпа, сойдясь,
         <br />
         <span className="spanIndented">"К оружью!" не звала, "к оружью!"</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Медлящих граждан, чтоб власть низвергнуть.
         </span>
       </p>
@@ -1867,7 +1867,7 @@ function Horace1() {
         <br />В руке железной гвозди всегда неся,
         <br />
         <span className="spanIndented">Свинец расплавленный и клинья,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Скобы кривые – для глыб скрепленья.
         </span>
       </p>
@@ -1877,7 +1877,7 @@ function Horace1() {
         Но, в белой ткани, вслед за тобой нейдет
         <br />
         <span className="spanIndented">В тот час, как в гневе ты оставишь</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Взысканных домы, облекшись в траур.
         </span>
       </p>
@@ -1887,7 +1887,7 @@ function Horace1() {
         Отходит прочь; и все разбегутся врозь
         <br />
         <span className="spanIndented">Друзья, допив вино с осадком:</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Друга ярмо разделять не склонны.
         </span>
       </p>
@@ -1897,7 +1897,7 @@ function Horace1() {
         Пойдет он дальний; юношей свежий рой
         <br />
         <span className="spanIndented">Храни, чтоб рос он, страх внушая</span>
-        <span className="spanindentedBig">Красному морю, всему Востоку.</span>
+        <span className="spanIndentedBig">Красному морю, всему Востоку.</span>
       </p>
       <p>
         Увы! Нам стыдно ран и убийств своих
@@ -1905,7 +1905,7 @@ function Horace1() {
         Граждан! Жестокий род, от каких мы дел
         <br />
         <span className="spanIndented">Ушли? Чего не запятнали</span>
-        <span className="spanindentedBig">Мы, нечестивцы? Чего руками,</span>
+        <span className="spanIndentedBig">Мы, нечестивцы? Чего руками,</span>
       </p>
       <p>
         Богов страшася, юность не тронула?
@@ -1913,7 +1913,7 @@ function Horace1() {
         Дала пощаду чьим алтарям?.. О пусть
         <br />
         <span className="spanIndented">Ты вновь мечи перековала б</span>
-        <span className="spanindentedBig">Против арабов и скифов диких!</span>
+        <span className="spanIndentedBig">Против арабов и скифов диких!</span>
         <span className="bigBlank"/> <i>Пер. Н. С. Гинцбурга</i>
       </p>
       <h3 id="1_36">36</h3>
@@ -1983,7 +1983,7 @@ function Horace1() {
         Стопою в землю бить, сотрапезники,
         <br />
         <span className="spanIndented">Пора для пышных яств салийских</span>
-        <span className="spanindentedBig">Ложа богов разубрать богаче.</span>
+        <span className="spanIndentedBig">Ложа богов разубрать богаче.</span>
       </p>
       <p>
         Грехом доселе было цекубское
@@ -1991,7 +1991,7 @@ function Horace1() {
         Из погребов нам черпать, из дедовских,
         <br />
         <span className="spanIndented">Пока царица Капитолий</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Мнила в безумье своем разрушить,
         </span>
       </p>
@@ -2001,7 +2001,7 @@ function Horace1() {
         Державе нашей смертью позорною.
         <br />
         <span className="spanIndented">Не зная для надежд предела,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Счастьем она опьянялась сладким.
         </span>
       </p>
@@ -2011,7 +2011,7 @@ function Horace1() {
         Ушел огня, и ум, затуманенный
         <br />
         <span className="spanIndented">Вином у ней мареотийским,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           В ужас неложный повергнул Цезарь,
         </span>
       </p>
@@ -2021,7 +2021,7 @@ function Horace1() {
         Гонясь на веслах... Как за голубкою
         <br />
         <span className="spanIndented">Несется коршун, иль за зайцем</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Ловчий проворный по ниве снежной,
         </span>
       </p>
@@ -2031,7 +2031,7 @@ function Horace1() {
         Чтоб цепь накинуть. Но, хоть и женщина,
         <br />
         <span className="spanIndented">Меча она не убоялась,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Чуждых краев не искала с флотом, –{' '}
         </span>
       </p>
@@ -2041,7 +2041,7 @@ function Horace1() {
         На павший дом взглянула с улыбкою
         <br />
         <span className="spanIndented">И злобных змей к груди прижала,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Чтобы всем телом впитать отраву:
         </span>
       </p>
@@ -2051,7 +2051,7 @@ function Horace1() {
         Из страха, что царицей развенчанной
         <br />
         <span className="spanIndented">Ее позорно для триумфа</span>
-        <span className="spanindentedBig">Гордого вражья умчит либурна.</span>
+        <span className="spanIndentedBig">Гордого вражья умчит либурна.</span>
         <span className="bigBlank"/> <i>Пер. Г. Ф. Церетели</i>
       </p>
       <h3 id="1_38">38</h3>
@@ -2081,7 +2081,7 @@ function Horace1() {
         Причина войн, их ход, преступления,
         <br />
         <span className="spanIndented">Игра судьбы, вождей союзы,</span>
-        <span className="spanindentedBig">Страшные гражданам, и оружье,</span>
+        <span className="spanIndentedBig">Страшные гражданам, и оружье,</span>
       </p>
       <p>
         Неотомщенной кровью залитое, –
@@ -2089,7 +2089,7 @@ function Horace1() {
         Об этом ныне с полной отвагою
         <br />
         <span className="spanIndented">Ты пишешь, по огню ступая,</span>
-        <span className="spanindentedBig">Что под золою обманно тлеет.</span>
+        <span className="spanIndentedBig">Что под золою обманно тлеет.</span>
       </p>
       <p>
         Пусть не надолго мрачной трагедии
@@ -2097,7 +2097,7 @@ function Horace1() {
         Примолкнет Муза, – лишь обработаешь
         <br />
         <span className="spanIndented">Дела людей, займись вновь делом</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Важным, надевши котурн Кекропа, –{' '}
         </span>
       </p>
@@ -2107,7 +2107,7 @@ function Horace1() {
         При совещаньи – помощь для курии,
         <br />
         <span className="spanIndented">Тебя триумфом далматинским</span>
-        <span className="spanindentedBig">Увековечил венок лавровый...</span>
+        <span className="spanIndentedBig">Увековечил венок лавровый...</span>
       </p>
       <p>
         Слух оглушен рогов грозным ропотом,
@@ -2115,7 +2115,7 @@ function Horace1() {
         Уже я слышу труб рокотание,
         <br />
         <span className="spanIndented">Уже доспехов блеск пугает</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Всадников строй и коней ретивых.
         </span>
       </p>
@@ -2125,7 +2125,7 @@ function Horace1() {
         Вождей, покрытых пылью почетною,
         <br />
         <span className="spanIndented">И весть, что мир склонился долу,</span>
-        <span className="spanindentedBig">Кроме упорной души Катона.</span>
+        <span className="spanIndentedBig">Кроме упорной души Катона.</span>
       </p>
       <p>
         Кто из богов с Юноной был афрам друг
@@ -2133,7 +2133,7 @@ function Horace1() {
         И, не отметив, в бессильи покинул их,
         <br />
         <span className="spanIndented">Тот победителей потомство</span>
-        <span className="spanindentedBig">Ныне Югурте приносит в жертву.</span>
+        <span className="spanIndentedBig">Ныне Югурте приносит в жертву.</span>
       </p>
       <p>
         Какое поле, кровью латинскою
@@ -2141,7 +2141,7 @@ function Horace1() {
         Насытясь, нам не кажет могилами
         <br />
         <span className="spanIndented">Безбожность битв и гром паденья</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Царства Гесперии, слышный персам?
         </span>
       </p>
@@ -2150,7 +2150,7 @@ function Horace1() {
         <br />О мрачной брани? Море Давнийское
         <br />
         <span className="spanIndented">Разня какая не багрила?</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Где не лилась наша кровь ручьями?
         </span>
       </p>
@@ -2160,7 +2160,7 @@ function Horace1() {
         Не затянуть нам плача Кеосского,
         <br />
         <span className="spanIndented">Срывай, о Муза, легким плектром</span>
-        <span className="spanindentedBig">В гроте Дионы иные звуки.</span>
+        <span className="spanIndentedBig">В гроте Дионы иные звуки.</span>
         <span className="bigBlank"/> <i>Пер. Г. Ф. Церетели</i>
       </p>
       <h3 id="2_2">2</h3>
@@ -2224,7 +2224,7 @@ function Horace1() {
         Во дни напасти; в дни же счастливые
         <br />
         <span className="spanIndented">Не опьяняйся ликованьем,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Смерти подвластный, как все мы, Деллий.
         </span>
       </p>
@@ -2234,7 +2234,7 @@ function Horace1() {
         Иль часто будешь ты услаждать себя
         <br />
         <span className="spanIndented">Вином Фалерна лучшей метки,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Праздник на мягкой траве встречая.
         </span>
       </p>
@@ -2244,7 +2244,7 @@ function Horace1() {
         Сосны огромной с тополя белого
         <br />
         <span className="spanIndented">Отрадной тенью, не к тому ли</span>
-        <span className="spanindentedBig">Резвой струею ручей играет,</span>
+        <span className="spanIndentedBig">Резвой струею ручей играет,</span>
       </p>
       <p>
         Чтобы сюда ты вина подать велел,
@@ -2252,7 +2252,7 @@ function Horace1() {
         Бальзам и розы, кратко цветущие,
         <br />
         <span className="spanIndented">Пока судьба, года, и Парок</span>
-        <span className="spanindentedBig">Темная нить еще срок дают нам.</span>
+        <span className="spanIndentedBig">Темная нить еще срок дают нам.</span>
       </p>
       <p>
         Ведь ты оставишь эти угодия,
@@ -2260,7 +2260,7 @@ function Horace1() {
         Что Тибр волнами моет янтарными,
         <br />
         <span className="spanIndented">И дом с поместьем, и богатством</span>
-        <span className="spanindentedBig">Всем завладеет твоим наследник.</span>
+        <span className="spanIndentedBig">Всем завладеет твоим наследник.</span>
       </p>
       <p>
         Не все ль равно, ты Инаха ль древнего
@@ -2268,7 +2268,7 @@ function Horace1() {
         Богатый отпрыск, рода ли низкого,
         <br />
         <span className="spanIndented">Влачащий дни под чистым небом, – </span>
-        <span className="spanindentedBig">Ты беспощадного жертва Орка.</span>
+        <span className="spanIndentedBig">Ты беспощадного жертва Орка.</span>
       </p>
       <p>
         Мы все гонимы в царство подземное.
@@ -2276,7 +2276,7 @@ function Horace1() {
         Вертится урна: рано ли, поздно ли -
         <br />
         <span className="spanIndented">Наш жребий выпадет, и вот он -</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           В вечность изгнанья челнок пред нами.
         </span>
         <span className="bigBlank"/> <i>Пер. А. П. Семенова-Тян-Шанского</i>
@@ -2344,7 +2344,7 @@ function Horace1() {
         Ярмо не в силах вынести тесное,
         <br />
         <span className="spanIndented">В труде равняясь паре, или</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Тяжесть быка, что взъярен любовью.
         </span>
       </p>
@@ -2354,7 +2354,7 @@ function Horace1() {
         Где телке любо влагой проточною
         <br />
         <span className="spanIndented">Умерить зной или резвиться</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           В стаде телят в ивняке росистом.
         </span>
       </p>
@@ -2364,7 +2364,7 @@ function Horace1() {
         Придет пора, и ягоды бледные
         <br />
         <span className="spanIndented">Лозы окрасит в цвет пурпурный</span>
-        <span className="spanindentedBig">Пестрая осень в черед обычный.</span>
+        <span className="spanIndentedBig">Пестрая осень в черед обычный.</span>
       </p>
       <p>
         Свое получишь: время жестокое
@@ -2372,7 +2372,7 @@ function Horace1() {
         Бежит, и ей те годы придаст оно,
         <br />
         <span className="spanIndented">Что у тебя отнимет: скоро</span>
-        <span className="spanindentedBig">Лалага будет искать супруга</span>
+        <span className="spanIndentedBig">Лалага будет искать супруга</span>
       </p>
       <p>
         И всех затмит; за робкой Фолоею
@@ -2380,14 +2380,14 @@ function Horace1() {
         Хлориду даже, что ярче месяца
         <br />
         <span className="spanIndented">Сияет белыми плечами,</span>
-        <span className="spanindentedBig">Споря красою с книдийцем Гигом,</span>
+        <span className="spanIndentedBig">Споря красою с книдийцем Гигом,</span>
       </p>
       <p>
         Который, если он замешается
         <br />В девичий круг, то длинными кудрями
         <br />
         <span className="spanIndented">И ликом женственным обманет</span>
-        <span className="spanindentedBig">Даже того, кто пытлив и зорок.</span>
+        <span className="spanIndentedBig">Даже того, кто пытлив и зорок.</span>
         <span className="bigBlank"/> <i>Пер. А. П. Семенова-Тян-Шанского</i>
       </p>
       <h3 id="2_6">6</h3>
@@ -2449,21 +2449,21 @@ function Horace1() {
         Не раз в глаза глядевший опасности,
         <br />
         <span className="spanIndented">Кто возвратил тебя квиритом</span>
-        <span className="spanindentedBig">Небу Италии, отчим Ларам?</span>
+        <span className="spanIndentedBig">Небу Италии, отчим Ларам?</span>
       </p>
       <p>
         Мой друг любимый, часто с тобой вдвоем
         <br />Я сокращал день скучный пирушкою,
         <br />
         <span className="spanIndented">Чело венком увив, на кудри</span>
-        <span className="spanindentedBig">Блеск наведя аравийским мирром.</span>
+        <span className="spanIndentedBig">Блеск наведя аравийским мирром.</span>
       </p>
       <p>
         С тобой Филиппы, бегство поспешное
         <br />Я вынес, кинув щит не по-ратному,
         <br />
         <span className="spanIndented">Когда, утратив доблесть, долу</span>
-        <span className="spanindentedBig">Грозный позорно склонился воин.</span>
+        <span className="spanIndentedBig">Грозный позорно склонился воин.</span>
       </p>
       <p>
         Меня Меркурий быстро сквозь строй врагов
@@ -2471,7 +2471,7 @@ function Horace1() {
         Провел, окутав тучей дрожащего,
         <br />
         <span className="spanIndented">Тебя ж волна вновь в бой втянула,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           В жертву отдав разъяренным хлябям.
         </span>
       </p>
@@ -2481,7 +2481,7 @@ function Horace1() {
         Теперь почти – и, службой измученный,
         <br />
         <span className="spanIndented">Под лавром протянись и кубков</span>
-        <span className="spanindentedBig">Ты не щади, для тебя готовых.</span>
+        <span className="spanIndentedBig">Ты не щади, для тебя готовых.</span>
       </p>
       <p>
         Наполни чашу скорбь отгоняющим
@@ -2489,7 +2489,7 @@ function Horace1() {
         Массикским, миро лей из уемистых
         <br />
         <span className="spanIndented">Сосудов... Кто теперь из мирта</span>
-        <span className="spanindentedBig">И сельдерея венок сготовит?</span>
+        <span className="spanIndentedBig">И сельдерея венок сготовит?</span>
       </p>
       <p>
         Кого Венера пира хозяином
@@ -2497,7 +2497,7 @@ function Horace1() {
         Из нас назначит? Словно эдонянин,
         <br />
         <span className="spanIndented">Беситься буду, – друг вернулся,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Сладко мне с ним за вином забыться!
         </span>
         <span className="bigBlank"/> <i>Пер. Г. Ф. Церетели</i>
@@ -2564,7 +2564,7 @@ function Horace1() {
         Из низких льется туч, и до Каспия
         <br />
         <span className="spanIndented">Колышут бури гладь морскую,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Как и не вечно, – не каждый месяц, –{' '}
         </span>
       </p>
@@ -2574,7 +2574,7 @@ function Horace1() {
         Недвижен лед иль рощи дубовые
         <br />
         <span className="spanIndented">Гаргана стонут от Борея,</span>
-        <span className="spanindentedBig">Ясени ж наши листву теряют.</span>
+        <span className="spanIndentedBig">Ясени ж наши листву теряют.</span>
       </p>
       <p>
         Лишь ты один о Мисте утраченном
@@ -2582,7 +2582,7 @@ function Horace1() {
         Все горько стонешь, с памятью милою
         <br />
         <span className="spanIndented">Не расставаясь на восходе</span>
-        <span className="spanindentedBig">Веспера ни на его закате.</span>
+        <span className="spanIndentedBig">Веспера ни на его закате.</span>
       </p>
       <p>
         Не все же годы Нестор оплакивал
@@ -2590,7 +2590,7 @@ function Horace1() {
         Смерть Антилоха, сына любимого;
         <br />
         <span className="spanIndented">Не вечно слезы лили сестры</span>
-        <span className="spanindentedBig">Или родители по Троиле.</span>
+        <span className="spanIndentedBig">Или родители по Троиле.</span>
       </p>
       <p>
         Уйми же слезы, брось свои жалобы!
@@ -2598,7 +2598,7 @@ function Horace1() {
         Не лучше ль спеть про новые Августа
         <br />
         <span className="spanIndented">Трофеи славные, поведав</span>
-        <span className="spanindentedBig">О неприступных Нифата высях</span>
+        <span className="spanIndentedBig">О неприступных Нифата высях</span>
       </p>
       <p>
         И о реке, что в Мидии вольною
@@ -2606,7 +2606,7 @@ function Horace1() {
         Не будет больше, вместе с подвластными
         <br />
         <span className="spanIndented">Отныне Риму племенами,</span>
-        <span className="spanindentedBig">И о лишенных простора скифах.</span>
+        <span className="spanIndentedBig">И о лишенных простора скифах.</span>
         <span className="bigBlank"/> <i>Пер. А. П. Семенова-Тян-Шанского</i>
       </p>
       <h3 id="2_10">10</h3>
@@ -2669,14 +2669,14 @@ function Horace1() {
         От нас пучиной Адрия, Квинт Гирпин,
         <br />
         <span className="spanIndented">Отъединенный, ты не думай</span>
-        <span className="spanindentedBig">И не волнуйся о нуждах жизни,</span>
+        <span className="spanIndentedBig">И не волнуйся о нуждах жизни,</span>
       </p>
       <p>
         Довольный малым... Юность нарядная
         <br />С красою вместе быстро уносится,
         <br />
         <span className="spanIndented">И старость высохшая гонит</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Резвость любви, как и сон беспечный.
         </span>
       </p>
@@ -2686,7 +2686,7 @@ function Horace1() {
         Сияет разно лик луны пламенный.
         <br />
         <span className="spanIndented">Зачем же душу ты терзаешь</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Думой, что ей не под силу будет?
         </span>
       </p>
@@ -2696,7 +2696,7 @@ function Horace1() {
         Иль под чинарой стройной прилечь бы нам
         <br />
         <span className="spanIndented">В венках из роз душистых, нардом</span>
-        <span className="spanindentedBig">Тело свое умастив сирийским,</span>
+        <span className="spanIndentedBig">Тело свое умастив сирийским,</span>
       </p>
       <p>
         И пить! Ведь Эввий думы гнетущие
@@ -2704,7 +2704,7 @@ function Horace1() {
         Рассеет быстро. Отрок, проворнее
         <br />
         <span className="spanIndented">Фалерна огненную влагу</span>
-        <span className="spanindentedBig">Ты обуздай ключевой водою!</span>
+        <span className="spanIndentedBig">Ты обуздай ключевой водою!</span>
       </p>
       <p>
         А ты из дома, что в стороне стоит,
@@ -2712,7 +2712,7 @@ function Horace1() {
         Красотку Лиду вызови, – пусть она
         <br />
         <span className="spanIndented">Спешит к нам с лирой, косы наспех</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           В узел связав на манер лаконский.
         </span>
         <span className="bigBlank"/> <i>Пер. Г. Ф. Церетели</i>
@@ -2784,14 +2784,14 @@ function Horace1() {
         <br />И посадив, рукою преступною
         <br />
         <span className="spanIndented">Взрастил потомкам на погибель</span>
-        <span className="spanindentedBig">И на позорище всей округе, – </span>
+        <span className="spanIndentedBig">И на позорище всей округе, – </span>
       </p>
       <p>
         Сломил тот, видно, шею родителя
         <br />И в час ночной Пенатов святилище
         <br />
         <span className="spanIndented">Залил невинной кровью гостя;</span>
-        <span className="spanindentedBig">Изготовлял он и яд колхидский,</span>
+        <span className="spanIndentedBig">Изготовлял он и яд колхидский,</span>
       </p>
       <p>
         И делал все, что только есть низкого,
@@ -2799,7 +2799,7 @@ function Horace1() {
         Раз им в моих пределах посажено
         <br />
         <span className="spanIndented">Ты, древо гадкое, чтоб рухнуть</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Так, без причин, на главу владельца.
         </span>
       </p>
@@ -2809,7 +2809,7 @@ function Horace1() {
         Чего беречься должен он в каждый миг,
         <br />
         <span className="spanIndented">Моряк-пуниец лишь Босфора</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Трусит, других тайных бед не чуя.
         </span>
       </p>
@@ -2819,7 +2819,7 @@ function Horace1() {
         Цепей же – парфы и римской доблести.
         <br />
         <span className="spanIndented">Меж тем нежданная погибель</span>
-        <span className="spanindentedBig">Схитила многих и многих схитит.</span>
+        <span className="spanIndentedBig">Схитила многих и многих схитит.</span>
       </p>
       <p>
         Я Прозерпины царство суровое
@@ -2827,7 +2827,7 @@ function Horace1() {
         Чуть не узрел, Эака, что суд творит,
         <br />
         <span className="spanIndented">И край, блаженным отведенный...</span>
-        <span className="spanindentedBig">Там на лесбийской играя лире,</span>
+        <span className="spanIndentedBig">Там на лесбийской играя лире,</span>
       </p>
       <p>
         На безразличье дев Сафо плачется,
@@ -2835,7 +2835,7 @@ function Horace1() {
         Но ты, Алкей, ты с плектром из золота,
         <br />
         <span className="spanIndented">Поешь звончей тяготы моря,</span>
-        <span className="spanindentedBig">Бегства тяготы, тяготы брани.</span>
+        <span className="spanIndentedBig">Бегства тяготы, тяготы брани.</span>
       </p>
       <p>
         Обоим вам в священном молчании
@@ -2843,7 +2843,7 @@ function Horace1() {
         Дивятся тени, с большею жадностью
         <br />
         <span className="spanIndented">Внимает все ж толпа густая</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Песнь про бои, про царей сверженье.
         </span>
       </p>
@@ -2853,7 +2853,7 @@ function Horace1() {
         Забыл под эту песнь настораживать,
         <br />
         <span className="spanIndented">И жалами не водят змеи,</span>
-        <span className="spanindentedBig">Что в волосах Евменид таятся,</span>
+        <span className="spanIndentedBig">Что в волосах Евменид таятся,</span>
       </p>
       <p>
         Коль Прометей и с ним отец Пелопа
@@ -2861,7 +2861,7 @@ function Horace1() {
         Забвенье муки в звуках тех черпают,
         <br />
         <span className="spanIndented">И Орион на боязливых</span>
-        <span className="spanindentedBig">Рысей и львов не ведет охоты?</span>
+        <span className="spanIndentedBig">Рысей и львов не ведет охоты?</span>
         <span className="bigBlank"/> <i>Пер. Г. Ф. Церетели</i>
       </p>
       <h3 id="2_14">14</h3>
@@ -2871,7 +2871,7 @@ function Horace1() {
         Года уходят, и благочестие
         <br />
         <span className="spanIndented">Морщин и старости грозящей</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Не отдалит ни всесильной смерти.
         </span>
       </p>
@@ -2881,7 +2881,7 @@ function Horace1() {
         Тройною, друг мой, немилосердого
         <br />
         <span className="spanIndented">Плутона ты смягчал, который</span>
-        <span className="spanindentedBig">Тития и Гериона держит</span>
+        <span className="spanIndentedBig">Тития и Гериона держит</span>
       </p>
       <p>
         За мрачным током, где без сомнения
@@ -2889,14 +2889,14 @@ function Horace1() {
         Мы все, дарами почвы живущие,
         <br />
         <span className="spanIndented">Проплыть обречены: цари ли</span>
-        <span className="spanindentedBig">Будем мы иль бедняки-крестьяне.</span>
+        <span className="spanIndentedBig">Будем мы иль бедняки-крестьяне.</span>
       </p>
       <p>
         Вотще бежим мы Марса кровавого
         <br />И гулко в скалы бьющего Адрия;
         <br />
         <span className="spanIndented">Вотще беречься будем Австра,</span>
-        <span className="spanindentedBig">Вредного телу порой осенней:</span>
+        <span className="spanIndentedBig">Вредного телу порой осенней:</span>
       </p>
       <p>
         Должны Коцит мы видеть, блуждающий
@@ -2904,7 +2904,7 @@ function Horace1() {
         Струею вялой, и обесславленный
         <br />
         <span className="spanIndented">Даная род и Эолида</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Сизифа казнь – без конца работу.
         </span>
       </p>
@@ -2914,7 +2914,7 @@ function Horace1() {
         Жену, и сколько ты ни растил дерев,
         <br />
         <span className="spanIndented">За преходящим господином</span>
-        <span className="spanindentedBig">Лишь кипарис побредет постылый.</span>
+        <span className="spanIndentedBig">Лишь кипарис побредет постылый.</span>
       </p>
       <p>
         Вин самых тонких за ста запорами
@@ -2922,7 +2922,7 @@ function Horace1() {
         Запас наследник выпьет достойнейший
         <br />
         <span className="spanIndented">И штучный пол окрасит соком</span>
-        <span className="spanindentedBig">Гордым, какой и жрецам на диво.</span>
+        <span className="spanIndentedBig">Гордым, какой и жрецам на диво.</span>
         <span className="bigBlank"/> <i>Пер. Ф. Е. Корша</i>
       </p>
       <h3 id="2_15">15</h3>
@@ -2932,7 +2932,7 @@ function Horace1() {
         Дворцов громады; всюду виднеются
         <br />
         <span className="spanIndented">Пруды, лукринских вод обширней,</span>
-        <span className="spanindentedBig">И вытесняет платан безбрачный</span>
+        <span className="spanIndentedBig">И вытесняет платан безбрачный</span>
       </p>
       <p>
         Лозы подспорье – вязы; душистыми
@@ -2940,7 +2940,7 @@ function Horace1() {
         Цветов коврами с миртовой порослью
         <br />
         <span className="spanIndented">Заменены маслины рощи,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Столько плодов приносившей прежде;
         </span>
       </p>
@@ -2950,7 +2950,7 @@ function Horace1() {
         Весь жар лучей... Не то заповедали
         <br />
         <span className="spanIndented">Нам Ромул и Катон суровый, – </span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Предки другой нам пример давали.
         </span>
       </p>
@@ -2960,7 +2960,7 @@ function Horace1() {
         Но процветала общая собственность;
         <br />
         <span className="spanIndented">Не знали предки в жизни частной</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Портиков длинных, лицом на север;
         </span>
       </p>
@@ -2970,7 +2970,7 @@ function Horace1() {
         Кирпич из дерна, и одобрялся лишь
         <br />
         <span className="spanIndented">Расход общественный на мрамор</span>
-        <span className="spanindentedBig">Для городов и величья храмов.</span>
+        <span className="spanIndentedBig">Для городов и величья храмов.</span>
         <span className="bigBlank"/> <i>Пер. А. П. Семенова-Тян-Шанского</i>
       </p>
       <h3 id="2_16">16</h3>
@@ -3068,7 +3068,7 @@ function Horace1() {
         Не мило то ни вышним богам ни мне,
         <br />
         <span className="spanIndented">Чтоб жизнь вперед меня ты кончил,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Ты, моя гордость, краса, оплот мой!
         </span>
       </p>
@@ -3078,7 +3078,7 @@ function Horace1() {
         Моей души часть, с частью другой зачем -
         <br />
         <span className="spanIndented">Себе не мил, уже калека -</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Медлить я стал бы? Тот день обоим
         </span>
       </p>
@@ -3088,7 +3088,7 @@ function Horace1() {
         Святую клятву: "Вместе пойдем с тобой,
         <br />
         <span className="spanIndented">Куда ни поведешь, мы вместе</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Путь и последний свершить готовы!"
         </span>
       </p>
@@ -3100,7 +3100,7 @@ function Horace1() {
         <span className="spanIndented">
           Гиант сторукий, вновь восставши, –{' '}
         </span>
-        <span className="spanindentedBig">Правды могучей и Парк то воля.</span>
+        <span className="spanIndentedBig">Правды могучей и Парк то воля.</span>
       </p>
       <p>
         И все равно, кто зрел, одержавши верх,
@@ -3108,7 +3108,7 @@ function Horace1() {
         Мой час рожденья: иль Скорпион лихой,
         <br />
         <span className="spanIndented">Весов созвездье, Козерог ли,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Волн Гесперийских владыка мощный.
         </span>
       </p>
@@ -3118,14 +3118,14 @@ function Horace1() {
         Светил влиянье. Злого Сатурна свет
         <br />
         <span className="spanIndented">Затмив, тебя Юпитер вырвал,</span>
-        <span className="spanindentedBig">Спас от него и Судьбы крылатой</span>
+        <span className="spanIndentedBig">Спас от него и Судьбы крылатой</span>
       </p>
       <p>
         Полет замедлил: радости полн тогда
         <br />В театре трижды рукоплескал народ,
         <br />
         <span className="spanIndented">Меня ж, над головой обрушась,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Древо сгубило б, но Фавн, хранитель
         </span>
       </p>
@@ -3135,7 +3135,7 @@ function Horace1() {
         Смягчил. Там жертвы надо тебе воздать
         <br />
         <span className="spanIndented">И храм построить по обету:</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Я ж заколю только агнца скромно.
         </span>
         <span className="bigBlank"/> <i>Пер. Н. С. Гинцбурга</i>
@@ -3251,7 +3251,7 @@ function Horace1() {
         Он песням – верь мне, племя грядущее! -
         <br />
         <span className="spanIndented">Учил и Нимф и козлоногих,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Настороживших свой слух Сатиров.
         </span>
       </p>
@@ -3261,7 +3261,7 @@ function Horace1() {
         Дрожу, но Вакхом полный, я радуюсь
         <br />
         <span className="spanIndented">Душой. Эвое! Вакх, помилуй,</span>
-        <span className="spanindentedBig">Тирсом грозящим меня не трогай.</span>
+        <span className="spanIndentedBig">Тирсом грозящим меня не трогай.</span>
       </p>
       <p>
         Я петь могу Тийяд обезумевших,
@@ -3269,7 +3269,7 @@ function Horace1() {
         Вином и млеком реки текущие,
         <br />
         <span className="spanIndented">И рассказать, как в изобильи</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Мед из дуплистых дерев струился,
         </span>
       </p>
@@ -3279,7 +3279,7 @@ function Horace1() {
         Венец, что стал звездой, про Пенфея дом,
         <br />
         <span className="spanIndented">Распавшийся в паденьи грозном,</span>
-        <span className="spanindentedBig">И про погибель царя Ликурга.</span>
+        <span className="spanIndentedBig">И про погибель царя Ликурга.</span>
       </p>
       <p>
         Под власть свою ты реки и море гнешь,
@@ -3287,7 +3287,7 @@ function Horace1() {
         Средь гор пустынных любишь, вина вкусив,
         <br />
         <span className="spanIndented">Вплетать ты Бистонидам в кудри</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Змей, но они без вреда – не жалят.
         </span>
       </p>
@@ -3297,7 +3297,7 @@ function Horace1() {
         Крутой дорогой к царству Юпитера
         <br />
         <span className="spanIndented">Взбиралась, отразил ты Рета</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Львиною пастью, когтистой лапой,
         </span>
       </p>
@@ -3306,7 +3306,7 @@ function Horace1() {
         <br />К веселой пляске, чем к бою ратному,
         <br />
         <span className="spanIndented">Однако ты остался тем же</span>
-        <span className="spanindentedBig">И среди мирных забав и боя!</span>
+        <span className="spanIndentedBig">И среди мирных забав и боя!</span>
       </p>
       <p>
         Став смирным, Цербер, лишь увидал тебя,
@@ -3314,7 +3314,7 @@ function Horace1() {
         Твой рог златой, – хвостом стал повиливать,
         <br />
         <span className="spanIndented">Когда ж ты уходил, он ноги</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Начал лизать и к лодыжкам жаться.
         </span>
         <span className="bigBlank"/> <i>Пер. Г. Ф. Церетели</i>
@@ -3326,7 +3326,7 @@ function Horace1() {
         Певец двуликий, в выси эфирные,
         <br />
         <span className="spanIndented">С землей расставшись, с городами,</span>
-        <span className="spanindentedBig">Недосягаемый для злословья.</span>
+        <span className="spanIndentedBig">Недосягаемый для злословья.</span>
       </p>
       <p>
         Я, чадо бедных, тот, кого дружески
@@ -3334,7 +3334,7 @@ function Horace1() {
         Ты, Меценат, к себе, в свой чертог зовешь,
         <br />
         <span className="spanIndented">Я смерти непричастен, – волны</span>
-        <span className="spanindentedBig">Стикса меня поглотить не могут.</span>
+        <span className="spanIndentedBig">Стикса меня поглотить не могут.</span>
       </p>
       <p>
         Уже я чую, как утончаются
@@ -3342,7 +3342,7 @@ function Horace1() {
         Под грубой кожей голени, по-пояс
         <br />
         <span className="spanIndented">Я белой птицей стал, и перья</span>
-        <span className="spanindentedBig">Руки и плечи мои одели.</span>
+        <span className="spanIndentedBig">Руки и плечи мои одели.</span>
       </p>
       <p>
         Мчась безопасней сына Дедалова,
@@ -3350,7 +3350,7 @@ function Horace1() {
         Я, певчий лебедь, узрю шумящего
         <br />
         <span className="spanIndented">Босфора брег, гетулов Сирты,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Гиперборейских полей безбрежность.
         </span>
       </p>
@@ -3360,7 +3360,7 @@ function Horace1() {
         Свой страх пред строем марсов, Колхиды сын,
         <br />
         <span className="spanIndented">Гелон далекий, избериец,</span>
-        <span className="spanindentedBig">Люди, что пьют из Родана воду.</span>
+        <span className="spanIndentedBig">Люди, что пьют из Родана воду.</span>
       </p>
       <p>
         Не надо плача в дни мнимых п<i>о</i>хорон,
@@ -3368,7 +3368,7 @@ function Horace1() {
         Ни причитаний жалких и горести.
         <br />
         <span className="spanIndented">Сдержи свой глас, не воздавая</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Почестей лишних пустой гробнице.
         </span>
         <span className="bigBlank"/> <i>Пер. Г. Ф. Церетели</i>
@@ -3381,14 +3381,14 @@ function Horace1() {
         Благоговейте молча: служитель муз -
         <br />
         <span className="spanIndented">Досель неслыханные песни</span>
-        <span className="spanindentedBig">Девам и юношам я слагаю.</span>
+        <span className="spanIndentedBig">Девам и юношам я слагаю.</span>
       </p>
       <p>
         Цари внушают подданных стаду страх,
         <br />А бог Юпитер грозен самим царям:
         <br />
         <span className="spanIndented">Гигантов одолевший, все он</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           В трепет движеньем бровей приводит.
         </span>
       </p>
@@ -3398,7 +3398,7 @@ function Horace1() {
         Сажает лозы; родом знатней, другой
         <br />
         <span className="spanIndented">Сойдет искателем на поле;</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           В славе иль доблести тот поспорит;
         </span>
       </p>
@@ -3408,7 +3408,7 @@ function Horace1() {
         Но без пристрастья жребьем решает Смерть
         <br />
         <span className="spanIndented">Судьбу и знатных и ничтожных:</span>
-        <span className="spanindentedBig">Выкинет урна любое имя.</span>
+        <span className="spanIndentedBig">Выкинет урна любое имя.</span>
       </p>
       <p>
         Над чьей безбожной шеей повиснул меч,
@@ -3416,7 +3416,7 @@ function Horace1() {
         Изъят из ножен, вкус усладить тому
         <br />
         <span className="spanIndented">Не сможет пир и сицилийский:</span>
-        <span className="spanindentedBig">Сна не вернут ему птичек песни</span>
+        <span className="spanIndentedBig">Сна не вернут ему птичек песни</span>
       </p>
       <p>
         Иль звон кифары. Сон не гнушается
@@ -3424,7 +3424,7 @@ function Horace1() {
         Лачугой скромной сельского жителя,
         <br />
         <span className="spanIndented">Реки тенистого прибрежья,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Зыблемых ветром лощин Темпейских.
         </span>
       </p>
@@ -3434,7 +3434,7 @@ function Horace1() {
         Совсем не страшен бурного моря шум,
         <br />
         <span className="spanIndented">Когда свирепый вихрь нагонит</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Гед, восходя, иль Арктур, склоняясь;
         </span>
       </p>
@@ -3444,7 +3444,7 @@ function Horace1() {
         Земли обманы: ливень, – когда шумят
         <br />
         <span className="spanIndented">Деревья, – жгучий зной созвездий,</span>
-        <span className="spanindentedBig">Холод чрезмерный зимы суровой.</span>
+        <span className="spanIndentedBig">Холод чрезмерный зимы суровой.</span>
       </p>
       <p>
         Уж рыбы чуют – водный простор стеснен,
@@ -3452,7 +3452,7 @@ function Horace1() {
         Камней громады ввергнуты в моря глубь;
         <br />
         <span className="spanIndented">И вновь рабы спускают глыбы:</span>
-        <span className="spanindentedBig">Смотрит подрядчик и сам хозяин,</span>
+        <span className="spanIndentedBig">Смотрит подрядчик и сам хозяин,</span>
       </p>
       <p>
         Земли гнушаясь. Сходит, однако, Страх
@@ -3460,7 +3460,7 @@ function Horace1() {
         Тотчас туда же, злые Угрозы вслед
         <br />
         <span className="spanIndented">И черная за ним Забота,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           В крепкой ладье ль он, верхом ли едет.
         </span>
       </p>
@@ -3470,14 +3470,14 @@ function Horace1() {
         Одежды пупрур мук не смягчал моих,
         <br />
         <span className="spanIndented">Ни лучший виноград, ни также</span>
-        <span className="spanindentedBig">Мазь Ахемена... Зачем же стану</span>
+        <span className="spanIndentedBig">Мазь Ахемена... Зачем же стану</span>
       </p>
       <p>
         Я в новом стиле ввысь громоздить мой зал
         <br />С будящей зависть дверью? Зачем менять
         <br />
         <span className="spanIndented">На хлопотливые богатства</span>
-        <span className="spanindentedBig">Мирные нивы долин Сабинских?</span>
+        <span className="spanIndentedBig">Мирные нивы долин Сабинских?</span>
         <span className="bigBlank"/> <i>Пер. Н. С. Гинцбурга</i>
       </p>
       <h3 id="3_2">2</h3>
@@ -3487,7 +3487,7 @@ function Horace1() {
         Готов да будет к тяжким лишениям;
         <br />
         <span className="spanIndented">Да будет грозен он парфянам</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           В бешеной схватке копьем подъятным.
         </span>
       </p>
@@ -3497,21 +3497,21 @@ function Horace1() {
         Он пусть привыкнет. Пусть, увидав его
         <br />
         <span className="spanIndented">Со стен твердыни вражьей, молвит</span>
-        <span className="spanindentedBig">Дочке-невесте жена тирана:</span>
+        <span className="spanIndentedBig">Дочке-невесте жена тирана:</span>
       </p>
       <p>
         "Ах, как бы зять наш будущий, царственный,
         <br />В искусстве ратном мало лишь сведущий,
         <br />
         <span className="spanIndented">Не раззадорил льва, что в сечу</span>
-        <span className="spanindentedBig">Бурно кидается в яром гневе!"</span>
+        <span className="spanIndentedBig">Бурно кидается в яром гневе!"</span>
       </p>
       <p>
         Красна и сладка смерть за отечество:
         <br />А смерть разит ведь также бегущего
         <br />
         <span className="spanIndented">И не щадит у молодежи</span>
-        <span className="spanindentedBig">Спин и поджилок затрепетавших.</span>
+        <span className="spanIndentedBig">Спин и поджилок затрепетавших.</span>
       </p>
       <p>
         Падений жалких в жизни не ведая,
@@ -3519,7 +3519,7 @@ function Horace1() {
         Сияет доблесть славой немеркнущей
         <br />
         <span className="spanIndented">И ни приемлет ни слагает</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Власти, по прихоти толп народных.
         </span>
       </p>
@@ -3529,14 +3529,14 @@ function Horace1() {
         Бессмертья, Доблесть рвется заказанным
         <br />
         <span className="spanIndented">Путем подняться, и на крыльях</span>
-        <span className="spanindentedBig">Быстро летит от толпы и грязи.</span>
+        <span className="spanIndentedBig">Быстро летит от толпы и грязи.</span>
       </p>
       <p>
         Но есть награда также хранителям
         <br />И тайн. И если кто Элевзинские
         <br />
         <span className="spanIndented">Нарушит тайны, то его я</span>
-        <span className="spanindentedBig">Не потерплю под одною кровлей</span>
+        <span className="spanIndentedBig">Не потерплю под одною кровлей</span>
       </p>
       <p>
         Иль в том же челне. Часто Ди<i>е</i>спитер
@@ -3544,7 +3544,7 @@ function Horace1() {
         Карает в гневе с грешным невинного;
         <br />
         <span className="spanIndented">Но редко пред собой злодея</span>
-        <span className="spanindentedBig">Кара упустит, хотя б хромая.</span>
+        <span className="spanIndentedBig">Кара упустит, хотя б хромая.</span>
         <span className="bigBlank"/> <i>Пер. А. П. Семенова-Тян-Шанского</i>
       </p>
       <h3 id="3_3">3</h3>
@@ -3554,7 +3554,7 @@ function Horace1() {
         Ни граждан гнев, что рушить закон велят,
         <br />
         <span className="spanIndented">Ни взор жестокого тирана</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Ввек не откинут с пути; ни ветер,
         </span>
       </p>
@@ -3564,7 +3564,7 @@ function Horace1() {
         Ни Громовержец дланью могучей, – нет:
         <br />
         <span className="spanIndented">Лишь если мир, распавшись, рухнет,</span>
-        <span className="spanindentedBig">Чуждого страха сразят обломки.</span>
+        <span className="spanIndentedBig">Чуждого страха сразят обломки.</span>
       </p>
       <p>
         И П<i>о</i>ллукс так и странник Геракл, взнесясь,
@@ -3572,7 +3572,7 @@ function Horace1() {
         Достигли оба звездных твердынь небес:
         <br />
         <span className="spanIndented">Меж них возлегши, будет Август</span>
-        <span className="spanindentedBig">Нектар пурпурными пить устами.</span>
+        <span className="spanIndentedBig">Нектар пурпурными пить устами.</span>
       </p>
       <p>
         Тебя за то же, Вакх, наш отец, твои
@@ -3580,7 +3580,7 @@ function Horace1() {
         Возили тигры, чуждому им ярму
         <br />
         <span className="spanIndented">Подставив шеи; так же Ромул</span>
-        <span className="spanindentedBig">Орка избегнул на конях Марса,</span>
+        <span className="spanIndentedBig">Орка избегнул на конях Марса,</span>
       </p>
       <p>
         Когда Юнона радость рекла богам,
@@ -3588,7 +3588,7 @@ function Horace1() {
         Совет державшим: "Трою повергнул в прах
         <br />
         <span className="spanIndented">Судья бесчестный, злополучный,</span>
-        <span className="spanindentedBig">Вместе с женой иноземной; Трою</span>
+        <span className="spanIndentedBig">Вместе с женой иноземной; Трою</span>
       </p>
       <p>
         С тех пор, как не дал Лаомедонт богам
@@ -3596,7 +3596,7 @@ function Horace1() {
         Награды должной, – град, обреченный мной
         <br />
         <span className="spanIndented">И девой чистою Минервой,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Вместе с народом, с вождем лукавым.
         </span>
       </p>
@@ -3606,7 +3606,7 @@ function Horace1() {
         Лаконки блудной; клятвопреступный род
         <br />
         <span className="spanIndented">Приама Гектором могучий</span>
-        <span className="spanindentedBig">Греков уже не разит отважных.</span>
+        <span className="spanIndentedBig">Греков уже не разит отважных.</span>
       </p>
       <p>
         Война, что длилась нашим раздором лишь,
@@ -3614,7 +3614,7 @@ function Horace1() {
         Уже затихла. Гнев свой отринув, я
         <br />
         <span className="spanIndented">Теперь помилую для Марса</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Внука, что был, ненавистный, жрицей
         </span>
       </p>
@@ -3624,7 +3624,7 @@ function Horace1() {
         Вступить дозволю; нектара сок вкушать
         <br />
         <span className="spanIndented">И приобщить его отныне</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           К сонмам блаженных богов дозволю.
         </span>
       </p>
@@ -3634,7 +3634,7 @@ function Horace1() {
         Шумящим морем – пусть беглецы царят
         <br />
         <span className="spanIndented">Счастливые в краю желанном;</span>
-        <span className="spanindentedBig">Лишь бы Приама, Париса пепел</span>
+        <span className="spanIndentedBig">Лишь бы Приама, Париса пепел</span>
       </p>
       <p>
         Стада топтали, звери без страха там
@@ -3642,7 +3642,7 @@ function Horace1() {
         Щенят скрывали б, пусть Капитолий, блеск
         <br />
         <span className="spanIndented">Бросая вкруг, стоит, и грозный</span>
-        <span className="spanindentedBig">Рим покоряет парфян законам.</span>
+        <span className="spanIndentedBig">Рим покоряет парфян законам.</span>
       </p>
       <p>
         Внушая страх, он пусть простирает власть
@@ -3650,7 +3650,7 @@ function Horace1() {
         До граней дальних, там, где Европы край
         <br />
         <span className="spanIndented">От Африки пролив отрезал,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Вздувшись, где Нил орошает пашни;
         </span>
       </p>
@@ -3659,7 +3659,7 @@ function Horace1() {
         <br />В земле покуда скрыто (и лучше так!),
         <br />
         <span className="spanIndented">Чем жаждой все собрать святое</span>
-        <span className="spanindentedBig">Хищной рукой на потребу людям.</span>
+        <span className="spanIndentedBig">Хищной рукой на потребу людям.</span>
       </p>
       <p>
         И где бы мира грань ни стояла, пусть
@@ -3667,7 +3667,7 @@ function Horace1() {
         Ее оружьем тронет, стремясь достичь
         <br />
         <span className="spanIndented">Краев, где солнца зной ярится,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Стран, где туманы и ливни вечно.
         </span>
       </p>
@@ -3677,7 +3677,7 @@ function Horace1() {
         Вещаю с тем, чтоб, предков не в меру чтя,
         <br />
         <span className="spanIndented">Они не смели, вверясь счастью,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Дедовской Трои восставить стены.
         </span>
       </p>
@@ -3687,7 +3687,7 @@ function Horace1() {
         Судьба вернется с гибелью горькой вновь:
         <br />
         <span className="spanIndented">Юпитера сестра-супруга,</span>
-        <span className="spanindentedBig">Двину сама я полки победно.</span>
+        <span className="spanIndentedBig">Двину сама я полки победно.</span>
       </p>
       <p>
         Пусть трижды встанет медных оград стена,
@@ -3695,7 +3695,7 @@ function Horace1() {
         Пусть Феб сам строит, – трижды она падет:
         <br />
         <span className="spanIndented">Разрушат греки; трижды жены</span>
-        <span className="spanindentedBig">Пленные мужа, детей оплачут".</span>
+        <span className="spanIndentedBig">Пленные мужа, детей оплачут".</span>
       </p>
       <p>
         Шутливой лире это совсем нейдет!
@@ -3703,7 +3703,7 @@ function Horace1() {
         Куда ты, Муза? Брось же упорно так
         <br />
         <span className="spanIndented">Рассказывать бессмертных речи</span>
-        <span className="spanindentedBig">И унижать величавость малым.</span>
+        <span className="spanIndentedBig">И унижать величавость малым.</span>
         <span className="bigBlank"/> <i>Пер. Н. С. Гинцбурга</i>
       </p>
       <h3 id="3_4">4</h3>
@@ -3715,7 +3715,7 @@ function Horace1() {
         <span className="spanIndented">
           То флейты ль звук, иль голос звонкий,
         </span>
-        <span className="spanindentedBig">Дивные ль струны кифары Феба,</span>
+        <span className="spanIndentedBig">Дивные ль струны кифары Феба,</span>
       </p>
       <p>
         Вы слышите? Иль сладко безумье так
@@ -3723,7 +3723,7 @@ function Horace1() {
         Прельщает слух и зренье мое?.. Брожу
         <br />
         <span className="spanIndented">Священной рощей, мнится: тихо</span>
-        <span className="spanindentedBig">Веют зефиры, ручьи струятся.</span>
+        <span className="spanIndentedBig">Веют зефиры, ручьи струятся.</span>
       </p>
       <p>
         На Вольтур часто мальчиком я ходил.
@@ -3731,7 +3731,7 @@ function Horace1() {
         Когда вдали от грани родных полей,
         <br />
         <span className="spanIndented">Устав резвиться, раз заснул я,</span>
-        <span className="spanindentedBig">Свежей листвою меня прикрыли</span>
+        <span className="spanIndentedBig">Свежей листвою меня прикрыли</span>
       </p>
       <p>
         Голубки. Дивом вкруг то казалось всем, -
@@ -3739,7 +3739,7 @@ function Horace1() {
         Чьи гнезда полнят высь Акерунтии,
         <br />
         <span className="spanIndented">Бантин тенистые дубравы,</span>
-        <span className="spanindentedBig">Тучные пашни низин Форента, -</span>
+        <span className="spanIndentedBig">Тучные пашни низин Форента, -</span>
       </p>
       <p>
         Что невредимым спал я средь черных змей,
@@ -3747,7 +3747,7 @@ function Horace1() {
         Среди медведей, лавром священным скрыт
         <br />
         <span className="spanIndented">И миртовых ветвей листвою,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Мальчик бесстрашный, храним богами.
         </span>
       </p>
@@ -3757,7 +3757,7 @@ function Horace1() {
         Взойду Сабинских, хладной Пренесты ль высь
         <br />
         <span className="spanIndented">Меня приманит, Тибур горный,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Бай ли прозрачный и чистый воздух.
         </span>
       </p>
@@ -3767,7 +3767,7 @@ function Horace1() {
         Ни дуб проклятый, пав, не сгубил меня,
         <br />
         <span className="spanIndented">Ни пораженье при Филиппах,</span>
-        <span className="spanindentedBig">Мыс Палинуp в Сицилийском море.</span>
+        <span className="spanIndentedBig">Мыс Палинуp в Сицилийском море.</span>
       </p>
       <p>
         Пока со мной вы, смело пущусь я в путь:
@@ -3775,7 +3775,7 @@ function Horace1() {
         Средь волн Босфора бешеных буду, плыть,
         <br />
         <span className="spanIndented">На Ассирийском побережье</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Странником в жгучих песках скитаться.
         </span>
       </p>
@@ -3785,14 +3785,14 @@ function Horace1() {
         Конканов племя, пьющее кровь коней;
         <br />
         <span className="spanIndented">Узрю я невредимо дальний</span>
-        <span className="spanindentedBig">Дон и носящих колчаны скифов.</span>
+        <span className="spanIndentedBig">Дон и носящих колчаны скифов.</span>
       </p>
       <p>
         Едва успеет Цезарь великий вновь,
         <br />В бою уставших, воинов в град вернуть,
         <br />
         <span className="spanIndented">Труды военные закончив,</span>
-        <span className="spanindentedBig">В гроте у вас он находит отдых.</span>
+        <span className="spanIndentedBig">В гроте у вас он находит отдых.</span>
       </p>
       <p>
         Вы кротость в мысли льете ему и, влив, -
@@ -3800,7 +3800,7 @@ function Horace1() {
         Благие, – рады. Знаем мы, как толпу
         <br />
         <span className="spanIndented">Титанов страшных, нечестивых,</span>
-        <span className="spanindentedBig">Молнии ринув, сразил Юпитер.</span>
+        <span className="spanIndentedBig">Молнии ринув, сразил Юпитер.</span>
       </p>
       <p>
         Смиряет землю твердою он, морей
@@ -3808,7 +3808,7 @@ function Horace1() {
         Волненье, грады, мрачный подземный край;
         <br />
         <span className="spanIndented">Богами и толпами смертных</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Правит один справедливой властью.
         </span>
       </p>
@@ -3818,7 +3818,7 @@ function Horace1() {
         Младое, силой гордое рук своих,
         <br />
         <span className="spanIndented">И братья, на Олимп тенистый</span>
-        <span className="spanindentedBig">Гору взвалить Пелион пытаясь.</span>
+        <span className="spanIndentedBig">Гору взвалить Пелион пытаясь.</span>
       </p>
       <p>
         Но что Тифей и мощный Мимант могли
@@ -3826,7 +3826,7 @@ function Horace1() {
         Иль грозный видом Порфирион свершить,
         <br />
         <span className="spanIndented">И Рет и Энкелад, метавший</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Груды исторгнутых с корнем вязов, -
         </span>
       </p>
@@ -3836,7 +3836,7 @@ function Horace1() {
         Навстречу дерзким, пылкий Вулкан стоял
         <br />
         <span className="spanIndented">Вот здесь, а там Юнона-матерь,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Бог Аполлон, неразлучный с луком;
         </span>
       </p>
@@ -3846,7 +3846,7 @@ function Horace1() {
         Кастальской чистой; любит он в рощах жить
         <br />
         <span className="spanIndented">Ликийских иль в лесу родимом,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           В храме на Делосе, иль в Патарах.
         </span>
       </p>
@@ -3855,7 +3855,7 @@ function Horace1() {
         <br />С умом же силу боги возносят ввысь;
         <br />
         <span className="spanIndented">Они же ненавидят сильных,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           В сердце к делам беззаконным склонных.
         </span>
       </p>
@@ -3865,7 +3865,7 @@ function Horace1() {
         Гиант сторукий иль Орион: за то,
         <br />
         <span className="spanIndented">Что тщился обольстить Диану,</span>
-        <span className="spanindentedBig">Был укрощен он стрелою Девы.</span>
+        <span className="spanIndentedBig">Был укрощен он стрелою Девы.</span>
       </p>
       <p>
         Земля страдает, чудищ своих сокрыв;
@@ -3873,7 +3873,7 @@ function Horace1() {
         Скорбит, что дети ввергнуты в бледный Орк
         <br />
         <span className="spanIndented">Стрелами молний; пламень Этны</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Быстрый горы сокрушить не может.
         </span>
       </p>
@@ -3883,7 +3883,7 @@ function Horace1() {
         За невоздержность, сидя на нем как страж,
         <br />
         <span className="spanIndented">И Пирифоя, женолюбца,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Триста цепей в преисподней держат.
         </span>
         <span className="bigBlank"/> <i>Пер. Н. С. Гинцбурга</i>
@@ -3895,7 +3895,7 @@ function Horace1() {
         Царит на небе: здесь на земле к богам
         <br />
         <span className="spanIndented">Причтется Август, покоривший</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Риму британцев и персов грозных.
         </span>
       </p>
@@ -3905,7 +3905,7 @@ function Horace1() {
         Вступив с парфянкой, в вражеской жил стране?
         <br />
         <span className="spanIndented">О курия! О порча нравов!</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           В доме состарились тестя, персов
         </span>
       </p>
@@ -3915,7 +3915,7 @@ function Horace1() {
         Забывши тогу, званье, священный щит,
         <br />
         <span className="spanIndented">Забыв огонь пред Вестой вечный,</span>
-        <span className="spanindentedBig">Хоть невредимы твердыни Рима?</span>
+        <span className="spanIndentedBig">Хоть невредимы твердыни Рима?</span>
       </p>
       <p>
         Опасность эту Регул предрек, когда
@@ -3923,7 +3923,7 @@ function Horace1() {
         Не соглашался мира условья он
         <br />
         <span className="spanIndented">Принять и дать пример, что влек бы</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Гибель для Рима в грядущем веке,
         </span>
       </p>
@@ -3933,7 +3933,7 @@ function Horace1() {
         Не обрекли бы: "Стяги я, – молвил он, -
         <br />
         <span className="spanIndented">Прибитые к пунийским храмам</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Видел, доспехи, что с римлян сняты
         </span>
       </p>
@@ -3942,7 +3942,7 @@ function Horace1() {
         <br />К спине свободной руки скрутили; там
         <br />
         <span className="spanIndented">Ворота без запоров; пашут</span>
-        <span className="spanindentedBig">Вновь, разоренные нами, нивы.</span>
+        <span className="spanIndentedBig">Вновь, разоренные нами, нивы.</span>
       </p>
       <p>
         Храбрее разве, выкуплен златом, в бой
@@ -3950,7 +3950,7 @@ function Horace1() {
         Вернется воин?.. Вы прибавляете
         <br />
         <span className="spanIndented">К стыду ущерб: слинявшей шерсти</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Пурпур не может вернуть окраски;
         </span>
       </p>
@@ -3960,7 +3960,7 @@ function Horace1() {
         Идти не хочет к тем, кто отверг ее.
         <br />
         <span className="spanIndented">Как лань, изъятая из сети,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Бросится в бой, так храбрей тот станет.
         </span>
       </p>
@@ -3970,14 +3970,14 @@ function Horace1() {
         Сотрет пунийцев в новой войне, кто мог
         <br />
         <span className="spanIndented">На скрученных руках покорно</span>
-        <span className="spanindentedBig">Узы терпеть, убоявшись смерти.</span>
+        <span className="spanIndentedBig">Узы терпеть, убоявшись смерти.</span>
       </p>
       <p>
         Не зная, как бы жизнь сохранить свою,
         <br />С войной смешал он мир. О, какой позор!
         <br />
         <span className="spanIndented">О Карфаген великий, выше</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Стал ты с паденьем постыдным Рима!"
         </span>
       </p>
@@ -3986,7 +3986,7 @@ function Horace1() {
         <br />И малых деток, ибо лишился прав;
         <br />
         <span className="spanIndented">И мужественно взор суровый</span>
-        <span className="spanindentedBig">В землю вперил, укрепить желая,</span>
+        <span className="spanIndentedBig">В землю вперил, укрепить желая,</span>
       </p>
       <p>
         Душой нетвердых, членов сената: сам
@@ -3994,7 +3994,7 @@ function Horace1() {
         Им дал совет, не данный дотоль нигде,
         <br />
         <span className="spanIndented">Затем – изгнанник беспримерный -</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Быстро прошел меж друзей печальных.
         </span>
       </p>
@@ -4004,7 +4004,7 @@ function Horace1() {
         Он знал, конечно. Все же раздвинул так
         <br />
         <span className="spanIndented">Друзей, что вкруг него стояли,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Всех, что пытались уход замедлить,
         </span>
       </p>
@@ -4014,7 +4014,7 @@ function Horace1() {
         Клиентов споры, суд покидал, спеша,
         <br />
         <span className="spanIndented">Чтоб путь держать к полям Венафра</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Или в спартанский Тарент на отдых.
         </span>
         <span className="bigBlank"/> <i>Пер. Н. С. Гинцбурга</i>
@@ -4026,7 +4026,7 @@ function Horace1() {
         Безвинным будешь, храмов пока богам,
         <br />
         <span className="spanIndented">Повергнутых, не восстановишь,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Статуй, запятнанных черным дымом.
         </span>
       </p>
@@ -4036,7 +4036,7 @@ function Horace1() {
         От них начало, к ним и конец веди:
         <br />
         <span className="spanIndented">Как много бед за небреженье</span>
-        <span className="spanindentedBig">Боги судили отчизне скорбной.</span>
+        <span className="spanIndentedBig">Боги судили отчизне скорбной.</span>
       </p>
       <p>
         Мон<i>е</i>з и Пакро натиск отбили наш,
@@ -4044,7 +4044,7 @@ function Horace1() {
         Веденный дважды с волей богов вразрез, -
         <br />
         <span className="spanIndented">Гордятся, пышную добычу</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           К пронизям скудным своим прибавив.
         </span>
       </p>
@@ -4054,7 +4054,7 @@ function Horace1() {
         Уж близко были дак, эфиоп: один
         <br />
         <span className="spanIndented">Летучими стрелами сильный,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Флотом другой быстроходным грозный.
         </span>
       </p>
@@ -4064,7 +4064,7 @@ function Horace1() {
         Святыню брака, род и семью; затем,
         <br />
         <span className="spanIndented">Отсюда исходя, потоком</span>
-        <span className="spanindentedBig">Хлынули беды в отчизну римлян.</span>
+        <span className="spanIndentedBig">Хлынули беды в отчизну римлян.</span>
       </p>
       <p>
         Едва созревши, рада скорей плясать
@@ -4072,7 +4072,7 @@ function Horace1() {
         Ионян танец дева, и с нежных лет
         <br />
         <span className="spanIndented">Искусно мажется, заране</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Мысль устремляя к любви нечистой.
         </span>
       </p>
@@ -4082,7 +4082,7 @@ function Horace1() {
         За пиром мужним сыщется: нет нужды
         <br />
         <span className="spanIndented">Искать тайком, кому преступно</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Ласки дарить, удалив светильник;
         </span>
       </p>
@@ -4092,7 +4092,7 @@ function Horace1() {
         Идет, велит ли следовать ей купец,
         <br />
         <span className="spanIndented">Зовет ли мореход испанский,</span>
-        <span className="spanindentedBig">Срама ее покупатель щедрый.</span>
+        <span className="spanIndentedBig">Срама ее покупатель щедрый.</span>
       </p>
       <p>
         Иных отцов был юношей род, что встарь
@@ -4100,7 +4100,7 @@ function Horace1() {
         Окрасил море кровью пунийской, смерть
         <br />
         <span className="spanIndented">Принес лихому Антиоху,</span>
-        <span className="spanindentedBig">Пирру-царю, Ганнибалу-зверю.</span>
+        <span className="spanIndentedBig">Пирру-царю, Ганнибалу-зверю.</span>
       </p>
       <p>
         Сыны то были воинов пахарей,
@@ -4108,7 +4108,7 @@ function Horace1() {
         Они умели глыбы земли копать
         <br />
         <span className="spanIndented">Сабинскою мотыгой, строгой</span>
-        <span className="spanindentedBig">Матери волю творя, из леса</span>
+        <span className="spanIndentedBig">Матери волю творя, из леса</span>
       </p>
       <p>
         Таскать вязанки в час, когда тени гор
@@ -4116,7 +4116,7 @@ function Horace1() {
         Растянет солнце, с выи ярмо волам
         <br />
         <span className="spanIndented">Усталым снимет и, скрываясь,</span>
-        <span className="spanindentedBig">Ночи желанную пору близит.</span>
+        <span className="spanIndentedBig">Ночи желанную пору близит.</span>
       </p>
       <p>
         Чего не портит пагубный бег времен?
@@ -4124,7 +4124,7 @@ function Horace1() {
         Отцы, что были хуже, чем деды, – нас
         <br />
         <span className="spanIndented">Негодней вырастили; наше</span>
-        <span className="spanindentedBig">Будет потомство еще порочней.</span>
+        <span className="spanIndentedBig">Будет потомство еще порочней.</span>
         <span className="bigBlank"/> <i>Пер. Н. С. Гинцбурга</i>
       </p>
       <h3 id="3_7">7</h3>
@@ -4134,14 +4134,14 @@ function Horace1() {
         Ведь с весною его светлый Зефир примчит
         <br />
         <span className="spanIndented">Вновь с товаром вифинским,</span>
-        <span className="spanindentedBig">Верность свято хранящего.</span>
+        <span className="spanIndentedBig">Верность свято хранящего.</span>
       </p>
       <p>
         Лишь на небо взошла злобной Козы звезда,
         <br />К Орику отнесен Нотом, он там в слезах
         <br />
         <span className="spanIndented">Не одну, сна не зная,</span>
-        <span className="spanindentedBig">Ночь провел одинокую,</span>
+        <span className="spanIndentedBig">Ночь провел одинокую,</span>
       </p>
       <p>
         Искушала хотя всячески хитрая
@@ -4149,7 +4149,7 @@ function Horace1() {
         Няня Хлои его, гостеприимицы,
         <br />
         <span className="spanIndented">Говоря, что пылает</span>
-        <span className="spanindentedBig">Так к нему, к твоей радости.</span>
+        <span className="spanIndentedBig">Так к нему, к твоей радости.</span>
       </p>
       <p>
         Сказ вела, как жена, вины облыжные
@@ -4157,7 +4157,7 @@ function Horace1() {
         Вероломно взведя, Прета подвигнула
         <br />
         <span className="spanIndented">Против Беллерофонта,</span>
-        <span className="spanindentedBig">Чтоб сгубить его, чистого;</span>
+        <span className="spanIndentedBig">Чтоб сгубить его, чистого;</span>
       </p>
       <p>
         Как чуть не был Пелей передан Тартару,
@@ -4165,7 +4165,7 @@ function Horace1() {
         Ипполиту когда презрел, магнезянку,
         <br />
         <span className="spanIndented">И другие рассказы</span>
-        <span className="spanindentedBig">О любовных грехах вела, – </span>
+        <span className="spanIndentedBig">О любовных грехах вела, – </span>
       </p>
       <p>
         Втуне, ибо пока глух он к ее речам,
@@ -4173,7 +4173,7 @@ function Horace1() {
         Как Икара скала... Лишь бы тебя саму
         <br />
         <span className="spanIndented">К Энипею соседу</span>
-        <span className="spanindentedBig">Не влекло больше должного.</span>
+        <span className="spanIndentedBig">Не влекло больше должного.</span>
       </p>
       <p>
         Хоть и нет никого, кто б с той же ловкостью
@@ -4181,7 +4181,7 @@ function Horace1() {
         Гарцовал на коне по полю Марсову
         <br />
         <span className="spanIndented">И чрез Тусскую реку</span>
-        <span className="spanindentedBig">Переплыл с той же скоростью.</span>
+        <span className="spanIndentedBig">Переплыл с той же скоростью.</span>
       </p>
       <p>
         Ночь придет – дверь запри и не выглядывай
@@ -4189,7 +4189,7 @@ function Horace1() {
         Из окна, услыхав флейты звук жалобный,
         <br />
         <span className="spanIndented">И хотя бы жестокой</span>
-        <span className="spanindentedBig">Звали, будь непреклонною.</span>
+        <span className="spanIndentedBig">Звали, будь непреклонною.</span>
         <span className="bigBlank"/> <i>Пер. Г. Ф. Церетели</i>
       </p>
       <h3 id="3_8">8</h3>
@@ -4523,7 +4523,7 @@ function Horace1() {
         Сладких вин и цветов дара достоин ты;
         <br />
         <span className="spanIndented">Завтра примешь козленка</span>
-        <span className="spanindentedBig">В жертву – первыми рожками</span>
+        <span className="spanIndentedBig">В жертву – первыми рожками</span>
       </p>
       <p>
         Лоб опухший ему битвы, любовь сулит
@@ -4531,7 +4531,7 @@ function Horace1() {
         Но напрасно: твои волны студеные
         <br />
         <span className="spanIndented">Красной кровью окрасит</span>
-        <span className="spanindentedBig">Стада резвого первенец.</span>
+        <span className="spanIndentedBig">Стада резвого первенец.</span>
       </p>
       <p>
         Не коснется тебя жаркой Каникулы
@@ -4539,7 +4539,7 @@ function Horace1() {
         Знойный полдень; даешь свежесть отрадную
         <br />
         <span className="spanIndented">Ты бродячему стаду</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           И в<i>о</i>лу утомленному.
         </span>
       </p>
@@ -4549,7 +4549,7 @@ function Horace1() {
         Ясень в них воспою, скалы с пещерами,
         <br />
         <span className="spanIndented">Где струятся с журчаньем</span>
-        <span className="spanindentedBig">Твои воды болтливые.</span>
+        <span className="spanIndentedBig">Твои воды болтливые.</span>
         <span className="bigBlank"/> <i>Пер. Н. С. Романовского</i>
       </p>
       <h3 id="3_14">14</h3>
@@ -4768,7 +4768,7 @@ function Horace1() {
         Того, что имя Ламиям первым дал
         <br />
         <span className="spanIndented">И остальным своим потокам -</span>
-        <span className="spanindentedBig">Летопись память хранит об этом;</span>
+        <span className="spanIndentedBig">Летопись память хранит об этом;</span>
       </p>
       <p>
         И ты от Лама род свой ведешь, – того,
@@ -4776,7 +4776,7 @@ function Horace1() {
         Что первый власть над стенами Формий взял,
         <br />
         <span className="spanIndented">Над Лирисом, чьи волны в роще</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Нимфы Марики безмолвно льются, -
         </span>
       </p>
@@ -4786,7 +4786,7 @@ function Horace1() {
         Примчит, засыплет листьями рощу всю,
         <br />
         <span className="spanIndented">Устелет брег травой ненужной,</span>
-        <span className="spanindentedBig">Если не лжет многолетний ворон,</span>
+        <span className="spanIndentedBig">Если не лжет многолетний ворон,</span>
       </p>
       <p>
         Дождей предвестник. Дров наготовь сухих,
@@ -4794,7 +4794,7 @@ function Horace1() {
         Пока возможно: завтра ведь ты вином
         <br />
         <span className="spanIndented">И поросенком малым будешь</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Гения тешить с прислугой праздной.
         </span>
         <span className="bigBlank"/> <i>Пер. Н. С. Гинцбурга</i>
@@ -4964,7 +4964,7 @@ function Horace1() {
         Судьбе ль укоры, шутки ли ты несешь,
         <br />
         <span className="spanIndented">Раздоры иль любви безумье,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Легкий ли сон, – о скудель благая!
         </span>
       </p>
@@ -4974,7 +4974,7 @@ function Horace1() {
         Массикский, – можно вскрыть тебя в добрый день.
         <br />
         <span className="spanIndented">Сойди ж – веленье то Корвина:</span>
-        <span className="spanindentedBig">Требует вин он, стоявших долго.</span>
+        <span className="spanIndentedBig">Требует вин он, стоявших долго.</span>
       </p>
       <p>
         Речей Сократа мудрых напился он,
@@ -4982,7 +4982,7 @@ function Horace1() {
         Но все ж не презрит, сколь ни суров, тебя:
         <br />
         <span className="spanIndented">И доблесть древнего Катона</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Часто, по слухам, вином калилась.
         </span>
       </p>
@@ -4992,7 +4992,7 @@ function Horace1() {
         Язык развяжешь; трезвых людей печаль
         <br />
         <span className="spanIndented">И замыслы, что зреют втайне,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Вскрыть ты умеешь с шутливым Вакхом;
         </span>
       </p>
@@ -5002,14 +5002,14 @@ function Horace1() {
         Внушить задор и сил бедняку придать:
         <br />
         <span className="spanIndented">Испив тебя, он не страшится</span>
-        <span className="spanindentedBig">Царских тиар и солдат оружья.</span>
+        <span className="spanIndentedBig">Царских тиар и солдат оружья.</span>
       </p>
       <p>
         Пусть Вакх с Венерой благостной будут здесь,
         <br />И в хоре дружном Грации. Пусть тебя
         <br />
         <span className="spanIndented">При ярких лампах пьют до утра,</span>
-        <span className="spanindentedBig">Как побегут перед Фебом звезды.</span>
+        <span className="spanIndentedBig">Как побегут перед Фебом звезды.</span>
         <span className="bigBlank"/> <i>Пер. Н. С. Гинцбурга</i>
       </p>
       <h3 id="3_22">22</h3>
@@ -5039,7 +5039,7 @@ function Horace1() {
         Ладони к небу, честная Фидила,
         <br />
         <span className="spanIndented">И Ларов ублажишь плодами,</span>
-        <span className="spanindentedBig">Ладана дымом, свиньей-обжорой,</span>
+        <span className="spanIndentedBig">Ладана дымом, свиньей-обжорой,</span>
       </p>
       <p>
         Не тронет Африк пышной лозы твоей
@@ -5047,7 +5047,7 @@ function Horace1() {
         Дыханьем вредным, ржа смертоносная
         <br />
         <span className="spanIndented">Не обесплодит нив, и стада</span>
-        <span className="spanindentedBig">Вред не коснется поры осенней.</span>
+        <span className="spanIndentedBig">Вред не коснется поры осенней.</span>
       </p>
       <p>
         Тельцы, на жертву впредь обреченные,
@@ -5055,7 +5055,7 @@ function Horace1() {
         Что ходят в дебрях снежного Алгида
         <br />
         <span className="spanIndented">Иль от албанских трав тучнеют,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Кровью пусть красят жрецов секиры.
         </span>
       </p>
@@ -5065,7 +5065,7 @@ function Horace1() {
         Овец двухлетних жертвой обильною,
         <br />
         <span className="spanIndented">Тебе, что розмарина веткой</span>
-        <span className="spanindentedBig">Их украшаешь и ломким миртом.</span>
+        <span className="spanIndentedBig">Их украшаешь и ломким миртом.</span>
       </p>
       <p>
         Когда коснется длань равнодушная
@@ -5073,7 +5073,7 @@ function Horace1() {
         Плиты алтарной, Ларов разгневанных
         <br />
         <span className="spanIndented">Богатство жертв смягчит не лучше</span>
-        <span className="spanindentedBig">Полбы святой и трескучей соли.</span>
+        <span className="spanIndentedBig">Полбы святой и трескучей соли.</span>
         <span className="bigBlank"/> <i>Пер. Г. Ф. Церетели</i>
       </p>
       <h3 id="3_24">24</h3>
@@ -5316,7 +5316,7 @@ function Horace1() {
         <br />И долго службу нес не без славы я, -
         <br />
         <span className="spanIndented">Теперь оружие и лиру</span>
-        <span className="spanindentedBig">После побед их стена та примет.</span>
+        <span className="spanIndentedBig">После побед их стена та примет.</span>
       </p>
       <p>
         Что охраняет образ Венеры нам.
@@ -5324,14 +5324,14 @@ function Horace1() {
         Сюда, сюда вы яркие факелы
         <br />
         <span className="spanIndented">Несите и воротам крепким,</span>
-        <span className="spanindentedBig">Грозные ломы, а также луки.</span>
+        <span className="spanIndentedBig">Грозные ломы, а также луки.</span>
       </p>
       <p>
         О золотого Кипра владычица
         <br />И Мемфа, снега вечно лишенного,
         <br />
         <span className="spanIndented">Царица вышняя! Бичом ты</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Раз хоть коснись непокорной Хлои!
         </span>
         <span className="bigBlank"/> <i>Пер. А. П. Семенова-Тян-Шанского </i>
@@ -5558,7 +5558,7 @@ function Horace1() {
         Храню, не тронув, с легким вином кувшин
         <br />
         <span className="spanIndented">И роз цветы; и из орехов</span>
-        <span className="spanindentedBig">Масло тебе, Меценат, на кудри</span>
+        <span className="spanIndentedBig">Масло тебе, Меценат, на кудри</span>
       </p>
       <p>
         Уже отжато: вырвись из уз своих -
@@ -5566,7 +5566,7 @@ function Horace1() {
         Не век же Тибур будешь ты зреть сырой,
         <br />
         <span className="spanIndented">Над полем Эфулы покатым</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Зреть Телегона-злодея г<i>о</i>ры.
         </span>
       </p>
@@ -5576,7 +5576,7 @@ function Horace1() {
         Чертог, достигший выси далеких туч;
         <br />
         <span className="spanIndented">В богатом Риме брось дивиться</span>
-        <span className="spanindentedBig">Грохоту, дыму и пышным зданьям;</span>
+        <span className="spanIndentedBig">Грохоту, дыму и пышным зданьям;</span>
       </p>
       <p>
         Богатым радость – жизни уклад сменять;
@@ -5584,7 +5584,7 @@ function Horace1() {
         Под кровлей низкой скромный для них обед
         <br />
         <span className="spanIndented">Без багреца, без балдахина</span>
-        <span className="spanindentedBig">Часто морщины со лба сгонял им.</span>
+        <span className="spanIndentedBig">Часто морщины со лба сгонял им.</span>
       </p>
       <p>
         Уж Андромеды светлый отец Кефей
@@ -5592,7 +5592,7 @@ function Horace1() {
         Огнем блистает: Малый бушует Пес
         <br />
         <span className="spanIndented">И Льва безумного созвездье;</span>
-        <span className="spanindentedBig">Знойные дни возвращает Солнце.</span>
+        <span className="spanIndentedBig">Знойные дни возвращает Солнце.</span>
       </p>
       <p>
         С бредущим вяло стадом уж в тень спеша,
@@ -5600,7 +5600,7 @@ function Horace1() {
         Пастух усталый ищет ручей в кустах
         <br />
         <span className="spanIndented">Косматого Сильвана; смолкнул</span>
-        <span className="spanindentedBig">Брег, ветерок перелетный замер.</span>
+        <span className="spanIndentedBig">Брег, ветерок перелетный замер.</span>
       </p>
       <p>
         Тебя заботит, лучше какой уклад
@@ -5608,7 +5608,7 @@ function Horace1() {
         Для граждан: ты ведь полон тревог за Рим;
         <br />
         <span className="spanIndented">Готовят что нам серы, бактры,</span>
-        <span className="spanindentedBig">Киру покорные встарь, и скифы.</span>
+        <span className="spanIndentedBig">Киру покорные встарь, и скифы.</span>
       </p>
       <p>
         Но мудро боги скрыли от нас исход
@@ -5616,7 +5616,7 @@ function Horace1() {
         Времен грядущих мраком густым: для них
         <br />
         <span className="spanIndented">Смешно, коль то, что не дано им,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Смертных тревожит. Что есть, спокойно
         </span>
       </p>
@@ -5626,7 +5626,7 @@ function Horace1() {
         Подобно Тибру: в русле сейчас своем
         <br />
         <span className="spanIndented">В Этрусское он море льется</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Мирно, – а завтра, подъявши камни,
         </span>
       </p>
@@ -5636,7 +5636,7 @@ function Horace1() {
         Все вместе катит: шум оглашает вкруг
         <br />
         <span className="spanIndented">Леса соседние и горы;</span>
-        <span className="spanindentedBig">Дразнит и тихие реки дикий</span>
+        <span className="spanIndentedBig">Дразнит и тихие реки дикий</span>
       </p>
       <p>
         Разлив. Проводит весело жизнь свою
@@ -5644,7 +5644,7 @@ function Horace1() {
         Как хочет тот, кто может сказать: сей день
         <br />
         <span className="spanIndented">Я прожил, завтра – черной тучей</span>
-        <span className="spanindentedBig">Пусть занимает Юпитер небо</span>
+        <span className="spanIndentedBig">Пусть занимает Юпитер небо</span>
       </p>
       <p>
         Иль ясным солнцем, – все же не властен он,
@@ -5652,7 +5652,7 @@ function Horace1() {
         Что раз свершилось, то повернуть назад;
         <br />
         <span className="spanIndented">Что время быстрое умчало,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           То отменить иль не бывшим сделать.
         </span>
       </p>
@@ -5661,7 +5661,7 @@ function Horace1() {
         <br />С упорством диким тешить жестокий нрав:
         <br />
         <span className="spanIndented">То мне даруя благосклонно</span>
-        <span className="spanindentedBig">Почести шаткие, то – другому.</span>
+        <span className="spanIndentedBig">Почести шаткие, то – другому.</span>
       </p>
       <p>
         Ее хвалю я, если со мной; когда ж
@@ -5669,7 +5669,7 @@ function Horace1() {
         Летит к другому, то, возвратив дары
         <br />
         <span className="spanIndented">И в добродетель облачившись,</span>
-        <span className="spanindentedBig">Бедности рад я и бесприданной.</span>
+        <span className="spanIndentedBig">Бедности рад я и бесприданной.</span>
       </p>
       <p>
         Ведь мне не нужно, если корабль трещит
@@ -5677,7 +5677,7 @@ function Horace1() {
         От южной бури, жалкие слать мольбы
         <br />
         <span className="spanIndented">Богам, давать обеты, лишь бы</span>
-        <span className="spanindentedBig">Жадному морю богатств не придал</span>
+        <span className="spanIndentedBig">Жадному морю богатств не придал</span>
       </p>
       <p>
         Из Тира, с Кипра ценных товаров груз.
@@ -5685,7 +5685,7 @@ function Horace1() {
         Нет! я отважно, в челн двухвесельный сев,
         <br />
         <span className="spanIndented">Доверясь Близнецам и ветру,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           В бурю помчусь по волнам эгейским.
         </span>
         <span className="bigBlank"/> <i>Пер. Н. С. Гинцбурга</i>
@@ -6049,7 +6049,7 @@ function Horace1() {
         Царю богов он молниеносцем был;
         <br />
         <span className="spanIndented">При похищеньи Ганимеда</span>
-        <span className="spanindentedBig">Верность его испытал Юпитер.</span>
+        <span className="spanIndentedBig">Верность его испытал Юпитер.</span>
       </p>
       <p>
         Птенца когда-то пылкость – отцовский дар -
@@ -6057,14 +6057,14 @@ function Horace1() {
         Его толкнула вон из гнезд? лететь,
         <br />
         <span className="spanIndented">Труда незнавшим; ветер вешний</span>
-        <span className="spanindentedBig">Робкого новым движеньям в небе</span>
+        <span className="spanIndentedBig">Робкого новым движеньям в небе</span>
       </p>
       <p>
         Учил, согнавши тучи. Затем его
         <br />К земле, к овчарням пылкий порыв увлек;
         <br />
         <span className="spanIndented">А ныне жажда пищи, брани</span>
-        <span className="spanindentedBig">Гонит его на борьбу с драконом.</span>
+        <span className="spanIndentedBig">Гонит его на борьбу с драконом.</span>
       </p>
       <p>
         В лугу отрадном, тешась травой, коза
@@ -6072,7 +6072,7 @@ function Horace1() {
         Вдруг видит львенка (в пору, как прогнан он
         <br />
         <span className="spanIndented">От груди матери) и чует -</span>
-        <span className="spanindentedBig">Сгубят ее молодые зубы...</span>
+        <span className="spanIndentedBig">Сгубят ее молодые зубы...</span>
       </p>
       <p>
         Такой же страх винд<i>е</i>ликам Друз внушил,
@@ -6080,7 +6080,7 @@ function Horace1() {
         Когда в Ретийских Альпах он вел войну.
         <br />
         <span className="spanIndented">Откуда взяли те обычай</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Всюду, как встарь амазонки, острый
         </span>
       </p>
@@ -6089,7 +6089,7 @@ function Horace1() {
         <br />Я бросил: право, все не дано нам знать.
         <br />
         <span className="spanIndented">Орды, победные доселе,</span>
-        <span className="spanindentedBig">Все перед юношей мудрым пали,</span>
+        <span className="spanIndentedBig">Все перед юношей мудрым пали,</span>
       </p>
       <p>
         Поняв, какая сила талант и ум,
@@ -6097,7 +6097,7 @@ function Horace1() {
         Когда воспитан в доме, что люб богам,
         <br />
         <span className="spanIndented">И что отеческой заботой</span>
-        <span className="spanindentedBig">Август для юных Неронов сделал.</span>
+        <span className="spanIndentedBig">Август для юных Неронов сделал.</span>
       </p>
       <p>
         Рождают храбрых храбрые; лишь отцов
@@ -6105,7 +6105,7 @@ function Horace1() {
         Наследье – доблесть коней младых, быков;
         <br />
         <span className="spanIndented">Орлы жестокие не могут</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Мирных на свет произвесть голубок.
         </span>
       </p>
@@ -6115,7 +6115,7 @@ function Horace1() {
         Уход разумный доблесть в груди крепит;
         <br />
         <span className="spanIndented">Когда же нравственность слабеет,</span>
-        <span className="spanindentedBig">Все благородное грех позорит.</span>
+        <span className="spanIndentedBig">Все благородное грех позорит.</span>
       </p>
       <p>
         Обязан чем ты роду Неронов, Рим,
@@ -6123,7 +6123,7 @@ function Horace1() {
         Тому свидетель берег Метавра, там
         <br />
         <span className="spanIndented">Разбит был Газдрубал в тот чудный</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           День, что рассеявши мрак, впервые
         </span>
       </p>
@@ -6132,7 +6132,7 @@ function Horace1() {
         <br />С тех пор как, словно пламя в сухом бору,
         <br />
         <span className="spanIndented">Иль Евр над морем Сицилийским,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Мчался верхом Ганнибал чрез грады.
         </span>
       </p>
@@ -6142,7 +6142,7 @@ function Horace1() {
         Расти уж стал, и в храмах, безбожно так
         <br />
         <span className="spanIndented">Рукой пунийца разоренных,</span>
-        <span className="spanindentedBig">Вновь водворились благие боги.</span>
+        <span className="spanIndentedBig">Вновь водворились благие боги.</span>
       </p>
       <p>
         Коварный молвил враг Ганнибал тогда:
@@ -6150,21 +6150,21 @@ function Horace1() {
         "Волков добыча хищных – олени мы
         <br />
         <span className="spanIndented">Идем на тех, кого избегнуть</span>
-        <span className="spanindentedBig">Было бы высшим триумфом нашим.</span>
+        <span className="spanIndentedBig">Было бы высшим триумфом нашим.</span>
       </p>
       <p>
         Народ сей после Трои сожженья смог,
         <br />В волнах этрусских долго блуждав, донесть
         <br />
         <span className="spanIndented">Отважно до брегов авзонских</span>
-        <span className="spanindentedBig">Отчих богов и детей, и старцев.</span>
+        <span className="spanIndentedBig">Отчих богов и детей, и старцев.</span>
       </p>
       <p>
         Как дуб секирой срезан, сильней растет
         <br />В густых дубравах Алгида, так и он
         <br />
         <span className="spanIndented">Средь тяжких битв и поражений</span>
-        <span className="spanindentedBig">Дух укрепляет самим железом.</span>
+        <span className="spanIndentedBig">Дух укрепляет самим железом.</span>
       </p>
       <p>
         Росла не пуще Гидра, когда Геракл,
@@ -6172,7 +6172,7 @@ function Horace1() {
         Томясь бесчестьем, головы ей рубил;
         <br />
         <span className="spanIndented">Не знали Фивы Эхиона</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Чудищ грозней, иль народ Колхиды.
         </span>
       </p>
@@ -6182,7 +6182,7 @@ function Horace1() {
         Поборешь – свергнет вдруг победителя
         <br />
         <span className="spanIndented">С великой славой и вступает</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           В битвы, что после восхвалят жены.
         </span>
       </p>
@@ -6194,7 +6194,7 @@ function Horace1() {
         <span className="spanIndented">
           С тех пор, как Газдрубал сражен был, -
         </span>
-        <span className="spanindentedBig">Имени нашего счастья пало.</span>
+        <span className="spanIndentedBig">Имени нашего счастья пало.</span>
       </p>
       <p>
         Все могут сделать Клавдия войск полки:
@@ -6202,7 +6202,7 @@ function Horace1() {
         Их жизнь Юпитер сам, благосклонный к ним,
         <br />
         <span className="spanIndented">Хранит; их мудрые расчеты</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           В брани опаснейший миг спасают".
         </span>
         <span className="bigBlank"/> <i>Пер. Н. С. Гинцбурга</i>
@@ -6528,7 +6528,7 @@ function Horace1() {
         Чт<i>о</i> я, рожденный там, где шумит Ауфид,
         <br />
         <span className="spanIndented">С досель неведомым искусством</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Складывал в песни под звуки лиры.
         </span>
       </p>
@@ -6538,7 +6538,7 @@ function Horace1() {
         Но все ж поэты: Пиндар, гроза-Алкей,
         <br />
         <span className="spanIndented">Степенный Стесихор, Кеосец</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Скорбный, – еще не забыты славой.
         </span>
       </p>
@@ -6548,7 +6548,7 @@ function Horace1() {
         Анакреонт, и дышит еще любовь,
         <br />
         <span className="spanIndented">И живы, вверенные струнам,</span>
-        <span className="spanindentedBig">Пылкие песни Лесбийской девы.</span>
+        <span className="spanIndentedBig">Пылкие песни Лесбийской девы.</span>
       </p>
       <p>
         Прельстясь кудрями пышными иль одежд
@@ -6556,7 +6556,7 @@ function Horace1() {
         Златою тканью, роскошью царской, слуг
         <br />
         <span className="spanIndented">Числом, – из женщин не одна ведь</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Страстью любовной зажглась Елена.
         </span>
       </p>
@@ -6566,7 +6566,7 @@ function Horace1() {
         Из луков критских; Троя была не раз
         <br />
         <span className="spanIndented">В осаде; не один сражались</span>
-        <span className="spanindentedBig">Идоменей и Сфенел – герои.</span>
+        <span className="spanIndentedBig">Идоменей и Сфенел – герои.</span>
       </p>
       <p>
         В боях, достойных пения Муз; приял
@@ -6574,7 +6574,7 @@ function Horace1() {
         Свирепый Гектор и Деифоб лихой
         <br />
         <span className="spanIndented">Не первым тяжкие удары -</span>
-        <span className="spanindentedBig">Кару за юношей, жен стыдливых</span>
+        <span className="spanIndentedBig">Кару за юношей, жен стыдливых</span>
       </p>
       <p>
         Немало храбрых до Агамемнона
@@ -6584,7 +6584,7 @@ function Horace1() {
         <span className="spanIndented">
           Гнетет их всех, без слез, в забвеньи:
         </span>
-        <span className="spanindentedBig">Вещего не дал им рок поэта.</span>
+        <span className="spanIndentedBig">Вещего не дал им рок поэта.</span>
       </p>
       <p>
         Талант безвестный близок к бездарности,
@@ -6592,7 +6592,7 @@ function Horace1() {
         Зарытой в землю. Лоллий! Мои стихи
         <br />
         <span className="spanIndented">Тебя без славы не оставят;</span>
-        <span className="spanindentedBig">Подвигов столько твоих не дам я</span>
+        <span className="spanIndentedBig">Подвигов столько твоих не дам я</span>
       </p>
       <p>
         Пожрать забвенью жадному без борьбы.
@@ -6600,7 +6600,7 @@ function Horace1() {
         Тебе природой ум дальновидный дан,
         <br />
         <span className="spanIndented">Душою прям и тверд всегда ты</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           В благоприятных делах и трудных;
         </span>
       </p>
@@ -6610,7 +6610,7 @@ function Horace1() {
         Чуждался денег, всем столь желанных, ты;
         <br />
         <span className="spanIndented">Был консулом не год один лишь;</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Добрый надежный судья, всегда ты
         </span>
       </p>
@@ -6620,7 +6620,7 @@ function Horace1() {
         Людей преступных прочь отметал дары
         <br />
         <span className="spanIndented">С презрением, и правосудья</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Меч проносил сквозь толпу густую.
         </span>
       </p>
@@ -6630,7 +6630,7 @@ function Horace1() {
         Владеет многим: имя счастливца тот
         <br />
         <span className="spanIndented">Носить достойней, кто умеет</span>
-        <span className="spanindentedBig">Вышних даяньях вкушать разумно,</span>
+        <span className="spanIndentedBig">Вышних даяньях вкушать разумно,</span>
       </p>
       <p>
         Привык суровой бедности гнет терпеть,
@@ -6638,7 +6638,7 @@ function Horace1() {
         Боится пуще смерти постыдных дел,
         <br />
         <span className="spanIndented">Но за друзей и за отчизну</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Смерти навстречу пойдет без страха.
         </span>
         <span className="bigBlank"/> <i>Пер. Н. С. Гинцбурга</i>
@@ -6809,7 +6809,7 @@ function Horace1() {
         Вняли, Лика! И вот ты уже старишься,
         <br />
         <span className="spanIndented">Но все хочешь казаться</span>
-        <span className="spanindentedBig">Юной, – пляшешь, бесстыдница,</span>
+        <span className="spanIndentedBig">Юной, – пляшешь, бесстыдница,</span>
       </p>
       <p>
         Пьешь и хочешь зазвать песнью дрожащею
@@ -6817,14 +6817,14 @@ function Horace1() {
         Ты Эрота, а тот жертву ждет новую
         <br />
         <span className="spanIndented">На ланитах цветущей</span>
-        <span className="spanindentedBig">Хии, цитры владычицы.</span>
+        <span className="spanIndentedBig">Хии, цитры владычицы.</span>
       </p>
       <p>
         Он, порхая, дубов дряхлых сторонится
         <br />И тебя потому он обегает, что
         <br />
         <span className="spanIndented">У тебя уж морщины,</span>
-        <span className="spanindentedBig">Зубы желты и снег в кудрях.</span>
+        <span className="spanIndentedBig">Зубы желты и снег в кудрях.</span>
       </p>
       <p>
         И ни косская ткань полупрозрачная,
@@ -6832,7 +6832,7 @@ function Horace1() {
         Ни камней дорогих блеск не вернут тебе
         <br />
         <span className="spanIndented">Тех времен улетевших,</span>
-        <span className="spanindentedBig">След которых лишь в записях.</span>
+        <span className="spanIndentedBig">След которых лишь в записях.</span>
       </p>
       <p>
         Где же прелесть, увы, где же румянец твой.
@@ -6840,7 +6840,7 @@ function Horace1() {
         Где движений краса? Облик где той-то, – той,
         <br />
         <span className="spanIndented">Что любовью дышала,</span>
-        <span className="spanindentedBig">Сердце тайно в полон брала,</span>
+        <span className="spanIndentedBig">Сердце тайно в полон брала,</span>
       </p>
       <p>
         Состязаясь красой с юной Цинарою?
@@ -6848,7 +6848,7 @@ function Horace1() {
         Но Цинаре судьба краткий лишь век дала,
         <br />
         <span className="spanIndented">Собираясь, вороне</span>
-        <span className="spanindentedBig">Старой возрастом равную,</span>
+        <span className="spanIndentedBig">Старой возрастом равную,</span>
       </p>
       <p>
         Лику долго хранить, чтоб этим зрелищем
@@ -6856,7 +6856,7 @@ function Horace1() {
         Любоваться могли пылкие юноши,
         <br />
         <span className="spanIndented">Не без громкого смеха</span>
-        <span className="spanindentedBig">Пред обугленным факелом.</span>
+        <span className="spanIndentedBig">Пред обугленным факелом.</span>
         <span className="bigBlank"/> <i>Пер. А. П. Семенова-Тян-Шанского</i>
       </p>
       <h3 id="4_14">14</h3>
@@ -6866,7 +6866,7 @@ function Horace1() {
         Увековечить подвиги мог твои,
         <br />
         <span className="spanIndented">О Август, честь воздать заслугам,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Выбив на камне, вписав их в фасты?
         </span>
       </p>
@@ -6878,7 +6878,7 @@ function Horace1() {
         <span className="spanIndented">
           Винд<i>е</i>лики, кому латинян
         </span>
-        <span className="spanindentedBig">Чужды законы, еще недавно</span>
+        <span className="spanIndentedBig">Чужды законы, еще недавно</span>
       </p>
       <p>
         Твою узнали мощь на войне: народ
@@ -6886,14 +6886,14 @@ function Horace1() {
         Генавнов дикий бревнов проворных Друз
         <br />
         <span className="spanIndented">Прогнал, двойное пораженье</span>
-        <span className="spanindentedBig">Им нанеся и низвергнув башни,</span>
+        <span className="spanIndentedBig">Им нанеся и низвергнув башни,</span>
       </p>
       <p>
         Что враг в Альпийских грозных горах возвел.
         <br />А вскоре старший в доме Неронов дал
         <br />
         <span className="spanIndented">Жестокий бой свирепым ретам,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Волей богов обратил их в бегство.
         </span>
       </p>
@@ -6903,7 +6903,7 @@ function Horace1() {
         Как он без счета груди врагов дробил,
         <br />
         <span className="spanIndented">Что обрекли себя на гибель.</span>
-        <span className="spanindentedBig">Словно бурливые воды ветер</span>
+        <span className="spanIndentedBig">Словно бурливые воды ветер</span>
       </p>
       <p>
         Волнует южный, в пору, когда Плеяд
@@ -6911,7 +6911,7 @@ function Horace1() {
         Созвездье тучи режет, полки врагов
         <br />
         <span className="spanIndented">Без устали теснил Тиберий,</span>
-        <span className="spanindentedBig">В самую сечу с конем врываясь.</span>
+        <span className="spanIndentedBig">В самую сечу с конем врываясь.</span>
       </p>
       <p>
         Как Ауфид бурный – туроподобный – вдруг
@@ -6919,7 +6919,7 @@ function Horace1() {
         Чрез царство Давна волны свирепо мчит,
         <br />
         <span className="spanIndented">Полям и нивам апулийца</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           В гневе грозя наводненьем страшным,
         </span>
       </p>
@@ -6929,7 +6929,7 @@ function Horace1() {
         Одетых в латы варваров без потерь;
         <br />
         <span className="spanIndented">Кося и задних и передних,</span>
-        <span className="spanindentedBig">Трупами землю устлал победно.</span>
+        <span className="spanIndentedBig">Трупами землю устлал победно.</span>
       </p>
       <p>
         Ты войско, мудрость, милость богов ему
@@ -6937,7 +6937,7 @@ function Horace1() {
         Сумел доставить. С той ведь поры, как порт
         <br />
         <span className="spanIndented">Тебе с мольбой Александрия</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Вместе с дворцом, уж пустым, открыла,
         </span>
       </p>
@@ -6947,7 +6947,7 @@ function Horace1() {
         Фортуны милость добрый исход войны,
         <br />
         <span className="spanIndented">К деяньям, прежде совершенным.</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Лавры прибавив и блеск желанный.
         </span>
       </p>
@@ -6957,7 +6957,7 @@ function Horace1() {
         Кочевник скиф и индус – дивятся все
         <br />
         <span className="spanIndented">Тебе, Италии и Рима</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Здесь на земле, покровитель мощный!
         </span>
       </p>
@@ -6967,7 +6967,7 @@ function Horace1() {
         Таит, и Истр, и быстро текущий Тигр,
         <br />
         <span className="spanIndented">И Океан, чудовищ полный,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Ревом глушащий британцев дальних.
         </span>
       </p>
@@ -6977,7 +6977,7 @@ function Horace1() {
         Пред смертью трепет; дикой земли сыны -
         <br />
         <span className="spanIndented">Испанцы; и тебя сигамбры</span>
-        <span className="spanindentedBig">Чтят, кровожадные, сдав оружье.</span>
+        <span className="spanIndentedBig">Чтят, кровожадные, сдав оружье.</span>
         <span className="bigBlank"/> <i>Пер. Н. С. Гинцбурга</i>
       </p>
       <h3 id="4_15">15</h3>
@@ -6986,7 +6986,7 @@ function Horace1() {
         <br />И войны, но по лире ударил Феб,
         <br />
         <span className="spanIndented">Чтоб не дерзнул я слабый парус</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Вверить простору зыбей тирренских.
         </span>
       </p>
@@ -6996,7 +6996,7 @@ function Horace1() {
         Он возвратил Юпитеру нашему,
         <br />
         <span className="spanIndented">Сорвав со стен кичливых парфов,</span>
-        <span className="spanindentedBig">Наши значки; он замкнул святыню</span>
+        <span className="spanIndentedBig">Наши значки; он замкнул святыню</span>
       </p>
       <p>
         Квирина, без войны опустевшую;
@@ -7004,7 +7004,7 @@ function Horace1() {
         Узду накинул на своеволие,
         <br />
         <span className="spanIndented">Губившее правопорядок;</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           И, обуздавши преступность, к жизни
         </span>
       </p>
@@ -7014,7 +7014,7 @@ function Horace1() {
         Латинян имя, мощь италийскую
         <br />
         <span className="spanIndented">И власть и славу, от заката</span>
-        <span className="spanindentedBig">Солнца в Гесперии до восхода.</span>
+        <span className="spanIndentedBig">Солнца в Гесперии до восхода.</span>
       </p>
       <p>
         Хранит нас Цезарь, и ни насилие
@@ -7022,7 +7022,7 @@ function Horace1() {
         Мир не нарушит, ни межусобица,
         <br />
         <span className="spanIndented">Ни гнев, что меч кует и часто</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Город на город враждой подъемлет.
         </span>
       </p>
@@ -7032,7 +7032,7 @@ function Horace1() {
         Кто воду пьет Дуная глубокого,
         <br />
         <span className="spanIndented">И сер, и гет, и перс лукавый,</span>
-        <span className="spanindentedBig">
+        <span className="spanIndentedBig">
           Или же тот, кто близ Дона вырос.
         </span>
       </p>
@@ -7042,7 +7042,7 @@ function Horace1() {
         Среди даров веселого Либера,
         <br />
         <span className="spanIndented">С детьми и с женами своими</span>
-        <span className="spanindentedBig">Перед богами свершив моленье,</span>
+        <span className="spanIndentedBig">Перед богами свершив моленье,</span>
       </p>
       <p>
         Петь будем по заветам по дедовским
@@ -7050,7 +7050,7 @@ function Horace1() {
         Под звуки флейт про славных воителей,
         <br />
         <span className="spanIndented">Про Трою нашу, про Анхиза</span>
-        <span className="spanindentedBig">И про потомка благой Венеры.</span>
+        <span className="spanIndentedBig">И про потомка благой Венеры.</span>
         <span className="bigBlank"/> <i>Пер. Г. Ф. Церетели</i>
       </p>
     </>
