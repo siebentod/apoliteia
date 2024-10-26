@@ -43,6 +43,7 @@ const dynamicRoutes = [
   '/une-saison-en-enfer',
   '/wer-denkt-abstract',
   '/zarathustra',
+  '/zur-genealogie-der-moral',
 ];
 
 export default {
