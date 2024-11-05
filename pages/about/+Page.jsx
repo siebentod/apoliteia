@@ -1,7 +1,6 @@
 import { Helmet } from 'react-helmet';
 import './home.scss';
 import qrCode from './qrCode.png';
-import LiCollapsible from '../../components/Toc/LiCollapsible';
 import './spoiler.scss';
 
 export default function Page() {
@@ -20,25 +19,47 @@ export default function Page() {
       </div>
       <div
         className="home__main"
-        style={{ textAlign: 'center', color: 'grey', marginTop: '20px' }}
+        style={{ textAlign: 'center', marginTop: '20px' }}
       >
-        <p>
+        <p className="mail">
           <a href="mailto:siebentod@mail.ru">siebentod@mail.ru</a>
         </p>
-        <h2 style={{ color: 'white', marginBottom: '10px' }}>
-          Жертвоприношение
-          {/* Подарить чай библиотекарю */}
-          {/* Пожаловать библиотекарю чай */}
-        </h2>
-        <a href="https://pay.cloudtips.ru/p/573f6bb3">
-          <img src={qrCode} style={{ width: '20dvw', height: '20dvw' }} />
-          <p style={{ marginTop: '1px', marginBottom: '5px' }}>
-            https://pay.cloudtips.ru/p/573f6bb3
-          </p>
-        </a>
-        <LiCollapsible title="Прямой номер">
-          <span>4276 1300 1766 7498</span>
-        </LiCollapsible>
+        <li className="collapsible">
+          <label className="collapsibleItem">
+            <input type="checkbox" />
+            <span className="main-spoiler">
+              Жертвоприношение
+              {/* Подарить чай библиотекарю */}
+              {/* Пожаловать библиотекарю чай */}
+            </span>
+          </label>
+          <ul>
+            <a href="https://pay.cloudtips.ru/p/573f6bb3" className="donate">
+              <img src={qrCode} style={{ width: '20dvw', height: '20dvw' }} />
+              <span className="donate__link">
+                https://pay.cloudtips.ru/p/573f6bb3
+              </span>
+            </a>
+            <li className="collapsible">
+              <label className="collapsibleItem">
+                <input type="checkbox" />
+                <span
+                  style={{
+                    marginBottom: '10px',
+                  }}
+                >
+                  Прямой номер
+                  {/* Подарить чай библиотекарю */}
+                  {/* Пожаловать библиотекарю чай */}
+                </span>
+              </label>
+              <ul>
+                <span>4276 1300 1766 7498</span>
+              </ul>
+            </li>
+          </ul>
+        </li>
+
         <div className="blank"></div>
       </div>
       <footer>

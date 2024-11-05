@@ -153,7 +153,7 @@ function TextChronology() {
           <li>[Гиппий Больший]</li>
           <li>Гиппий Меньший</li>
           <a href="/plato-ion">
-            <li style={{ padding: '0.5dvh 0.5dvw' }}>Ион</li>
+            <li style={{ padding: '0.3dvh 0.3dvw' }}>Ион</li>
           </a>
           <li>Лахет</li>
           <li>Лисий</li>
