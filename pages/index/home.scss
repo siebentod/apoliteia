@@ -275,16 +275,16 @@ body {
       background-color: rgb(15, 15, 15);
     }
     .right-bottom {
-      border-bottom-right-radius: 10px;
+      border-bottom-right-radius: 5px;
     }
     .left-bottom {
-      border-bottom-left-radius: 10px;
+      border-bottom-left-radius: 5px;
     }
     .left-top {
-      border-top-left-radius: 10px;
+      border-top-left-radius: 5px;
     }
     .right-top {
-      border-top-right-radius: 10px;
+      border-top-right-radius: 5px;
     }
   }
 
@@ -335,20 +335,21 @@ body {
     .border-left {
       // border-left: 1px solid rgb(15, 15, 15); //border;
     }
-    .top-left {
-      border-top-left-radius: 10px;
-    }
-    .top-right {
-      border-top-right-radius: 10px;
-    }
-    .bottom-left {
-      border-bottom-left-radius: 10px;
-    }
-    .bottom-right {
-      border-bottom-right-radius: 10px;
-    }
     .border-bottom {
       // border-bottom: 1px solid rgb(15, 15, 15); //border;
+    }
+
+    .top-left {
+      border-top-left-radius: 5px;
+    }
+    .top-right {
+      border-top-right-radius: 5px;
+    }
+    .bottom-left {
+      border-bottom-left-radius: 5px;
+    }
+    .bottom-right {
+      border-bottom-right-radius: 5px;
     }
   }
 
