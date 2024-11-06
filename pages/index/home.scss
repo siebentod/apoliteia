@@ -88,12 +88,11 @@ body {
 
   main {
     margin: auto;
-    width: max-content;
+    max-width: max-content;
     // background-color: #ffffff;
     display: grid;
     grid-template-columns: 1fr;
     margin: auto;
-    max-width: 666px;
     // padding-bottom: 8px;
   }
 
