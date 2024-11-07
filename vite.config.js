@@ -49,7 +49,14 @@ const dynamicRoutes = [
 export default {
   plugins: [
     react(),
-    vike({ prerender: true }),
+    vike(
+      { prerender: true },
+      {
+        redirects: {
+          '/platon/symposion': '/plato-symposium',
+        },
+      }
+    ),
     Sitemap({
       hostname: 'https://apoliteia.ru/',
       dynamicRoutes,
