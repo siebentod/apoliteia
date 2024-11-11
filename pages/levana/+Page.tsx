@@ -1,11 +1,11 @@
 import React from 'react';
 import PageComponent from './../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import LevanaOriginal from './../../text/Levana/LevanaOriginal';
 import Levana1 from './../../text/Levana/Levana1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'Levana',
   pageTitle: 'Томас Де Квинси, Левана и Богородицы Скорби',
   pageDescription:
@@ -16,14 +16,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод С.Л. Сухарева'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: [''],
   hasContents: false,
   translationsAlign: null,
   hasFlags: false,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 46.6,
   mainClass: 'center',
   mainStyle: null,

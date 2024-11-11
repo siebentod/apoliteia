@@ -1,11 +1,11 @@
 import React from 'react';
 import PageComponent from './../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import RimbaudUneSaisonEnEnferOriginal from './../../text/RimbaudUneSaisonEnEnfer/RimbaudUneSaisonEnEnferOriginal';
 import RimbaudUneSaisonEnEnfer1 from './../../text/RimbaudUneSaisonEnEnfer/RimbaudUneSaisonEnEnfer1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'RimbaudUneSaisonEnEnfer',
   pageTitle: 'Рембо, Одно лето в аду',
   pageDescription: '«Одно лето в аду» Рембо на французском и русском',
@@ -15,14 +15,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод M.П. Кудинова'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: [''],
   translationsAlign: null,
   hasContents: true,
   hasFlags: false,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   isNumbered: false,
   isTocHidden: false,
   columnsRelation: 49,

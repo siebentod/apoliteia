@@ -1,13 +1,13 @@
 import React from 'react';
 import PageComponent from './../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import SophoclesOedipusTyrannusOriginal from './../../text/SophoclesOedipusTyrannus/SophoclesOedipusTyrannusOriginal';
 //
 import SophoclesOedipusTyrannus1 from './../../text/SophoclesOedipusTyrannus/SophoclesOedipusTyrannus1';
 //
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'SophoclesOedipusTyrannus',
   pageTitle: 'Софокл, Царь Эдип',
   pageDescription: '«Царь Эдип» Софокла на греческом и русском',
@@ -17,14 +17,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод Ф.Ф. Зелинского', 'Перевод С.В. Шервинского'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: ['Ф.Ф. Зелинский', 'С.В. Шервинский'],
   hasContents: true,
   translationsAlign: 'brick',
   hasFlags: false,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 50,
   mainClass: 'mainNoBorders_narrow',
   mainStyle: null,

@@ -1,12 +1,12 @@
 import React from 'react';
 import PageComponent from '../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import PlatoCritoOriginal from './../../text/PlatoCrito/PlatoCritoOriginal';
 import PlatoCritoNumbers from './../../text/PlatoCrito/PlatoCritoNumbers';
 import PlatoCrito1 from './../../text/PlatoCrito/PlatoCrito1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'PlatoCrito',
   pageTitle: 'Критон, Платон',
   pageDescription: '«Критон» Платона на русском и древнегреческом языках',
@@ -16,14 +16,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод М.С. Соловьева', 'Перевод Harold N. Fowler'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: ['Ru', 'En'],
   hasContents: false,
   translationsAlign: 'angle',
   hasFlags: true,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 50,
   mainClass: null,
   mainStyle: null,

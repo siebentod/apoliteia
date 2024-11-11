@@ -1,23 +1,23 @@
-export interface dataClass {
+export type TData = {
   id: string;
   pageTitle: string;
   pageDescription: string;
   pageKeywords: string;
   pageHeader: string;
   translationsInHeader: string[];
-}
+};
 
-export interface tocClass {
+export type TToc = {
   translationsInToc: string[];
   translationsAlign: string | null;
   hasFlags: boolean;
   hasContents: boolean | 'collapsible';
-}
+};
 
-export interface styleClass {
+export type TStyle = {
   columnsRelation: number;
   mainClass: string | null;
   mainStyle: object | null;
   isNumbered: boolean;
   isTocHidden: boolean;
-}
+};

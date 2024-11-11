@@ -1,12 +1,12 @@
 import React from 'react';
 import PageComponent from '../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import PlatoSymposiumOriginal from './../../text/PlatoSymposium/PlatoSymposiumOriginal';
 import PlatoSymposiumNumbers from './../../text/PlatoSymposium/PlatoSymposiumNumbers';
 import PlatoSymposium1 from './../../text/PlatoSymposium/PlatoSymposium1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'PlatoSymposium',
   pageTitle: 'Пир, Платон',
   pageDescription: '«Пир» Платона на русском и древнегреческом языках',
@@ -16,14 +16,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод С.К. Апта', 'Перевод Harold N. Fowler'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: ['Ru', 'En'],
   hasContents: false,
   translationsAlign: 'angle',
   hasFlags: true,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 50,
   mainClass: null,
   mainStyle: null,

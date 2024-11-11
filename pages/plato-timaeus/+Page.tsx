@@ -1,12 +1,12 @@
 import React from 'react';
 import PageComponent from '../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import PlatoTimaeusOriginal from './../../text/PlatoTimaeus/PlatoTimaeusOriginal';
 import PlatoTimaeusNumbers from './../../text/PlatoTimaeus/PlatoTimaeusNumbers';
 import PlatoTimaeus1 from './../../text/PlatoTimaeus/PlatoTimaeus1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'PlatoTimaeus',
   pageTitle: 'Тимей, Платон',
   pageDescription: '«Тимей» Платона на русском и древнегреческом языках',
@@ -16,14 +16,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод С. Аверинцева', 'Перевод W.R.M. Lamb'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: ['Ru', 'En'],
   hasContents: false,
   translationsAlign: 'angle',
   hasFlags: true,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 50,
   mainClass: null,
   mainStyle: null,

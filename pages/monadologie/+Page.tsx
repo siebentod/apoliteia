@@ -1,11 +1,11 @@
 import React from 'react';
 import PageComponent from './../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import MonadologieOriginal from './../../text/Monadologie/MonadologieOriginal';
 import Monadologie1 from './../../text/Monadologie/Monadologie1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'Monadologie',
   pageTitle: 'Лейбниц, Монадология',
   pageDescription: '«Монадология» Лейбница на французском и русском',
@@ -15,14 +15,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод В.П. Преображенского'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: [''],
   hasContents: false,
   translationsAlign: null,
   hasFlags: false,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 48,
   mainClass: null,
   mainStyle: null,

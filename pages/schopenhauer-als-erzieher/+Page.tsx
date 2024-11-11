@@ -1,11 +1,11 @@
 import React from 'react';
 import PageComponent from './../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import SchopenhauerAlsErzieherOriginal from './../../text/SchopenhauerAlsErzieher/SchopenhauerAlsErzieherOriginal';
 import SchopenhauerAlsErzieher1 from './../../text/SchopenhauerAlsErzieher/SchopenhauerAlsErzieher1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'SchopenhauerAlsErzieher',
   pageTitle: 'Шопенгауэр как воспитатель, Ф. Ницше',
   pageDescription:
@@ -16,14 +16,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод изд. «Сочинения в 3-х томах», 1994 г. (?)'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: [''],
   hasContents: false,
   translationsAlign: null,
   hasFlags: false,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 50,
   mainClass: null,
   mainStyle: null,

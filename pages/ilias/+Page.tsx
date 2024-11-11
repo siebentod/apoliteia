@@ -1,12 +1,12 @@
 import React from 'react';
 import PageComponent from './../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import IliasOriginal from './../../text/Ilias/IliasOriginal';
 import IliasNumbers from './../../text/Ilias/IliasNumbers';
 import Ilias1 from './../../text/Ilias/Ilias1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'Ilias',
   pageTitle: 'Гомер, Илиада',
   pageDescription: '«Илиада» Гомера на греческом и русском',
@@ -21,7 +21,7 @@ const dataObject: dataClass = {
   ],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: [
     'В.В. Вересаев',
     'Н.И. Гнедич',
@@ -33,7 +33,7 @@ const tocObject: tocClass = {
   hasContents: true,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 42,
   mainClass: 'main0Borders',
   mainStyle: null,

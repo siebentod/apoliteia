@@ -1,11 +1,11 @@
 import React from 'react';
 import PageComponent from './../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import GayaScienzaOriginal from './../../text/GayaScienza/GayaScienzaOriginal';
 import GayaScienza1 from './../../text/GayaScienza/GayaScienza1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'GayaScienza',
   pageTitle: 'Весёлая наука, Ф. Ницше',
   pageDescription: '«Весёлая наука» Ницше на немецком и русском',
@@ -15,14 +15,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод К.А. Свасьяна (1996)'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: [''],
   hasContents: 'collapsible',
   translationsAlign: null,
   hasFlags: false,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 49,
   mainClass: null,
   mainStyle: null,

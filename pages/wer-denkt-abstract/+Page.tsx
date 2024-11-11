@@ -1,11 +1,11 @@
 import React from 'react';
 import PageComponent from './../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import HegelWerDenktAbstractOriginal from './../../text/HegelWerDenktAbstract/HegelWerDenktAbstractOriginal';
 import HegelWerDenktAbstract1 from './../../text/HegelWerDenktAbstract/HegelWerDenktAbstract1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'HegelWerDenktAbstract',
   pageTitle: 'Гегель, Кто мыслит абстрактно?',
   pageDescription: '«Кто мыслит абстрактно?» Гегеля на немецком и русском',
@@ -15,14 +15,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод Э.В. Ильенкова'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: [''],
   translationsAlign: null,
   hasFlags: false,
   hasContents: false,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 50,
   mainClass: 'center',
   mainStyle: null,

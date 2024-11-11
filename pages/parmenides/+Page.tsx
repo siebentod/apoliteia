@@ -1,12 +1,12 @@
 import React from 'react';
 import PageComponent from './../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import ParmenidesOriginal from './../../text/Parmenides/ParmenidesOriginal';
 
 import Parmenides1 from './../../text/Parmenides/Parmenides1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'Parmenides',
   pageTitle: 'Парменид, О природе',
   pageDescription: 'Поэма «О природе» Парменида на греческом и русском',
@@ -16,13 +16,13 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод М.Л. Гаспарова'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: [''],
   hasContents: true,
   translationsAlign: null,
   hasFlags: false,
 };
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 50,
   mainClass: 'mainNoBorders_wide',
   mainStyle: null,

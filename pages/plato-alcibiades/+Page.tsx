@@ -1,12 +1,12 @@
 import React from 'react';
 import PageComponent from '../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import PlatoAlcibiadesOriginal from './../../text/PlatoAlcibiades/PlatoAlcibiadesOriginal';
 import PlatoAlcibiadesNumbers from './../../text/PlatoAlcibiades/PlatoAlcibiadesNumbers';
 import PlatoAlcibiades1 from './../../text/PlatoAlcibiades/PlatoAlcibiades1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'PlatoAlcibiades',
   pageTitle: 'Алкивиад I, Платон',
   pageDescription: '«Алкивиад I» Платона на русском и древнегреческом языках',
@@ -19,14 +19,14 @@ const dataObject: dataClass = {
   ],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: ['Ru', 'En'],
   hasContents: false,
   translationsAlign: 'angle',
   hasFlags: true,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 50,
   mainClass: null,
   mainStyle: null,

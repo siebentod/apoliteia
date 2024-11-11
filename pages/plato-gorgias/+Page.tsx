@@ -1,12 +1,12 @@
 import React from 'react';
 import PageComponent from '../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import PlatoGorgiasOriginal from './../../text/PlatoGorgias/PlatoGorgiasOriginal';
 import PlatoGorgiasNumbers from './../../text/PlatoGorgias/PlatoGorgiasNumbers';
 import PlatoGorgias1 from './../../text/PlatoGorgias/PlatoGorgias1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'PlatoGorgias',
   pageTitle: 'Горгий, Платон',
   pageDescription: '«Горгий» Платона на русском и древнегреческом языках',
@@ -16,14 +16,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод С.П. Маркиша', 'Перевод W.R.M. Lamb'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: ['Ru', 'En'],
   hasContents: false,
   translationsAlign: 'angle',
   hasFlags: true,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 50,
   mainClass: null,
   mainStyle: null,

@@ -1,11 +1,11 @@
 import React from 'react';
 import PageComponent from './../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import GoetzenDaemmerungOriginal from './../../text/GoetzenDaemmerung/GoetzenDaemmerungOriginal';
 import GoetzenDaemmerung1 from './../../text/GoetzenDaemmerung/GoetzenDaemmerung1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'GoetzenDaemmerung',
   pageTitle: 'Сумерки идолов, Ф. Ницше',
   pageDescription: '«Сумерки идолов» Ницше на немецком и русском',
@@ -15,14 +15,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод Н.Н. Полилова'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: [''],
   hasContents: true,
   translationsAlign: null,
   hasFlags: false,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 49,
   mainClass: null,
   mainStyle: null,

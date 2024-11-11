@@ -1,12 +1,12 @@
 import React from 'react';
 import PageComponent from '../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import PlatoApologiaOriginal from './../../text/PlatoApologia/PlatoApologiaOriginal';
 import PlatoApologiaNumbers from './../../text/PlatoApologia/PlatoApologiaNumbers';
 import PlatoApologia1 from './../../text/PlatoApologia/PlatoApologia1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'PlatoApologia',
   pageTitle: 'Апология, Платон',
   pageDescription: 'Апология Платона на русском и древнегреческом языках',
@@ -16,14 +16,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод М.С. Соловьева', 'Перевод W.R.M. Lamb'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: ['Ru', 'En'],
   hasContents: false,
   translationsAlign: 'angle',
   hasFlags: true,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 48,
   mainClass: null,
   mainStyle: null,

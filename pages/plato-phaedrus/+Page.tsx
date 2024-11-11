@@ -1,12 +1,12 @@
 import React from 'react';
 import PageComponent from '../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import PlatoPhaedrusOriginal from './../../text/PlatoPhaedrus/PlatoPhaedrusOriginal';
 import PlatoPhaedrusNumbers from './../../text/PlatoPhaedrus/PlatoPhaedrusNumbers';
 import PlatoPhaedrus1 from './../../text/PlatoPhaedrus/PlatoPhaedrus1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'PlatoPhaedrus',
   pageTitle: 'Федр, Платон',
   pageDescription: '«Федр» Платона на русском и древнегреческом языках',
@@ -16,14 +16,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод А.Н. Егунова', 'Перевод Harold N. Fowler'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: ['Ru', 'En'],
   hasContents: false,
   translationsAlign: 'angle',
   hasFlags: true,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 50,
   mainClass: null,
   mainStyle: null,

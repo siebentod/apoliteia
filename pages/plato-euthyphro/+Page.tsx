@@ -1,12 +1,12 @@
 import React from 'react';
 import PageComponent from '../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import PlatoEuthyphroOriginal from './../../text/PlatoEuthyphro/PlatoEuthyphroOriginal';
 import PlatoEuthyphroNumbers from './../../text/PlatoEuthyphro/PlatoEuthyphroNumbers';
 import PlatoEuthyphro1 from './../../text/PlatoEuthyphro/PlatoEuthyphro1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'PlatoEuthyphro',
   pageTitle: 'Евтифрон, Платон',
   pageDescription: 'Евтифрон Платона на русском и древнегреческом языках',
@@ -19,14 +19,14 @@ const dataObject: dataClass = {
   ],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: ['Ru', 'En'],
   hasContents: false,
   translationsAlign: 'angle',
   hasFlags: true,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 50,
   mainClass: null,
   mainStyle: null,

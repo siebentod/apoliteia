@@ -1,12 +1,12 @@
 import React from 'react';
 import PageComponent from '../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import PlatoIonOriginal from './../../text/PlatoIon/PlatoIonOriginal';
 import PlatoIonNumbers from './../../text/PlatoIon/PlatoIonNumbers';
 import PlatoIon1 from './../../text/PlatoIon/PlatoIon1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'PlatoIon',
   pageTitle: 'Ион, Платон',
   pageDescription: 'Ион Платона на русском и древнегреческом языках',
@@ -16,14 +16,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод Я.М. Боровского', 'Перевод W.R.M. Lamb'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: ['Ru', 'En'],
   hasContents: false,
   translationsAlign: 'angle',
   hasFlags: true,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 50,
   mainClass: null,
   mainStyle: null,

@@ -1,12 +1,12 @@
 import React from 'react';
 import PageComponent from '../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import PlatoParmenidesOriginal from './../../text/PlatoParmenides/PlatoParmenidesOriginal';
 import PlatoParmenidesNumbers from './../../text/PlatoParmenides/PlatoParmenidesNumbers';
 import PlatoParmenides1 from './../../text/PlatoParmenides/PlatoParmenides1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'PlatoParmenides',
   pageTitle: 'Парменид, Платон',
   pageDescription: '«Парменид» Платона на русском и древнегреческом языках',
@@ -16,14 +16,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод H.И. Томасова', 'Перевод Harold N. Fowler'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: ['Ru', 'En'],
   hasContents: false,
   translationsAlign: 'angle',
   hasFlags: true,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 50,
   mainClass: null,
   mainStyle: null,

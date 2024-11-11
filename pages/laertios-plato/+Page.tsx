@@ -1,12 +1,12 @@
 import React from 'react';
 import PageComponent from './../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import LaertiosPlatoOriginal from './../../text/LaertiosPlato/LaertiosPlatoOriginal';
 import LaertiosPlatoNumbers from './../../text/LaertiosPlato/LaertiosPlatoNumbers';
 import LaertiosPlato1 from './../../text/LaertiosPlato/LaertiosPlato1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'LaertiosPlato',
   pageTitle: 'Д. Лаэртский Кн. 3: Платон',
   pageDescription: 'Книга Д. Лаэртского о Платоне на греческом и русском',
@@ -16,14 +16,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод М.Л. Гаспарова'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: [''],
   hasContents: false,
   translationsAlign: null,
   hasFlags: false,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 50,
   mainClass: null,
   mainStyle: { textIndent: '3% each-line' },

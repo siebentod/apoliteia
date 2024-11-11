@@ -1,12 +1,12 @@
 import React from 'react';
 import PageComponent from './../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import RimbaudIlluminationsOriginal from './../../text/RimbaudIlluminations/RimbaudIlluminationsOriginal';
 
 import RimbaudIlluminations1 from './../../text/RimbaudIlluminations/RimbaudIlluminations1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'RimbaudIlluminations',
   pageTitle: 'Рембо, Озарения',
   pageDescription: '«Озарения» Рембо на французском и русском',
@@ -16,14 +16,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод M.П. Кудинова'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: [''],
   hasContents: true,
   translationsAlign: null,
   hasFlags: false,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 49,
   mainClass: 'mainNoBorders_wide',
   mainStyle: null,

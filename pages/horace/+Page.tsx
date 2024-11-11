@@ -1,12 +1,12 @@
 import React from 'react';
 import PageComponent from './../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import HoraceOriginal from './../../text/Horace/HoraceOriginal';
 
 import Horace1 from './../../text/Horace/Horace1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'Horace',
   pageTitle: 'Гораций, Оды',
   pageDescription: '«Оды» Горация на латыни и на русском',
@@ -16,14 +16,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Изд.: Собрание сочинений, СПб., 1993'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: [''],
   hasContents: 'collapsible',
   translationsAlign: null,
   hasFlags: false,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 47,
   mainClass: 'mainVerses',
   mainStyle: null,

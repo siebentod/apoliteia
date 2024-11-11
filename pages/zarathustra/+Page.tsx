@@ -1,11 +1,11 @@
 import React from 'react';
 import PageComponent from './../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import ZarathustraOriginal from './../../text/Zarathustra/ZarathustraOriginal';
 import Zarathustra1 from './../../text/Zarathustra/Zarathustra1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'Zarathustra',
   pageTitle: 'Так говорил Заратустра, Ф. Ницше',
   pageDescription:
@@ -19,14 +19,14 @@ const dataObject: dataClass = {
   ],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: ['Пер. 1990', 'Пер. 2007'],
   translationsAlign: 'brick',
   hasFlags: false,
   hasContents: 'collapsible',
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 50,
   mainClass: null,
   mainStyle: null,

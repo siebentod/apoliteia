@@ -1,11 +1,11 @@
 import React from 'react';
 import PageComponent from './../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import MenschlichesAllzumenschlichesOriginal from './../../text/MenschlichesAllzumenschliches/MenschlichesAllzumenschlichesOriginal';
 import MenschlichesAllzumenschliches1 from './../../text/MenschlichesAllzumenschliches/MenschlichesAllzumenschliches1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'MenschlichesAllzumenschliches',
   pageTitle: 'Человеческое, слишком человеческое, Ф. Ницше',
   pageDescription:
@@ -16,14 +16,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Пер. В.М. Бакусева'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: [''],
   hasContents: true,
   translationsAlign: null,
   hasFlags: false,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 49,
   mainClass: null,
   mainStyle: null,

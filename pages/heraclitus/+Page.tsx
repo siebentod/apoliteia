@@ -1,12 +1,12 @@
 import React from 'react';
 import PageComponent from './../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import HeraclitusOriginal from './../../text/Heraclitus/HeraclitusOriginal';
 import HeraclitusNumbers from './../../text/Heraclitus/HeraclitusNumbers';
 import Heraclitus1 from './../../text/Heraclitus/Heraclitus1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'Heraclitus',
   pageTitle: 'Гераклит, Фрагменты',
   pageDescription: 'Фрагменты Гераклита в нескольких переводах и в оригинале',
@@ -21,7 +21,7 @@ const dataObject: dataClass = {
   ],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: [
     'Перевод Лебедева 1989',
     'Перевод Лебедева 2014',
@@ -33,7 +33,7 @@ const tocObject: tocClass = {
   hasFlags: false,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 45,
   mainClass: null,
   mainStyle: null,

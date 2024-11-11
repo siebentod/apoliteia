@@ -1,11 +1,11 @@
 import React from 'react';
 import PageComponent from './../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import JenseitsVonGutUndBoeseOriginal from './../../text/JenseitsVonGutUndBoese/JenseitsVonGutUndBoeseOriginal';
 import JenseitsVonGutUndBoese1 from './../../text/JenseitsVonGutUndBoese/JenseitsVonGutUndBoese1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'JenseitsVonGutUndBoese',
   pageTitle: 'По ту сторону добра и зла, Ф. Ницше',
   pageDescription: '«По ту сторону добра и зла» Ницше на немецком и русском',
@@ -15,14 +15,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Пер. Н.Н. Полилова, ред. К.А. Свасьяна'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: [''],
   hasContents: true,
   translationsAlign: null,
   hasFlags: false,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 49,
   mainClass: null,
   mainStyle: null,

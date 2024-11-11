@@ -1,13 +1,13 @@
 import React from 'react';
 import PageComponent from '../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import PlatoPoliteiaOriginal from './../../text/PlatoPoliteia/PlatoPoliteiaOriginal';
 import PlatoPoliteiaNumbers from './../../text/PlatoPoliteia/PlatoPoliteiaNumbers';
 
 import PlatoPoliteia1 from './../../text/PlatoPoliteia/PlatoPoliteia1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'PlatoPoliteia',
   pageTitle: 'Государство, Платон',
   pageDescription:
@@ -18,14 +18,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод А.Н. Егунова', 'Перевод Paul Shorey'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: ['Ru', 'En'],
   hasContents: true,
   translationsAlign: 'horizontal',
   hasFlags: true,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 47,
   mainClass: null,
   mainStyle: null,

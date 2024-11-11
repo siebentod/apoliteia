@@ -1,12 +1,12 @@
 import React from 'react';
 import PageComponent from '../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from './../../renderer/types';
+import { TData, TToc, TStyle } from './../../renderer/types';
 
 import PlatoTheaetetusOriginal from './../../text/PlatoTheaetetus/PlatoTheaetetusOriginal';
 import PlatoTheaetetusNumbers from './../../text/PlatoTheaetetus/PlatoTheaetetusNumbers';
 import PlatoTheaetetus1 from './../../text/PlatoTheaetetus/PlatoTheaetetus1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'PlatoTheaetetus',
   pageTitle: 'Теэтет, Платон',
   pageDescription: '«Теэтет» Платона на русском и древнегреческом языках',
@@ -16,7 +16,7 @@ const dataObject: dataClass = {
   translationsInHeader: ['Перевод Т.В. Васильевой', 'Перевод Harold N. Fowler'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: ['Ru', 'En'],
 
   hasContents: true,
@@ -24,7 +24,7 @@ const tocObject: tocClass = {
   hasFlags: true,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 50,
   mainClass: null,
   mainStyle: null,

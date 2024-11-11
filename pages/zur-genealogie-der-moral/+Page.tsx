@@ -1,11 +1,11 @@
 import React from 'react';
 import PageComponent from '../../components/PageComponent';
-import { dataClass, tocClass, styleClass } from '../../renderer/types';
+import { TData, TToc, TStyle } from '../../renderer/types';
 
 import ZurGenealogieDerMoralOriginal from '../../text/ZurGenealogieDerMoral/ZurGenealogieDerMoralOriginal';
 import ZurGenealogieDerMoral1 from '../../text/ZurGenealogieDerMoral/ZurGenealogieDerMoral1';
 
-const dataObject: dataClass = {
+const dataObject: TData = {
   id: 'ZurGenealogieDerMoral',
   pageTitle: 'К генеалогии морали, Ф. Ницше',
   pageDescription: '«К генеалогии морали» Ницше на немецком и русском',
@@ -15,14 +15,14 @@ const dataObject: dataClass = {
   translationsInHeader: ['Пер. К.А. Свасьяна'],
 };
 
-const tocObject: tocClass = {
+const tocObject: TToc = {
   translationsInToc: [''],
   hasContents: true,
   translationsAlign: null,
   hasFlags: false,
 };
 
-const styleObject: styleClass = {
+const styleObject: TStyle = {
   columnsRelation: 49,
   mainClass: null,
   mainStyle: null,
