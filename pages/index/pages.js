@@ -24,6 +24,14 @@ export const pages = [
     class: 'poesie',
   },
   {
+    path: '/opium-eater',
+    author: 'Де Квинси',
+    title: 'Исповедь англичанина, любителя о...',
+    year: '1822',
+    language: 'Др-гр.',
+    class: 'poesie',
+  },
+  {
     path: '/levana',
     author: 'Де Квинси',
     title: 'Левана и Богородицы Скорби',

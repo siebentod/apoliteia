@@ -16,6 +16,7 @@ const dynamicRoutes = [
   '/menschliches-allzumenschliches',
   '/monadologie',
   '/oedipus-tyrannos',
+  '/opium-eater',
   '/parmenides',
   '/plato-alcibiades',
   '/plato-apologia',
