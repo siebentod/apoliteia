@@ -57,7 +57,7 @@ function OpiumEaterOriginal() {
       intellectual in the highest sense my pursuits and pleasures have been, even
       from my schoolboy days. If opium-eating be a sensual pleasure, and if I am
       bound to confess that I have indulged in it to an excess not yet
-      <i>recorded</i> <a id="citation1"></a><a href="#footnote1" className="pginternal">1</a> of any
+      <i>recorded</i><span className="popUp" id="citation1"><a href="#footnote1">1</a></span> of any
       other man, it is no less true that I have struggled against this fascinating
       enthralment with a religious zeal, and have at length accomplished what I never
       yet heard attributed to any other man—have untwisted, almost to its final
@@ -169,13 +169,13 @@ function OpiumEaterOriginal() {
       is not aware of any known candidate for this honour who can be styled
       emphatically <i>a subtle thinker</i>, with the exception of <i>Samuel Taylor
       Coleridge</i>, and in a narrower department of thought with the recent
-      illustrious exception <a id="citation2"></a><a href="#footnote2" className="pginternal">2</a> of
+      illustrious exception<span className="popUp" id="citation2"><a href="#footnote2">2</a></span> of
       <i>David Ricardo</i>) but also on such a constitution of the <i>moral</i>
       faculties as shall give him an inner eye and power of intuition for the vision
       and the mysteries of our human nature: <i>that</i> constitution of faculties,
       in short, which (amongst all the generations of men that from the beginning of
       time have deployed into life, as it were, upon this planet) our English poets
-      have possessed in the highest degree, and Scottish professors <a id="citation3"></a><a href="#footnote3" className="pginternal">3</a> in the lowest.
+      have possessed in the highest degree, and Scottish professors<span className="popUp" id="citation3"><a href="#footnote3">3</a></span> in the lowest.
       </p>
       <p>
       I have often been asked how I first came to be a regular opium-eater, and have
@@ -840,7 +840,7 @@ function OpiumEaterOriginal() {
       source of profit. No mode sufficiently speedy of obtaining money had ever
       occurred to me but that of borrowing it on the strength of my future claims and
       expectations. This mode I sought by every avenue to compass; and amongst other
-      persons I applied to a Jew named D—— <a id="citation4"></a><a href="#footnote4" className="pginternal">4</a>
+      persons I applied to a Jew named D——<span className="popUp" id="citation4"><a href="#footnote4">4</a></span>
       </p>
       <p>
       To this Jew, and to other advertising money-lenders (some of whom were, I
@@ -934,7 +934,7 @@ function OpiumEaterOriginal() {
       <p>
       It was past eight o’clock when I reached the Gloucester Coffee-house, and the
       Bristol mail being on the point of going off, I mounted on the outside. The
-      fine fluent motion <a id="citation5"></a><a href="#footnote5" className="pginternal">5</a> of this
+      fine fluent motion<span className="popUp" id="citation5"><a href="#footnote5">5</a></span> of this
       mail soon laid me asleep: it is somewhat remarkable that the first easy or
       refreshing sleep which I had enjoyed for some months, was on the outside of a
       mail-coach—a bed which at this day I find rather an uneasy one. Connected
@@ -1003,7 +1003,7 @@ function OpiumEaterOriginal() {
       full use of their natural courage, would, if at the very instant of going into
       action news were brought to them that they had unexpectedly succeeded to an
       estate in England of £50,000 a-year, feel their dislike to bullets
-      considerably sharpened, <a id="citation6"></a><a href="#footnote6" className="pginternal">6</a>
+      considerably sharpened,<span className="popUp" id="citation6"><a href="#footnote6">6</a></span>
       and their efforts at perfect equanimity and self-possession proportionably
       difficult. So true it is, in the language of a wise man whose own experience
       had made him acquainted with both fortunes, that riches are better fitted<br/>
@@ -1200,7 +1200,7 @@ function OpiumEaterOriginal() {
       life and hope. There it was that for years I was persecuted by visions as ugly,
       and as ghastly phantoms as ever haunted the couch of an Orestes; and in this
       unhappier than he, that sleep, which comes to all as a respite and a
-      restoration, and to him especially as a blessed <a id="citation7"></a><a href="#footnote7" className="pginternal">7</a> balm for his wounded heart and his haunted brain,
+      restoration, and to him especially as a blessed<span className="popUp" id="citation7"><a href="#footnote7">7</a></span> balm for his wounded heart and his haunted brain,
       visited me as my bitterest scourge. Thus blind was I in my desires; yet if a
       veil interposes between the dim-sightedness of man and his future calamities,
       the same veil hides from him their alleviations, and a grief which had not been
@@ -1213,15 +1213,15 @@ function OpiumEaterOriginal() {
       dear companion of my later years, thou wast my Electra! and neither in nobility
       of mind nor in long-suffering affection wouldst permit that a Grecian sister
       should excel an English wife. For thou thoughtest not much to stoop to humble
-      offices of kindness and to servile <a id="citation8"></a><a href="#footnote8" className="pginternal">8</a> ministrations of tenderest affection—to wipe
+      offices of kindness and to servile<span className="popUp" id="citation8"><a href="#footnote8">8</a></span> ministrations of tenderest affection—to wipe
       away for years the unwholesome dews upon the forehead, or to refresh the lips
       when parched and baked with fever; nor even when thy own peaceful slumbers had
       by long sympathy become infected with the spectacle of my dread contest with
       phantoms and shadowy enemies that oftentimes bade me “sleep no more!”—not
       even then didst thou utter a complaint or any murmur, nor withdraw thy angelic
       smiles, nor shrink from thy service of love, more than Electra did of old. For
-      she too, though she was a Grecian woman, and the daughter of the king <a id="citation9"></a><a href="#footnote9" className="pginternal">9</a> of men, yet wept sometimes,
-      and hid her face <a id="citation10"></a><a href="#footnote10" className="pginternal">10</a> in her
+      she too, though she was a Grecian woman, and the daughter of the king<span className="popUp" id="citation9"><a href="#footnote9">9</a></span> of men, yet wept sometimes,
+      and hid her face<span className="popUp" id="citation10"><a href="#footnote10">10</a></span> in her
       robe.
       </p>
       <p>
@@ -1284,7 +1284,7 @@ function OpiumEaterOriginal() {
       rather to have vanished from Oxford Street than to have removed in any bodily
       fashion. The reader may choose to think of him as possibly no more than a
       sublunary druggist; it may be so, but my faith is better—I believe him to
-      have evanesced, <a id="citation11"></a><a href="#footnote11" className="pginternal">11</a> or
+      have evanesced,<span className="popUp" id="citation11"><a href="#footnote11">11</a></span> or
       evaporated. So unwillingly would I connect any mortal remembrances with that
       hour, and place, and creature, that first brought me acquainted with the
       celestial drug.
@@ -1333,7 +1333,7 @@ function OpiumEaterOriginal() {
       grant, for in my time East Indian opium has been three guineas a pound, and
       Turkey eight. And thirdly, that if you eat a good deal of it, most probably you
       must do what is particularly disagreeable to any man of regular habits, viz.,
-      die. <a id="citation12"></a><a href="#footnote12" className="pginternal">12</a> These weighty
+      die.<span className="popUp" id="citation12"><a href="#footnote12">12</a></span> These weighty
       propositions are, all and singular, true: I cannot gainsay them, and truth ever
       was, and will be, commendable. But in these three theorems I believe we have
       exhausted the stock of knowledge as yet accumulated by men on the subject of
@@ -1410,7 +1410,7 @@ function OpiumEaterOriginal() {
       This is the doctrine of the true church on the subject of opium: of which
       church I acknowledge myself to be the only member—the alpha and the
       omega: but then it is to be recollected that I speak from the ground of a large
-      and profound personal experience: whereas most of the unscientific <a id="citation13"></a><a href="#footnote13" className="pginternal">13</a> authors who have at all
+      and profound personal experience: whereas most of the unscientific<span className="popUp" id="citation13"><a href="#footnote13">13</a></span> authors who have at all
       treated of opium, and even of those who have written expressly on the materia
       medica, make it evident, from the horror they express of it, that their
       experimental knowledge of its action is none at all. I will, however, candidly
@@ -1511,7 +1511,7 @@ function OpiumEaterOriginal() {
       hears it. And, by-the-bye, with the exception of the fine extravaganza on that
       subject in “Twelfth Night,” I do not recollect more than one thing said
       adequately on the subject of music in all literature; it is a passage in the
-      <i>Religio Medici</i> <a id="citation14"></a><a href="#footnote14" className="pginternal">14</a>
+      <i>Religio Medici</i><span className="popUp" id="citation14"><a href="#footnote14">14</a></span>
       of Sir T. Brown, and though chiefly remarkable for its sublimity, has also a
       philosophic value, inasmuch as it points to the true theory of musical effects.
       The mistake of most people is to suppose that it is by the ear they communicate
@@ -1791,7 +1791,7 @@ function OpiumEaterOriginal() {
       misery, whether my own or not, with an eye of sufficient firmness, and am
       little capable of encountering present pain for the sake of any reversionary
       benefit. On some other matters I can agree with the gentlemen in the cotton
-      trade <a id="citation15"></a><a href="#footnote15" className="pginternal">15</a> at Manchester in
+      trade<span className="popUp" id="citation15"><a href="#footnote15">15</a></span> at Manchester in
       affecting the Stoic philosophy, but not in this. Here I take the liberty of an
       Eclectic philosopher, and I look out for some courteous and considerate sect
       that will condescend more to the infirm condition of an opium-eater; that are
@@ -1841,7 +1841,7 @@ function OpiumEaterOriginal() {
       was a year of brilliant water (to speak after the manner of jewellers), set as
       it were, and insulated, in the gloom and cloudy melancholy of opium. Strange as
       it may sound, I had a little before this time descended suddenly, and without
-      any considerable effort, from 320 grains of opium (<i>i.e</i>. eight <a id="citation16"></a><a href="#footnote16" className="pginternal">16</a> thousand drops of
+      any considerable effort, from 320 grains of opium (<i>i.e</i>. eight<span className="popUp" id="citation16"><a href="#footnote16">16</a></span> thousand drops of
       laudanum) per day, to forty grains, or one-eighth part. Instantaneously, and as
       if by magic, the cloud of profoundest melancholy which rested upon my brain,
       like some black vapours that I have seen roll away from the summits of
@@ -1923,7 +1923,7 @@ function OpiumEaterOriginal() {
       that we were going to sacrifice him to some English idol. No: there was clearly
       no help for it. He took his leave, and for some days I felt anxious, but as I
       never heard of any Malay being found dead, I became convinced that he was used
-      <a id="citation17"></a><a href="#footnote17" className="pginternal">17</a> to opium; and that I
+     <span className="popUp" id="citation17"><a href="#footnote17">17</a></span> to opium; and that I
       must have done him the service I designed by giving him one night of respite
       from the pains of wandering.
       </p>
@@ -1931,7 +1931,7 @@ function OpiumEaterOriginal() {
       This incident I have digressed to mention, because this Malay (partly from the
       picturesque exhibition he assisted to frame, partly from the anxiety I
       connected with his image for some days) fastened afterwards upon my dreams, and
-      brought other Malays with him, worse than himself, that ran “a-muck” <a id="citation18"></a><a href="#footnote18" className="pginternal">18</a> at me, and led me into a
+      brought other Malays with him, worse than himself, that ran “a-muck”<span className="popUp" id="citation18"><a href="#footnote18">18</a></span> at me, and led me into a
       world of troubles. But to quit this episode, and to return to my intercalary
       year of happiness. I have said already, that on a subject so important to us
       all as happiness, we should listen with pleasure to any man’s experience or
@@ -2208,7 +2208,7 @@ function OpiumEaterOriginal() {
       wondered once more: I wondered at myself that I could once again be stimulated
       to the effort of reading, and much more I wondered at the book. Had this
       profound work been really written in England during the nineteenth century? Was
-      it possible? I supposed thinking <a id="citation19"></a><a href="#footnote19" className="pginternal">19</a> had been extinct in England. Could it be that an
+      it possible? I supposed thinking<span className="popUp" id="citation19"><a href="#footnote19">19</a></span> had been extinct in England. Could it be that an
       Englishman, and he not in academic bowers, but oppressed by mercantile and
       senatorial cares, had accomplished what all the universities of Europe and a
       century of thought had failed even to advance by one hair’s breadth? All other
@@ -2702,7 +2702,7 @@ function OpiumEaterOriginal() {
       one, even when four months had passed, still agitated, writhing, throbbing,
       palpitating, shattered, and much perhaps in the situation of him who has been
       racked, as I collect the torments of that state from the affecting account of
-      them left by a most innocent sufferer <a id="citation20"></a><a href="#footnote20" className="pginternal">20</a> of the times of James I. Meantime, I derived no
+      them left by a most innocent sufferer<span className="popUp" id="citation20"><a href="#footnote20">20</a></span> of the times of James I. Meantime, I derived no
       benefit from any medicine, except one prescribed to me by an Edinburgh surgeon
       of great eminence, viz., ammoniated tincture of valerian. Medical account,
       therefore, of my emancipation I have not much to give, and even that little, as
@@ -2906,7 +2906,7 @@ function OpiumEaterOriginal() {
       I call internal rheumatism (sometimes affecting the shoulders, &amp;c., but
       more often appearing to be seated in the stomach)—seemed again less
       probably attributable to the opium, or the want of opium, than to the dampness
-      of the house <a id="citation21"></a><a href="#footnote21" className="pginternal">21</a> which I
+      of the house<span className="popUp" id="citation21"><a href="#footnote21">21</a></span> which I
       inhabit, which had about this time attained its maximum, July having been, as
       usual, a month of incessant rain in our most rainy part of England.
       </p>
@@ -2933,7 +2933,7 @@ function OpiumEaterOriginal() {
       most interested in such a history of opium, viz., to opium-eaters in general,
       that it establishes, for their consolation and encouragement, the fact that
       opium may be renounced, and without greater sufferings than an ordinary
-      resolution may support, and by a pretty rapid course <a id="citation22"></a><a href="#footnote22" className="pginternal">22</a> of descent.
+      resolution may support, and by a pretty rapid course<span className="popUp" id="citation22"><a href="#footnote22">22</a></span> of descent.
       </p>
       <p>
       To communicate this result of my experiment was my foremost purpose. Secondly,
