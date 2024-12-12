@@ -1,7 +1,7 @@
 import { Helmet } from 'react-helmet';
 import qrCode from './qrCode.png';
 import './home.scss';
-import './fonts.css';
+import '../../components/fonts.css';
 import './spoiler.scss';
 
 export default function Page() {
