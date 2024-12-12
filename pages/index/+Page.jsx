@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Helmet } from 'react-helmet';
 import './home.scss';
 import './table.scss';
-import '../../renderer/fonts.css';
+import './fonts.css';
 import { pages } from './pages';
 import HomeTable from './HomeTable';
 
