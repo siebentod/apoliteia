@@ -26,7 +26,7 @@ export const pages = [
   {
     path: '/opium-eater',
     author: 'Де Квинси',
-    title: 'Исповедь англичанина, любителя о...',
+    title: 'Исповедь англичанина, любителя опиума',
     year: '1822',
     language: 'Др-гр.',
     class: 'poesie',

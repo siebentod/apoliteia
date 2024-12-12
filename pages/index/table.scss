@@ -59,8 +59,6 @@
     box-shadow: #e7e7e7 0px 0px 0px 0.5px inset;
     background-color: rgba(255, 255, 255);
     min-width: 0;
-    display: grid;
-    align-items: center;
     color: black !important;
     &:nth-last-child(n + 3) {
       border-bottom: none;
