@@ -1,7 +1,7 @@
 function ZarathustraOriginal() {
   return (
     <>
-      <h1 id="titel">
+      <h1 id="start">
         Also sprach Zarathustra
         <br />
         Ein Buch für Alle und Keinen (1883-1885)
