@@ -188,13 +188,14 @@ body {
       display: flex;
       justify-content: center;
       align-items: center;
-      padding: 0.4rem;
+      padding: 4px 0.4rem;
+      font-size: 13px;
       flex: 1;
-      background-color: hsl(296, 20%, 95%);
+      background-color: #7587a8;
       // width: 110px;
       cursor: pointer;
       border: 0;
-      color: black;
+      color: rgb(255, 255, 255);
     }
 
     .buttonPlato:first-child {
@@ -208,11 +209,11 @@ body {
 
     .chosen {
       font-weight: 800;
-      background-color: hsl(266, 39%, 93%);
+      background-color: hsl(219, 23%, 52%)
     }
 
     .buttonPlato:hover {
-      background-color: hsl(266, 39%, 93%);
+      background-color: hsl(219, 23%, 52%);
     }
   }
 
